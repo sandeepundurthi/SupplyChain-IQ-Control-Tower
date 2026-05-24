@@ -146,6 +146,10 @@ The model was optimized for operational risk detection rather than raw accuracy 
 <img width="1440" height="777" alt="Screenshot 2026-05-24 at 00 23 23" src="https://github.com/user-attachments/assets/f36af9b7-16da-4bdd-89f3-0279c3e2200f" />
 <img width="1440" height="778" alt="Screenshot 2026-05-24 at 00 23 39" src="https://github.com/user-attachments/assets/57d650d7-97d8-4db6-aff2-44df50e8a681" />
 <img width="1440" height="772" alt="Screenshot 2026-05-24 at 00 23 55" src="https://github.com/user-attachments/assets/7924c73a-4429-409c-9744-c5c6b06bed54" />
+<img width="1429" height="504" alt="Screenshot 2026-05-24 at 00 25 48" src="https://github.com/user-attachments/assets/24a2576c-0bac-4e82-b4af-2aafd3b3f73c" />
+<img width="806" height="393" alt="Screenshot 2026-05-24 at 00 26 01" src="https://github.com/user-attachments/assets/4b78c8b1-ab69-4b2e-8e68-accd9fdb487d" />
+
+
 
 
 ---
