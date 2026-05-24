@@ -1,0 +1,501 @@
+product_id,product_category,unit_price,supplier_id
+1,Apparel,257.57,19
+2,Home Goods,414.96,36
+3,Office Supplies,166.82,29
+4,Home Goods,448.81,60
+5,Home Goods,200.71,2
+6,Furniture,15.31,1
+7,Office Supplies,453.64,47
+8,Office Supplies,54.73,69
+9,Office Supplies,166.46,20
+10,Home Goods,475.53,11
+11,Apparel,475.8,2
+12,Office Supplies,290.98,67
+13,Home Goods,319.6,12
+14,Furniture,229.74,20
+15,Apparel,153.67,5
+16,Furniture,171.05,37
+17,Apparel,339.53,38
+18,Home Goods,378.66,9
+19,Electronics,397.87,53
+20,Apparel,396.91,44
+21,Furniture,54.69,24
+22,Home Goods,252.27,74
+23,Apparel,38.2,30
+24,Electronics,279.27,59
+25,Electronics,226.35,14
+26,Office Supplies,444.98,9
+27,Office Supplies,181.95,40
+28,Furniture,67.36,66
+29,Apparel,80.07,25
+30,Apparel,383.14,73
+31,Office Supplies,312.93,22
+32,Apparel,59.55,4
+33,Apparel,51.21,26
+34,Electronics,353.47,58
+35,Office Supplies,45.65,29
+36,Home Goods,412.71,37
+37,Office Supplies,356.06,75
+38,Home Goods,49.86,70
+39,Electronics,51.57,18
+40,Furniture,493.45,42
+41,Apparel,193.39,41
+42,Electronics,191.61,38
+43,Apparel,408.27,34
+44,Furniture,474.15,17
+45,Furniture,493.14,37
+46,Electronics,379.16,25
+47,Furniture,194.37,76
+48,Home Goods,50.92,27
+49,Furniture,390.8,57
+50,Apparel,283.62,31
+51,Apparel,217.87,6
+52,Apparel,454.11,40
+53,Apparel,64.49,12
+54,Home Goods,251.39,53
+55,Office Supplies,15.56,71
+56,Electronics,239.64,10
+57,Apparel,37.59,45
+58,Furniture,68.22,17
+59,Apparel,67.59,26
+60,Furniture,328.11,62
+61,Furniture,375.56,46
+62,Apparel,295.85,64
+63,Home Goods,481.46,2
+64,Furniture,193.69,54
+65,Furniture,150.0,65
+66,Apparel,435.61,51
+67,Furniture,119.56,53
+68,Furniture,481.98,36
+69,Apparel,15.96,26
+70,Apparel,485.24,29
+71,Electronics,31.15,21
+72,Home Goods,446.66,11
+73,Home Goods,268.57,40
+74,Furniture,496.55,11
+75,Home Goods,46.16,36
+76,Furniture,281.39,59
+77,Electronics,484.96,39
+78,Apparel,266.32,54
+79,Apparel,318.41,55
+80,Apparel,350.92,24
+81,Home Goods,232.73,22
+82,Electronics,317.5,69
+83,Home Goods,296.31,56
+84,Home Goods,451.57,33
+85,Electronics,32.27,36
+86,Electronics,147.67,20
+87,Electronics,475.7,62
+88,Electronics,446.23,73
+89,Apparel,233.27,26
+90,Office Supplies,313.86,66
+91,Office Supplies,145.92,73
+92,Electronics,102.18,73
+93,Office Supplies,237.21,40
+94,Office Supplies,183.14,17
+95,Electronics,295.99,1
+96,Office Supplies,48.09,61
+97,Home Goods,487.45,43
+98,Furniture,493.24,42
+99,Furniture,352.1,25
+100,Electronics,272.69,39
+101,Apparel,161.67,35
+102,Electronics,408.76,3
+103,Apparel,345.52,44
+104,Furniture,89.68,51
+105,Electronics,456.35,12
+106,Home Goods,413.04,19
+107,Office Supplies,475.4,44
+108,Apparel,365.6,59
+109,Office Supplies,310.57,49
+110,Office Supplies,214.94,61
+111,Electronics,467.04,17
+112,Office Supplies,434.37,74
+113,Home Goods,32.16,57
+114,Office Supplies,22.92,55
+115,Electronics,194.47,47
+116,Home Goods,407.17,12
+117,Furniture,493.77,62
+118,Office Supplies,83.7,80
+119,Electronics,301.12,8
+120,Furniture,196.64,21
+121,Furniture,485.26,80
+122,Apparel,422.64,70
+123,Home Goods,420.78,72
+124,Office Supplies,239.66,25
+125,Electronics,213.26,12
+126,Apparel,143.97,15
+127,Home Goods,37.62,59
+128,Apparel,433.71,26
+129,Home Goods,408.32,26
+130,Home Goods,499.86,47
+131,Office Supplies,498.35,32
+132,Home Goods,282.16,10
+133,Apparel,386.8,16
+134,Home Goods,472.94,71
+135,Office Supplies,426.33,17
+136,Office Supplies,131.2,23
+137,Apparel,230.77,26
+138,Furniture,73.29,7
+139,Furniture,477.49,14
+140,Home Goods,307.03,79
+141,Electronics,122.03,7
+142,Home Goods,339.13,9
+143,Apparel,312.88,48
+144,Apparel,185.5,72
+145,Apparel,65.64,59
+146,Apparel,339.07,39
+147,Apparel,264.95,18
+148,Office Supplies,388.44,59
+149,Furniture,264.88,17
+150,Apparel,427.57,14
+151,Electronics,280.43,31
+152,Electronics,284.86,24
+153,Electronics,439.56,60
+154,Electronics,207.71,45
+155,Office Supplies,75.67,3
+156,Electronics,24.1,37
+157,Apparel,380.02,43
+158,Home Goods,313.95,40
+159,Electronics,355.0,55
+160,Office Supplies,114.35,39
+161,Office Supplies,76.82,15
+162,Electronics,17.13,4
+163,Home Goods,181.79,25
+164,Electronics,299.06,13
+165,Office Supplies,202.2,33
+166,Furniture,224.36,16
+167,Apparel,453.04,42
+168,Office Supplies,180.65,66
+169,Electronics,261.85,55
+170,Apparel,393.99,42
+171,Electronics,204.31,34
+172,Electronics,314.82,30
+173,Furniture,432.56,13
+174,Apparel,475.27,13
+175,Apparel,82.07,18
+176,Furniture,464.03,32
+177,Office Supplies,251.14,39
+178,Electronics,136.54,46
+179,Home Goods,234.98,29
+180,Electronics,490.22,62
+181,Electronics,251.38,62
+182,Office Supplies,171.09,57
+183,Electronics,320.37,16
+184,Furniture,127.67,56
+185,Furniture,47.17,10
+186,Apparel,73.15,30
+187,Home Goods,72.74,25
+188,Electronics,84.43,5
+189,Electronics,78.03,65
+190,Office Supplies,324.03,49
+191,Furniture,99.12,3
+192,Home Goods,179.38,45
+193,Apparel,449.43,14
+194,Furniture,242.24,30
+195,Apparel,337.1,68
+196,Office Supplies,94.44,18
+197,Office Supplies,104.22,62
+198,Electronics,30.03,37
+199,Home Goods,92.78,25
+200,Apparel,146.51,48
+201,Furniture,96.74,65
+202,Office Supplies,53.46,53
+203,Electronics,69.11,79
+204,Electronics,235.78,73
+205,Apparel,111.1,15
+206,Office Supplies,188.49,49
+207,Home Goods,256.67,68
+208,Office Supplies,348.29,12
+209,Apparel,29.26,59
+210,Apparel,401.71,37
+211,Office Supplies,317.67,61
+212,Apparel,50.06,43
+213,Office Supplies,438.05,70
+214,Furniture,461.23,39
+215,Office Supplies,39.93,56
+216,Office Supplies,145.67,63
+217,Apparel,405.04,46
+218,Apparel,376.65,11
+219,Electronics,100.42,62
+220,Electronics,112.58,77
+221,Furniture,191.53,25
+222,Electronics,247.42,71
+223,Office Supplies,312.94,52
+224,Apparel,190.77,4
+225,Electronics,236.64,59
+226,Electronics,376.26,72
+227,Furniture,27.97,20
+228,Furniture,133.69,63
+229,Office Supplies,359.54,54
+230,Apparel,448.65,74
+231,Furniture,260.72,57
+232,Electronics,270.74,41
+233,Apparel,62.51,3
+234,Apparel,229.23,6
+235,Electronics,270.98,5
+236,Furniture,128.81,5
+237,Electronics,141.93,54
+238,Apparel,194.87,47
+239,Home Goods,19.83,49
+240,Home Goods,167.82,9
+241,Office Supplies,113.61,20
+242,Electronics,170.47,61
+243,Electronics,68.68,35
+244,Office Supplies,446.36,50
+245,Office Supplies,300.86,62
+246,Office Supplies,342.76,17
+247,Apparel,396.69,3
+248,Electronics,254.24,32
+249,Apparel,52.59,13
+250,Office Supplies,273.18,73
+251,Electronics,297.55,68
+252,Apparel,375.27,14
+253,Apparel,221.51,11
+254,Office Supplies,72.51,56
+255,Electronics,149.05,67
+256,Office Supplies,187.91,29
+257,Electronics,326.5,9
+258,Home Goods,289.68,67
+259,Furniture,184.49,25
+260,Furniture,493.39,76
+261,Furniture,306.83,42
+262,Office Supplies,126.24,9
+263,Home Goods,59.87,79
+264,Electronics,84.9,40
+265,Apparel,130.52,25
+266,Electronics,88.73,5
+267,Apparel,101.42,11
+268,Electronics,149.7,59
+269,Home Goods,94.95,79
+270,Apparel,449.42,38
+271,Office Supplies,49.31,72
+272,Electronics,267.01,5
+273,Electronics,211.09,48
+274,Apparel,491.37,18
+275,Office Supplies,64.9,70
+276,Office Supplies,204.95,37
+277,Home Goods,485.04,60
+278,Office Supplies,434.1,48
+279,Office Supplies,410.37,77
+280,Office Supplies,136.37,28
+281,Furniture,93.73,69
+282,Home Goods,337.64,77
+283,Electronics,465.39,40
+284,Apparel,282.81,45
+285,Electronics,290.09,62
+286,Home Goods,147.19,58
+287,Apparel,387.05,67
+288,Home Goods,101.65,56
+289,Office Supplies,168.6,40
+290,Apparel,218.46,40
+291,Office Supplies,258.73,77
+292,Electronics,128.78,33
+293,Electronics,66.27,6
+294,Apparel,309.2,19
+295,Apparel,151.43,80
+296,Home Goods,294.81,40
+297,Home Goods,85.64,59
+298,Office Supplies,245.76,59
+299,Apparel,270.97,48
+300,Electronics,35.39,41
+301,Home Goods,174.94,13
+302,Home Goods,75.86,45
+303,Electronics,41.05,53
+304,Home Goods,495.08,42
+305,Office Supplies,167.95,63
+306,Apparel,406.84,27
+307,Electronics,134.77,38
+308,Apparel,343.94,60
+309,Home Goods,382.51,7
+310,Home Goods,301.86,5
+311,Electronics,241.07,45
+312,Office Supplies,211.8,58
+313,Furniture,180.95,31
+314,Electronics,465.47,23
+315,Furniture,417.0,42
+316,Furniture,482.86,10
+317,Office Supplies,70.91,32
+318,Furniture,368.13,53
+319,Furniture,469.79,30
+320,Office Supplies,98.8,39
+321,Furniture,42.58,31
+322,Furniture,373.15,2
+323,Furniture,291.49,78
+324,Electronics,422.5,77
+325,Electronics,78.49,12
+326,Electronics,399.68,39
+327,Office Supplies,108.8,66
+328,Home Goods,90.19,13
+329,Furniture,90.49,46
+330,Furniture,409.14,27
+331,Office Supplies,335.95,17
+332,Furniture,266.3,60
+333,Electronics,185.83,64
+334,Home Goods,439.83,35
+335,Apparel,202.3,70
+336,Furniture,410.13,30
+337,Electronics,225.18,71
+338,Apparel,194.7,74
+339,Home Goods,236.71,63
+340,Apparel,157.68,28
+341,Electronics,376.33,60
+342,Apparel,256.33,79
+343,Office Supplies,123.78,37
+344,Apparel,450.79,22
+345,Furniture,198.11,68
+346,Furniture,276.34,20
+347,Office Supplies,454.17,68
+348,Electronics,315.88,64
+349,Furniture,67.28,17
+350,Home Goods,470.52,12
+351,Furniture,317.58,22
+352,Furniture,174.1,17
+353,Electronics,78.24,10
+354,Apparel,399.07,65
+355,Furniture,313.84,22
+356,Office Supplies,271.4,50
+357,Apparel,448.01,14
+358,Home Goods,396.41,64
+359,Electronics,84.32,47
+360,Home Goods,162.74,29
+361,Apparel,131.76,76
+362,Apparel,374.53,36
+363,Apparel,26.43,52
+364,Home Goods,289.25,76
+365,Apparel,383.6,7
+366,Home Goods,439.62,29
+367,Apparel,177.62,11
+368,Office Supplies,412.42,33
+369,Apparel,64.21,6
+370,Home Goods,424.76,79
+371,Furniture,72.47,32
+372,Apparel,204.67,51
+373,Furniture,400.67,75
+374,Office Supplies,83.46,58
+375,Electronics,122.33,26
+376,Office Supplies,363.9,46
+377,Apparel,362.82,29
+378,Furniture,324.16,4
+379,Furniture,350.03,13
+380,Home Goods,275.93,39
+381,Furniture,133.38,15
+382,Home Goods,179.39,29
+383,Electronics,98.98,29
+384,Apparel,455.14,75
+385,Home Goods,295.86,32
+386,Electronics,206.42,2
+387,Furniture,236.38,47
+388,Furniture,474.17,78
+389,Electronics,85.14,22
+390,Furniture,297.25,75
+391,Electronics,257.89,27
+392,Home Goods,309.61,67
+393,Home Goods,18.87,56
+394,Electronics,437.34,21
+395,Home Goods,466.74,47
+396,Home Goods,286.92,80
+397,Home Goods,351.36,59
+398,Office Supplies,462.02,6
+399,Apparel,356.55,19
+400,Furniture,84.74,57
+401,Office Supplies,292.38,69
+402,Home Goods,307.29,3
+403,Electronics,217.82,1
+404,Home Goods,370.86,58
+405,Apparel,467.84,38
+406,Home Goods,463.53,15
+407,Electronics,230.91,34
+408,Apparel,65.49,61
+409,Home Goods,492.57,35
+410,Apparel,421.06,64
+411,Furniture,71.08,25
+412,Furniture,461.21,24
+413,Home Goods,436.25,12
+414,Apparel,264.23,18
+415,Electronics,299.72,15
+416,Home Goods,205.51,80
+417,Furniture,36.83,27
+418,Furniture,174.25,72
+419,Home Goods,403.4,60
+420,Apparel,12.27,46
+421,Furniture,173.41,17
+422,Apparel,205.1,53
+423,Furniture,273.32,8
+424,Furniture,460.73,79
+425,Office Supplies,179.71,27
+426,Furniture,180.01,46
+427,Electronics,371.38,50
+428,Home Goods,231.59,71
+429,Home Goods,120.06,3
+430,Apparel,231.7,64
+431,Furniture,79.02,44
+432,Electronics,96.43,53
+433,Apparel,254.2,24
+434,Office Supplies,215.27,60
+435,Apparel,458.27,3
+436,Apparel,187.57,20
+437,Furniture,294.49,46
+438,Office Supplies,319.81,15
+439,Apparel,16.42,25
+440,Electronics,335.13,78
+441,Electronics,97.24,71
+442,Home Goods,480.92,17
+443,Office Supplies,82.84,9
+444,Office Supplies,213.17,38
+445,Home Goods,51.82,48
+446,Apparel,498.47,60
+447,Office Supplies,256.08,63
+448,Electronics,301.74,2
+449,Electronics,42.87,72
+450,Furniture,377.48,11
+451,Office Supplies,112.85,64
+452,Apparel,450.05,77
+453,Home Goods,110.52,72
+454,Home Goods,103.44,21
+455,Apparel,27.91,18
+456,Furniture,241.31,64
+457,Home Goods,286.77,38
+458,Office Supplies,42.2,32
+459,Furniture,390.01,11
+460,Office Supplies,232.11,45
+461,Electronics,266.95,33
+462,Furniture,225.97,41
+463,Home Goods,206.37,8
+464,Furniture,284.22,11
+465,Furniture,86.07,51
+466,Furniture,99.14,41
+467,Furniture,432.27,17
+468,Office Supplies,473.6,76
+469,Electronics,192.92,46
+470,Apparel,142.66,32
+471,Furniture,325.56,79
+472,Home Goods,210.28,80
+473,Furniture,22.44,54
+474,Home Goods,86.51,20
+475,Office Supplies,360.83,33
+476,Home Goods,332.87,74
+477,Apparel,23.28,40
+478,Electronics,118.77,32
+479,Home Goods,123.23,2
+480,Home Goods,339.23,33
+481,Electronics,19.66,77
+482,Apparel,61.01,30
+483,Furniture,401.96,33
+484,Home Goods,97.49,77
+485,Electronics,329.85,26
+486,Office Supplies,126.71,22
+487,Electronics,58.73,66
+488,Office Supplies,129.15,38
+489,Apparel,363.91,46
+490,Furniture,429.29,15
+491,Electronics,416.81,44
+492,Home Goods,204.62,49
+493,Apparel,337.36,75
+494,Electronics,110.44,61
+495,Home Goods,153.64,67
+496,Electronics,449.2,6
+497,Office Supplies,16.37,9
+498,Electronics,51.9,6
+499,Electronics,111.86,73
+500,Electronics,23.0,32

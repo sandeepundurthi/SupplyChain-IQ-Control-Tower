@@ -1,0 +1,10 @@
+metric,value
+Total Orders,50000.0
+Total Sales,62436684.28
+Total Shipping Cost,2436918.73
+Total Gross Margin,59999765.55
+On-Time Delivery Rate,74.53
+Delay Rate,25.47
+Average Delay Days,1.27
+Average Delivery Cycle Days,3.77
+Gross Margin %,96.1

@@ -1,0 +1,8001 @@
+customer_id,customer_region,customer_segment
+1,West,Corporate
+2,Midwest,Corporate
+3,Midwest,Small Business
+4,East,Corporate
+5,East,Corporate
+6,Midwest,Corporate
+7,South,Consumer
+8,Midwest,Corporate
+9,East,Small Business
+10,West,Small Business
+11,West,Corporate
+12,South,Corporate
+13,Midwest,Corporate
+14,West,Small Business
+15,Midwest,Small Business
+16,East,Consumer
+17,West,Consumer
+18,South,Consumer
+19,East,Small Business
+20,South,Consumer
+21,East,Corporate
+22,West,Corporate
+23,South,Small Business
+24,South,Consumer
+25,East,Corporate
+26,South,Small Business
+27,East,Consumer
+28,East,Corporate
+29,East,Consumer
+30,East,Small Business
+31,West,Consumer
+32,East,Small Business
+33,Midwest,Consumer
+34,South,Corporate
+35,Midwest,Small Business
+36,West,Small Business
+37,Midwest,Small Business
+38,South,Consumer
+39,Midwest,Consumer
+40,West,Corporate
+41,East,Small Business
+42,Midwest,Small Business
+43,West,Consumer
+44,West,Consumer
+45,South,Corporate
+46,South,Corporate
+47,Midwest,Consumer
+48,East,Small Business
+49,West,Corporate
+50,Midwest,Consumer
+51,West,Consumer
+52,West,Small Business
+53,East,Consumer
+54,East,Consumer
+55,Midwest,Corporate
+56,East,Consumer
+57,East,Consumer
+58,Midwest,Corporate
+59,East,Small Business
+60,South,Small Business
+61,West,Corporate
+62,West,Corporate
+63,West,Small Business
+64,West,Small Business
+65,Midwest,Small Business
+66,West,Small Business
+67,West,Small Business
+68,West,Corporate
+69,West,Consumer
+70,South,Small Business
+71,West,Small Business
+72,South,Consumer
+73,Midwest,Consumer
+74,East,Consumer
+75,West,Consumer
+76,East,Consumer
+77,East,Consumer
+78,Midwest,Corporate
+79,East,Consumer
+80,South,Consumer
+81,East,Corporate
+82,East,Consumer
+83,East,Small Business
+84,West,Small Business
+85,West,Consumer
+86,South,Corporate
+87,South,Small Business
+88,West,Corporate
+89,South,Small Business
+90,West,Consumer
+91,Midwest,Corporate
+92,East,Corporate
+93,East,Corporate
+94,South,Small Business
+95,West,Small Business
+96,West,Small Business
+97,South,Consumer
+98,West,Small Business
+99,Midwest,Consumer
+100,East,Corporate
+101,South,Corporate
+102,South,Consumer
+103,West,Small Business
+104,South,Consumer
+105,Midwest,Corporate
+106,West,Corporate
+107,West,Consumer
+108,West,Small Business
+109,West,Small Business
+110,Midwest,Consumer
+111,West,Consumer
+112,South,Small Business
+113,Midwest,Corporate
+114,East,Consumer
+115,East,Small Business
+116,South,Small Business
+117,South,Corporate
+118,Midwest,Corporate
+119,East,Corporate
+120,East,Corporate
+121,East,Corporate
+122,East,Consumer
+123,East,Small Business
+124,West,Consumer
+125,South,Consumer
+126,West,Consumer
+127,East,Consumer
+128,Midwest,Consumer
+129,Midwest,Corporate
+130,East,Corporate
+131,East,Small Business
+132,Midwest,Consumer
+133,West,Small Business
+134,West,Corporate
+135,East,Corporate
+136,West,Corporate
+137,Midwest,Consumer
+138,West,Consumer
+139,East,Corporate
+140,Midwest,Small Business
+141,West,Small Business
+142,South,Corporate
+143,Midwest,Small Business
+144,Midwest,Corporate
+145,South,Small Business
+146,South,Corporate
+147,Midwest,Small Business
+148,South,Consumer
+149,East,Corporate
+150,East,Corporate
+151,East,Small Business
+152,Midwest,Corporate
+153,South,Corporate
+154,South,Corporate
+155,West,Consumer
+156,West,Consumer
+157,South,Small Business
+158,South,Consumer
+159,South,Small Business
+160,Midwest,Consumer
+161,South,Small Business
+162,West,Consumer
+163,Midwest,Consumer
+164,South,Small Business
+165,West,Corporate
+166,Midwest,Corporate
+167,South,Consumer
+168,South,Small Business
+169,South,Corporate
+170,Midwest,Small Business
+171,West,Corporate
+172,West,Small Business
+173,East,Consumer
+174,South,Small Business
+175,East,Corporate
+176,East,Consumer
+177,West,Small Business
+178,Midwest,Corporate
+179,Midwest,Consumer
+180,West,Small Business
+181,Midwest,Corporate
+182,East,Small Business
+183,South,Small Business
+184,West,Consumer
+185,South,Consumer
+186,Midwest,Corporate
+187,South,Consumer
+188,Midwest,Corporate
+189,Midwest,Small Business
+190,East,Small Business
+191,Midwest,Corporate
+192,East,Small Business
+193,East,Consumer
+194,East,Small Business
+195,West,Consumer
+196,West,Corporate
+197,Midwest,Corporate
+198,East,Small Business
+199,West,Small Business
+200,East,Consumer
+201,South,Consumer
+202,South,Small Business
+203,South,Small Business
+204,Midwest,Corporate
+205,East,Corporate
+206,South,Corporate
+207,West,Small Business
+208,South,Small Business
+209,South,Small Business
+210,South,Corporate
+211,Midwest,Small Business
+212,West,Consumer
+213,East,Small Business
+214,West,Small Business
+215,East,Small Business
+216,Midwest,Small Business
+217,Midwest,Small Business
+218,Midwest,Consumer
+219,Midwest,Consumer
+220,East,Small Business
+221,South,Corporate
+222,East,Small Business
+223,West,Small Business
+224,Midwest,Small Business
+225,Midwest,Corporate
+226,West,Corporate
+227,East,Corporate
+228,South,Consumer
+229,South,Corporate
+230,West,Consumer
+231,South,Consumer
+232,East,Corporate
+233,East,Corporate
+234,West,Corporate
+235,East,Consumer
+236,Midwest,Small Business
+237,West,Corporate
+238,East,Corporate
+239,West,Corporate
+240,South,Consumer
+241,East,Consumer
+242,Midwest,Small Business
+243,East,Corporate
+244,West,Consumer
+245,West,Small Business
+246,East,Corporate
+247,Midwest,Consumer
+248,Midwest,Corporate
+249,Midwest,Corporate
+250,West,Consumer
+251,East,Consumer
+252,South,Consumer
+253,West,Corporate
+254,Midwest,Corporate
+255,East,Small Business
+256,Midwest,Corporate
+257,South,Consumer
+258,Midwest,Corporate
+259,Midwest,Small Business
+260,South,Small Business
+261,East,Consumer
+262,West,Consumer
+263,East,Small Business
+264,South,Small Business
+265,Midwest,Small Business
+266,East,Consumer
+267,West,Small Business
+268,South,Small Business
+269,East,Consumer
+270,West,Corporate
+271,South,Corporate
+272,West,Small Business
+273,South,Corporate
+274,Midwest,Corporate
+275,East,Corporate
+276,West,Corporate
+277,South,Small Business
+278,West,Corporate
+279,West,Corporate
+280,East,Consumer
+281,Midwest,Small Business
+282,West,Consumer
+283,South,Consumer
+284,South,Small Business
+285,Midwest,Corporate
+286,South,Consumer
+287,Midwest,Small Business
+288,South,Corporate
+289,East,Small Business
+290,West,Consumer
+291,East,Corporate
+292,West,Corporate
+293,West,Small Business
+294,West,Corporate
+295,East,Consumer
+296,West,Consumer
+297,East,Consumer
+298,Midwest,Small Business
+299,South,Corporate
+300,South,Corporate
+301,West,Corporate
+302,East,Consumer
+303,South,Corporate
+304,East,Consumer
+305,East,Corporate
+306,West,Consumer
+307,South,Corporate
+308,West,Small Business
+309,West,Small Business
+310,South,Consumer
+311,South,Consumer
+312,Midwest,Corporate
+313,Midwest,Corporate
+314,East,Small Business
+315,South,Corporate
+316,Midwest,Consumer
+317,East,Consumer
+318,East,Consumer
+319,East,Consumer
+320,Midwest,Consumer
+321,South,Small Business
+322,West,Small Business
+323,East,Consumer
+324,Midwest,Corporate
+325,Midwest,Consumer
+326,West,Small Business
+327,West,Consumer
+328,Midwest,Small Business
+329,South,Small Business
+330,West,Consumer
+331,Midwest,Consumer
+332,West,Corporate
+333,South,Small Business
+334,East,Corporate
+335,West,Consumer
+336,South,Small Business
+337,Midwest,Corporate
+338,West,Corporate
+339,West,Corporate
+340,Midwest,Consumer
+341,East,Consumer
+342,Midwest,Consumer
+343,West,Small Business
+344,Midwest,Consumer
+345,South,Small Business
+346,Midwest,Corporate
+347,West,Corporate
+348,Midwest,Consumer
+349,East,Corporate
+350,Midwest,Consumer
+351,East,Small Business
+352,South,Corporate
+353,East,Consumer
+354,Midwest,Corporate
+355,West,Corporate
+356,East,Consumer
+357,South,Corporate
+358,East,Corporate
+359,East,Corporate
+360,East,Corporate
+361,South,Small Business
+362,Midwest,Corporate
+363,East,Corporate
+364,East,Consumer
+365,West,Small Business
+366,South,Consumer
+367,East,Consumer
+368,South,Consumer
+369,East,Small Business
+370,Midwest,Consumer
+371,Midwest,Consumer
+372,East,Consumer
+373,Midwest,Corporate
+374,East,Consumer
+375,Midwest,Small Business
+376,West,Small Business
+377,West,Corporate
+378,West,Small Business
+379,South,Small Business
+380,South,Corporate
+381,West,Consumer
+382,South,Corporate
+383,Midwest,Consumer
+384,East,Consumer
+385,East,Small Business
+386,East,Corporate
+387,West,Small Business
+388,South,Small Business
+389,Midwest,Consumer
+390,Midwest,Small Business
+391,West,Corporate
+392,Midwest,Small Business
+393,Midwest,Small Business
+394,Midwest,Consumer
+395,Midwest,Corporate
+396,South,Small Business
+397,Midwest,Consumer
+398,East,Small Business
+399,West,Corporate
+400,South,Small Business
+401,Midwest,Small Business
+402,South,Consumer
+403,Midwest,Small Business
+404,East,Consumer
+405,West,Corporate
+406,Midwest,Small Business
+407,Midwest,Corporate
+408,Midwest,Corporate
+409,Midwest,Small Business
+410,West,Consumer
+411,West,Corporate
+412,East,Corporate
+413,West,Small Business
+414,Midwest,Small Business
+415,East,Small Business
+416,East,Small Business
+417,East,Small Business
+418,Midwest,Small Business
+419,South,Consumer
+420,Midwest,Corporate
+421,West,Consumer
+422,West,Consumer
+423,Midwest,Small Business
+424,Midwest,Corporate
+425,East,Consumer
+426,Midwest,Small Business
+427,East,Small Business
+428,West,Corporate
+429,East,Consumer
+430,Midwest,Consumer
+431,West,Consumer
+432,South,Small Business
+433,East,Corporate
+434,West,Corporate
+435,East,Consumer
+436,West,Small Business
+437,West,Consumer
+438,East,Corporate
+439,South,Small Business
+440,West,Consumer
+441,West,Consumer
+442,West,Small Business
+443,South,Corporate
+444,South,Small Business
+445,Midwest,Consumer
+446,East,Consumer
+447,South,Consumer
+448,East,Consumer
+449,Midwest,Corporate
+450,East,Corporate
+451,South,Consumer
+452,East,Corporate
+453,South,Corporate
+454,East,Corporate
+455,South,Consumer
+456,South,Small Business
+457,East,Small Business
+458,Midwest,Small Business
+459,West,Consumer
+460,Midwest,Corporate
+461,East,Corporate
+462,Midwest,Consumer
+463,South,Consumer
+464,West,Small Business
+465,East,Small Business
+466,East,Consumer
+467,East,Small Business
+468,West,Corporate
+469,South,Consumer
+470,East,Consumer
+471,Midwest,Corporate
+472,East,Corporate
+473,East,Corporate
+474,East,Small Business
+475,East,Consumer
+476,South,Small Business
+477,Midwest,Corporate
+478,South,Small Business
+479,Midwest,Corporate
+480,East,Small Business
+481,West,Small Business
+482,South,Corporate
+483,West,Small Business
+484,South,Consumer
+485,East,Small Business
+486,South,Small Business
+487,East,Consumer
+488,South,Corporate
+489,East,Consumer
+490,East,Small Business
+491,Midwest,Corporate
+492,East,Small Business
+493,Midwest,Small Business
+494,East,Consumer
+495,West,Consumer
+496,East,Corporate
+497,West,Corporate
+498,West,Corporate
+499,East,Small Business
+500,West,Consumer
+501,Midwest,Consumer
+502,South,Consumer
+503,East,Corporate
+504,West,Consumer
+505,East,Consumer
+506,Midwest,Consumer
+507,East,Corporate
+508,East,Consumer
+509,West,Corporate
+510,Midwest,Consumer
+511,South,Consumer
+512,South,Consumer
+513,West,Corporate
+514,East,Corporate
+515,West,Consumer
+516,West,Small Business
+517,West,Corporate
+518,East,Corporate
+519,Midwest,Consumer
+520,West,Small Business
+521,East,Consumer
+522,Midwest,Corporate
+523,West,Corporate
+524,South,Consumer
+525,Midwest,Consumer
+526,West,Small Business
+527,Midwest,Small Business
+528,Midwest,Corporate
+529,Midwest,Small Business
+530,Midwest,Small Business
+531,Midwest,Corporate
+532,Midwest,Corporate
+533,West,Corporate
+534,South,Corporate
+535,East,Consumer
+536,Midwest,Corporate
+537,East,Corporate
+538,West,Corporate
+539,Midwest,Small Business
+540,South,Corporate
+541,East,Consumer
+542,Midwest,Consumer
+543,West,Corporate
+544,South,Consumer
+545,East,Small Business
+546,East,Corporate
+547,Midwest,Consumer
+548,South,Consumer
+549,South,Corporate
+550,South,Consumer
+551,South,Corporate
+552,West,Consumer
+553,South,Small Business
+554,East,Consumer
+555,East,Consumer
+556,West,Corporate
+557,East,Consumer
+558,East,Corporate
+559,South,Small Business
+560,East,Corporate
+561,West,Corporate
+562,South,Consumer
+563,Midwest,Small Business
+564,South,Corporate
+565,West,Consumer
+566,South,Consumer
+567,South,Corporate
+568,West,Consumer
+569,South,Corporate
+570,West,Corporate
+571,West,Corporate
+572,Midwest,Small Business
+573,East,Corporate
+574,East,Consumer
+575,South,Small Business
+576,South,Consumer
+577,Midwest,Small Business
+578,Midwest,Small Business
+579,Midwest,Small Business
+580,West,Small Business
+581,Midwest,Consumer
+582,Midwest,Corporate
+583,South,Consumer
+584,Midwest,Corporate
+585,West,Consumer
+586,West,Small Business
+587,South,Small Business
+588,Midwest,Corporate
+589,Midwest,Corporate
+590,West,Consumer
+591,Midwest,Corporate
+592,Midwest,Consumer
+593,Midwest,Corporate
+594,East,Corporate
+595,South,Corporate
+596,East,Small Business
+597,South,Small Business
+598,West,Consumer
+599,Midwest,Corporate
+600,South,Consumer
+601,East,Corporate
+602,Midwest,Small Business
+603,West,Small Business
+604,South,Corporate
+605,South,Corporate
+606,South,Small Business
+607,Midwest,Small Business
+608,East,Consumer
+609,East,Small Business
+610,South,Corporate
+611,West,Consumer
+612,West,Corporate
+613,East,Consumer
+614,West,Corporate
+615,East,Small Business
+616,South,Corporate
+617,East,Consumer
+618,East,Corporate
+619,South,Consumer
+620,West,Corporate
+621,East,Small Business
+622,East,Small Business
+623,South,Corporate
+624,West,Corporate
+625,East,Corporate
+626,South,Consumer
+627,East,Corporate
+628,Midwest,Corporate
+629,South,Consumer
+630,West,Small Business
+631,West,Corporate
+632,West,Corporate
+633,West,Small Business
+634,East,Small Business
+635,East,Consumer
+636,West,Corporate
+637,West,Corporate
+638,West,Consumer
+639,East,Small Business
+640,West,Consumer
+641,West,Small Business
+642,Midwest,Consumer
+643,Midwest,Small Business
+644,West,Consumer
+645,South,Small Business
+646,West,Small Business
+647,Midwest,Small Business
+648,South,Small Business
+649,South,Small Business
+650,West,Corporate
+651,Midwest,Small Business
+652,Midwest,Corporate
+653,South,Small Business
+654,West,Corporate
+655,East,Corporate
+656,East,Consumer
+657,Midwest,Small Business
+658,East,Consumer
+659,Midwest,Consumer
+660,Midwest,Small Business
+661,Midwest,Consumer
+662,East,Small Business
+663,Midwest,Consumer
+664,South,Small Business
+665,West,Small Business
+666,West,Small Business
+667,Midwest,Corporate
+668,West,Consumer
+669,East,Corporate
+670,East,Consumer
+671,West,Consumer
+672,East,Consumer
+673,West,Corporate
+674,West,Consumer
+675,West,Corporate
+676,Midwest,Small Business
+677,West,Consumer
+678,Midwest,Consumer
+679,West,Small Business
+680,West,Small Business
+681,West,Consumer
+682,East,Small Business
+683,Midwest,Corporate
+684,Midwest,Corporate
+685,West,Consumer
+686,West,Corporate
+687,East,Corporate
+688,East,Consumer
+689,East,Small Business
+690,Midwest,Consumer
+691,Midwest,Corporate
+692,Midwest,Consumer
+693,West,Consumer
+694,Midwest,Corporate
+695,South,Corporate
+696,South,Consumer
+697,East,Corporate
+698,Midwest,Corporate
+699,South,Corporate
+700,East,Corporate
+701,Midwest,Corporate
+702,West,Corporate
+703,South,Small Business
+704,West,Consumer
+705,Midwest,Corporate
+706,South,Consumer
+707,Midwest,Small Business
+708,West,Corporate
+709,South,Consumer
+710,West,Corporate
+711,Midwest,Corporate
+712,Midwest,Corporate
+713,West,Corporate
+714,South,Corporate
+715,West,Corporate
+716,Midwest,Corporate
+717,West,Small Business
+718,Midwest,Small Business
+719,West,Corporate
+720,South,Corporate
+721,South,Small Business
+722,West,Small Business
+723,West,Small Business
+724,South,Corporate
+725,Midwest,Consumer
+726,South,Consumer
+727,Midwest,Consumer
+728,West,Consumer
+729,West,Corporate
+730,Midwest,Consumer
+731,West,Small Business
+732,Midwest,Small Business
+733,East,Consumer
+734,South,Small Business
+735,East,Corporate
+736,Midwest,Consumer
+737,South,Consumer
+738,Midwest,Corporate
+739,South,Small Business
+740,South,Corporate
+741,South,Corporate
+742,South,Small Business
+743,Midwest,Corporate
+744,South,Small Business
+745,South,Small Business
+746,East,Corporate
+747,West,Small Business
+748,West,Corporate
+749,East,Small Business
+750,East,Consumer
+751,Midwest,Small Business
+752,Midwest,Small Business
+753,Midwest,Corporate
+754,East,Small Business
+755,East,Consumer
+756,South,Consumer
+757,Midwest,Small Business
+758,Midwest,Small Business
+759,Midwest,Consumer
+760,West,Corporate
+761,South,Consumer
+762,Midwest,Consumer
+763,Midwest,Small Business
+764,Midwest,Small Business
+765,West,Consumer
+766,West,Corporate
+767,East,Consumer
+768,South,Consumer
+769,East,Corporate
+770,South,Consumer
+771,West,Consumer
+772,Midwest,Small Business
+773,East,Corporate
+774,Midwest,Small Business
+775,East,Small Business
+776,West,Corporate
+777,West,Corporate
+778,West,Consumer
+779,East,Small Business
+780,South,Corporate
+781,East,Small Business
+782,South,Small Business
+783,East,Corporate
+784,East,Consumer
+785,West,Small Business
+786,Midwest,Corporate
+787,Midwest,Consumer
+788,South,Small Business
+789,Midwest,Corporate
+790,East,Small Business
+791,East,Corporate
+792,West,Corporate
+793,West,Small Business
+794,Midwest,Small Business
+795,South,Corporate
+796,Midwest,Consumer
+797,Midwest,Small Business
+798,Midwest,Corporate
+799,Midwest,Corporate
+800,East,Consumer
+801,South,Consumer
+802,East,Consumer
+803,South,Small Business
+804,West,Corporate
+805,Midwest,Corporate
+806,East,Corporate
+807,South,Consumer
+808,West,Corporate
+809,West,Small Business
+810,Midwest,Consumer
+811,South,Consumer
+812,East,Consumer
+813,Midwest,Consumer
+814,East,Small Business
+815,West,Corporate
+816,East,Small Business
+817,East,Corporate
+818,Midwest,Small Business
+819,East,Consumer
+820,Midwest,Consumer
+821,West,Small Business
+822,Midwest,Small Business
+823,Midwest,Corporate
+824,South,Small Business
+825,East,Small Business
+826,West,Corporate
+827,Midwest,Corporate
+828,West,Corporate
+829,South,Small Business
+830,East,Corporate
+831,Midwest,Consumer
+832,East,Consumer
+833,South,Consumer
+834,South,Small Business
+835,West,Consumer
+836,Midwest,Small Business
+837,West,Small Business
+838,South,Consumer
+839,East,Corporate
+840,West,Small Business
+841,West,Consumer
+842,East,Small Business
+843,West,Corporate
+844,East,Corporate
+845,Midwest,Consumer
+846,East,Small Business
+847,Midwest,Small Business
+848,East,Small Business
+849,South,Small Business
+850,South,Consumer
+851,Midwest,Corporate
+852,Midwest,Consumer
+853,South,Small Business
+854,Midwest,Small Business
+855,East,Corporate
+856,East,Small Business
+857,South,Consumer
+858,West,Consumer
+859,East,Corporate
+860,Midwest,Consumer
+861,West,Consumer
+862,West,Consumer
+863,East,Consumer
+864,East,Small Business
+865,West,Consumer
+866,West,Corporate
+867,South,Corporate
+868,Midwest,Consumer
+869,South,Corporate
+870,East,Consumer
+871,South,Corporate
+872,South,Corporate
+873,South,Consumer
+874,South,Consumer
+875,Midwest,Small Business
+876,Midwest,Consumer
+877,West,Consumer
+878,East,Small Business
+879,South,Consumer
+880,West,Consumer
+881,West,Small Business
+882,West,Consumer
+883,Midwest,Consumer
+884,South,Small Business
+885,South,Small Business
+886,East,Corporate
+887,South,Consumer
+888,South,Corporate
+889,West,Corporate
+890,East,Small Business
+891,South,Consumer
+892,Midwest,Consumer
+893,South,Small Business
+894,West,Corporate
+895,Midwest,Small Business
+896,West,Consumer
+897,South,Small Business
+898,Midwest,Consumer
+899,East,Corporate
+900,East,Consumer
+901,Midwest,Corporate
+902,Midwest,Corporate
+903,West,Consumer
+904,Midwest,Consumer
+905,West,Corporate
+906,South,Small Business
+907,West,Consumer
+908,Midwest,Corporate
+909,Midwest,Corporate
+910,South,Small Business
+911,Midwest,Consumer
+912,Midwest,Corporate
+913,East,Small Business
+914,East,Corporate
+915,South,Consumer
+916,West,Small Business
+917,East,Corporate
+918,West,Small Business
+919,Midwest,Consumer
+920,East,Small Business
+921,South,Consumer
+922,South,Corporate
+923,South,Consumer
+924,East,Corporate
+925,West,Corporate
+926,Midwest,Consumer
+927,West,Corporate
+928,West,Small Business
+929,Midwest,Corporate
+930,Midwest,Consumer
+931,East,Small Business
+932,East,Small Business
+933,East,Corporate
+934,East,Corporate
+935,East,Consumer
+936,Midwest,Small Business
+937,West,Consumer
+938,East,Corporate
+939,East,Small Business
+940,West,Consumer
+941,East,Consumer
+942,West,Consumer
+943,West,Consumer
+944,Midwest,Consumer
+945,South,Small Business
+946,Midwest,Consumer
+947,South,Small Business
+948,South,Consumer
+949,South,Corporate
+950,East,Corporate
+951,Midwest,Consumer
+952,South,Corporate
+953,West,Small Business
+954,East,Consumer
+955,Midwest,Small Business
+956,South,Consumer
+957,West,Corporate
+958,Midwest,Small Business
+959,Midwest,Corporate
+960,East,Corporate
+961,Midwest,Consumer
+962,East,Small Business
+963,South,Corporate
+964,East,Consumer
+965,West,Consumer
+966,East,Consumer
+967,West,Corporate
+968,East,Consumer
+969,Midwest,Small Business
+970,South,Small Business
+971,West,Corporate
+972,East,Small Business
+973,East,Consumer
+974,East,Corporate
+975,Midwest,Consumer
+976,Midwest,Corporate
+977,West,Corporate
+978,West,Consumer
+979,Midwest,Small Business
+980,West,Small Business
+981,South,Corporate
+982,South,Consumer
+983,Midwest,Consumer
+984,West,Corporate
+985,East,Small Business
+986,South,Consumer
+987,Midwest,Small Business
+988,West,Small Business
+989,Midwest,Corporate
+990,East,Corporate
+991,South,Small Business
+992,Midwest,Consumer
+993,Midwest,Consumer
+994,Midwest,Corporate
+995,East,Small Business
+996,Midwest,Consumer
+997,East,Consumer
+998,East,Corporate
+999,East,Small Business
+1000,South,Consumer
+1001,South,Corporate
+1002,Midwest,Consumer
+1003,Midwest,Consumer
+1004,South,Consumer
+1005,West,Corporate
+1006,South,Small Business
+1007,East,Corporate
+1008,South,Small Business
+1009,East,Consumer
+1010,Midwest,Small Business
+1011,West,Consumer
+1012,Midwest,Consumer
+1013,East,Corporate
+1014,East,Consumer
+1015,East,Corporate
+1016,West,Small Business
+1017,South,Small Business
+1018,Midwest,Consumer
+1019,Midwest,Corporate
+1020,South,Consumer
+1021,Midwest,Corporate
+1022,West,Corporate
+1023,Midwest,Corporate
+1024,East,Small Business
+1025,South,Corporate
+1026,West,Small Business
+1027,South,Corporate
+1028,West,Small Business
+1029,East,Small Business
+1030,South,Small Business
+1031,Midwest,Consumer
+1032,West,Corporate
+1033,South,Consumer
+1034,Midwest,Corporate
+1035,South,Corporate
+1036,South,Consumer
+1037,South,Small Business
+1038,West,Corporate
+1039,Midwest,Small Business
+1040,East,Consumer
+1041,West,Small Business
+1042,West,Corporate
+1043,West,Corporate
+1044,East,Corporate
+1045,Midwest,Consumer
+1046,Midwest,Corporate
+1047,Midwest,Consumer
+1048,South,Small Business
+1049,South,Corporate
+1050,South,Corporate
+1051,East,Corporate
+1052,South,Small Business
+1053,East,Corporate
+1054,Midwest,Consumer
+1055,South,Small Business
+1056,South,Small Business
+1057,West,Small Business
+1058,East,Small Business
+1059,Midwest,Small Business
+1060,West,Consumer
+1061,West,Small Business
+1062,Midwest,Corporate
+1063,West,Small Business
+1064,East,Small Business
+1065,East,Small Business
+1066,South,Small Business
+1067,West,Small Business
+1068,South,Consumer
+1069,West,Consumer
+1070,East,Small Business
+1071,East,Consumer
+1072,East,Corporate
+1073,West,Small Business
+1074,East,Corporate
+1075,West,Corporate
+1076,South,Small Business
+1077,West,Corporate
+1078,South,Corporate
+1079,West,Corporate
+1080,South,Small Business
+1081,East,Small Business
+1082,South,Corporate
+1083,East,Small Business
+1084,East,Small Business
+1085,South,Corporate
+1086,West,Small Business
+1087,West,Consumer
+1088,Midwest,Small Business
+1089,West,Consumer
+1090,Midwest,Corporate
+1091,West,Small Business
+1092,West,Corporate
+1093,East,Corporate
+1094,Midwest,Corporate
+1095,West,Corporate
+1096,Midwest,Corporate
+1097,East,Small Business
+1098,East,Consumer
+1099,Midwest,Small Business
+1100,East,Small Business
+1101,South,Small Business
+1102,South,Small Business
+1103,East,Consumer
+1104,South,Small Business
+1105,West,Corporate
+1106,Midwest,Small Business
+1107,West,Small Business
+1108,Midwest,Consumer
+1109,East,Consumer
+1110,West,Corporate
+1111,East,Small Business
+1112,East,Small Business
+1113,Midwest,Small Business
+1114,Midwest,Corporate
+1115,Midwest,Consumer
+1116,West,Corporate
+1117,South,Small Business
+1118,Midwest,Consumer
+1119,Midwest,Consumer
+1120,West,Corporate
+1121,Midwest,Consumer
+1122,West,Consumer
+1123,East,Small Business
+1124,Midwest,Small Business
+1125,Midwest,Consumer
+1126,East,Consumer
+1127,East,Corporate
+1128,East,Corporate
+1129,Midwest,Consumer
+1130,South,Small Business
+1131,South,Consumer
+1132,South,Consumer
+1133,Midwest,Small Business
+1134,East,Small Business
+1135,Midwest,Corporate
+1136,East,Corporate
+1137,Midwest,Corporate
+1138,Midwest,Corporate
+1139,East,Small Business
+1140,South,Consumer
+1141,East,Corporate
+1142,West,Corporate
+1143,West,Small Business
+1144,East,Small Business
+1145,Midwest,Consumer
+1146,West,Consumer
+1147,West,Small Business
+1148,Midwest,Corporate
+1149,Midwest,Corporate
+1150,South,Corporate
+1151,Midwest,Consumer
+1152,East,Corporate
+1153,East,Corporate
+1154,South,Small Business
+1155,West,Corporate
+1156,West,Small Business
+1157,Midwest,Corporate
+1158,East,Consumer
+1159,West,Corporate
+1160,South,Corporate
+1161,South,Small Business
+1162,East,Small Business
+1163,South,Small Business
+1164,South,Corporate
+1165,East,Corporate
+1166,Midwest,Consumer
+1167,Midwest,Corporate
+1168,South,Consumer
+1169,Midwest,Small Business
+1170,Midwest,Small Business
+1171,South,Small Business
+1172,Midwest,Consumer
+1173,South,Corporate
+1174,West,Small Business
+1175,East,Corporate
+1176,East,Corporate
+1177,Midwest,Small Business
+1178,Midwest,Consumer
+1179,Midwest,Corporate
+1180,East,Small Business
+1181,West,Corporate
+1182,West,Corporate
+1183,East,Corporate
+1184,West,Corporate
+1185,East,Corporate
+1186,West,Consumer
+1187,South,Consumer
+1188,South,Small Business
+1189,East,Consumer
+1190,West,Consumer
+1191,Midwest,Consumer
+1192,West,Corporate
+1193,South,Corporate
+1194,South,Small Business
+1195,West,Small Business
+1196,West,Small Business
+1197,Midwest,Corporate
+1198,Midwest,Consumer
+1199,West,Consumer
+1200,West,Corporate
+1201,West,Small Business
+1202,West,Small Business
+1203,East,Small Business
+1204,West,Corporate
+1205,Midwest,Small Business
+1206,South,Small Business
+1207,East,Corporate
+1208,West,Consumer
+1209,South,Corporate
+1210,East,Corporate
+1211,South,Corporate
+1212,West,Corporate
+1213,West,Consumer
+1214,Midwest,Small Business
+1215,West,Corporate
+1216,West,Consumer
+1217,East,Small Business
+1218,Midwest,Small Business
+1219,East,Small Business
+1220,South,Corporate
+1221,West,Corporate
+1222,South,Small Business
+1223,East,Small Business
+1224,West,Small Business
+1225,West,Small Business
+1226,East,Small Business
+1227,East,Small Business
+1228,East,Consumer
+1229,East,Small Business
+1230,East,Corporate
+1231,West,Corporate
+1232,East,Corporate
+1233,West,Small Business
+1234,West,Corporate
+1235,East,Consumer
+1236,East,Small Business
+1237,Midwest,Corporate
+1238,West,Consumer
+1239,East,Consumer
+1240,East,Corporate
+1241,East,Consumer
+1242,Midwest,Corporate
+1243,Midwest,Consumer
+1244,South,Small Business
+1245,West,Small Business
+1246,South,Small Business
+1247,East,Small Business
+1248,Midwest,Small Business
+1249,Midwest,Corporate
+1250,South,Small Business
+1251,Midwest,Small Business
+1252,East,Small Business
+1253,Midwest,Small Business
+1254,South,Consumer
+1255,East,Small Business
+1256,South,Small Business
+1257,Midwest,Corporate
+1258,South,Consumer
+1259,South,Corporate
+1260,West,Small Business
+1261,Midwest,Corporate
+1262,Midwest,Corporate
+1263,South,Small Business
+1264,West,Consumer
+1265,Midwest,Consumer
+1266,East,Corporate
+1267,South,Small Business
+1268,Midwest,Corporate
+1269,East,Corporate
+1270,Midwest,Corporate
+1271,East,Small Business
+1272,South,Small Business
+1273,Midwest,Consumer
+1274,Midwest,Small Business
+1275,West,Corporate
+1276,South,Corporate
+1277,East,Consumer
+1278,Midwest,Small Business
+1279,Midwest,Corporate
+1280,East,Consumer
+1281,South,Consumer
+1282,West,Corporate
+1283,West,Corporate
+1284,Midwest,Small Business
+1285,East,Consumer
+1286,Midwest,Corporate
+1287,East,Consumer
+1288,West,Small Business
+1289,South,Corporate
+1290,East,Small Business
+1291,West,Consumer
+1292,Midwest,Small Business
+1293,East,Small Business
+1294,South,Consumer
+1295,Midwest,Small Business
+1296,Midwest,Consumer
+1297,West,Corporate
+1298,East,Consumer
+1299,Midwest,Consumer
+1300,South,Corporate
+1301,East,Consumer
+1302,South,Corporate
+1303,Midwest,Corporate
+1304,South,Consumer
+1305,West,Small Business
+1306,South,Small Business
+1307,East,Corporate
+1308,South,Small Business
+1309,South,Small Business
+1310,West,Consumer
+1311,South,Corporate
+1312,South,Corporate
+1313,Midwest,Consumer
+1314,Midwest,Small Business
+1315,East,Corporate
+1316,Midwest,Small Business
+1317,Midwest,Corporate
+1318,Midwest,Corporate
+1319,Midwest,Corporate
+1320,West,Corporate
+1321,Midwest,Small Business
+1322,West,Small Business
+1323,West,Small Business
+1324,Midwest,Small Business
+1325,South,Consumer
+1326,West,Corporate
+1327,South,Corporate
+1328,South,Corporate
+1329,Midwest,Consumer
+1330,East,Small Business
+1331,Midwest,Corporate
+1332,East,Small Business
+1333,East,Small Business
+1334,Midwest,Consumer
+1335,Midwest,Consumer
+1336,East,Small Business
+1337,Midwest,Corporate
+1338,East,Corporate
+1339,South,Consumer
+1340,Midwest,Consumer
+1341,South,Consumer
+1342,West,Consumer
+1343,South,Consumer
+1344,South,Consumer
+1345,East,Consumer
+1346,South,Corporate
+1347,Midwest,Consumer
+1348,East,Consumer
+1349,West,Corporate
+1350,Midwest,Corporate
+1351,West,Small Business
+1352,South,Consumer
+1353,Midwest,Consumer
+1354,Midwest,Consumer
+1355,West,Consumer
+1356,Midwest,Small Business
+1357,Midwest,Corporate
+1358,Midwest,Corporate
+1359,South,Consumer
+1360,West,Consumer
+1361,Midwest,Consumer
+1362,East,Small Business
+1363,East,Small Business
+1364,East,Corporate
+1365,East,Consumer
+1366,South,Consumer
+1367,Midwest,Consumer
+1368,West,Consumer
+1369,Midwest,Small Business
+1370,South,Corporate
+1371,East,Corporate
+1372,South,Small Business
+1373,Midwest,Consumer
+1374,West,Corporate
+1375,South,Corporate
+1376,West,Small Business
+1377,South,Consumer
+1378,West,Corporate
+1379,West,Consumer
+1380,East,Corporate
+1381,West,Small Business
+1382,East,Consumer
+1383,Midwest,Small Business
+1384,Midwest,Corporate
+1385,East,Small Business
+1386,East,Small Business
+1387,South,Small Business
+1388,South,Corporate
+1389,South,Consumer
+1390,Midwest,Small Business
+1391,South,Consumer
+1392,West,Corporate
+1393,West,Consumer
+1394,South,Small Business
+1395,West,Small Business
+1396,Midwest,Small Business
+1397,West,Small Business
+1398,Midwest,Small Business
+1399,East,Small Business
+1400,East,Corporate
+1401,East,Corporate
+1402,East,Corporate
+1403,West,Consumer
+1404,South,Consumer
+1405,West,Corporate
+1406,Midwest,Consumer
+1407,West,Consumer
+1408,West,Small Business
+1409,Midwest,Small Business
+1410,East,Consumer
+1411,East,Consumer
+1412,East,Corporate
+1413,South,Consumer
+1414,Midwest,Small Business
+1415,Midwest,Consumer
+1416,West,Corporate
+1417,South,Small Business
+1418,East,Small Business
+1419,South,Small Business
+1420,Midwest,Small Business
+1421,Midwest,Consumer
+1422,West,Corporate
+1423,West,Consumer
+1424,Midwest,Consumer
+1425,East,Small Business
+1426,East,Corporate
+1427,South,Small Business
+1428,Midwest,Consumer
+1429,Midwest,Consumer
+1430,East,Small Business
+1431,East,Consumer
+1432,Midwest,Consumer
+1433,West,Small Business
+1434,Midwest,Consumer
+1435,Midwest,Corporate
+1436,East,Small Business
+1437,East,Corporate
+1438,West,Consumer
+1439,West,Consumer
+1440,South,Small Business
+1441,Midwest,Consumer
+1442,East,Small Business
+1443,West,Small Business
+1444,South,Small Business
+1445,South,Small Business
+1446,East,Small Business
+1447,East,Corporate
+1448,South,Small Business
+1449,West,Corporate
+1450,South,Consumer
+1451,Midwest,Small Business
+1452,Midwest,Consumer
+1453,East,Small Business
+1454,West,Corporate
+1455,West,Corporate
+1456,Midwest,Corporate
+1457,South,Consumer
+1458,East,Small Business
+1459,South,Consumer
+1460,South,Corporate
+1461,South,Consumer
+1462,West,Corporate
+1463,Midwest,Corporate
+1464,West,Corporate
+1465,Midwest,Small Business
+1466,East,Small Business
+1467,East,Corporate
+1468,South,Consumer
+1469,Midwest,Consumer
+1470,Midwest,Small Business
+1471,Midwest,Corporate
+1472,South,Consumer
+1473,South,Corporate
+1474,East,Consumer
+1475,West,Small Business
+1476,Midwest,Corporate
+1477,Midwest,Corporate
+1478,West,Consumer
+1479,Midwest,Consumer
+1480,South,Consumer
+1481,South,Corporate
+1482,Midwest,Small Business
+1483,South,Small Business
+1484,South,Consumer
+1485,Midwest,Small Business
+1486,East,Consumer
+1487,West,Small Business
+1488,South,Corporate
+1489,East,Consumer
+1490,South,Small Business
+1491,South,Corporate
+1492,West,Small Business
+1493,South,Corporate
+1494,West,Corporate
+1495,West,Small Business
+1496,West,Small Business
+1497,East,Corporate
+1498,Midwest,Corporate
+1499,East,Corporate
+1500,Midwest,Consumer
+1501,Midwest,Corporate
+1502,West,Consumer
+1503,South,Corporate
+1504,West,Consumer
+1505,South,Corporate
+1506,Midwest,Corporate
+1507,West,Corporate
+1508,South,Small Business
+1509,East,Small Business
+1510,South,Corporate
+1511,West,Consumer
+1512,East,Consumer
+1513,South,Corporate
+1514,South,Small Business
+1515,South,Consumer
+1516,South,Small Business
+1517,South,Consumer
+1518,East,Corporate
+1519,Midwest,Small Business
+1520,East,Consumer
+1521,East,Corporate
+1522,East,Corporate
+1523,Midwest,Corporate
+1524,West,Small Business
+1525,Midwest,Small Business
+1526,East,Corporate
+1527,South,Small Business
+1528,South,Consumer
+1529,East,Corporate
+1530,South,Corporate
+1531,East,Small Business
+1532,South,Corporate
+1533,Midwest,Consumer
+1534,West,Small Business
+1535,West,Small Business
+1536,Midwest,Corporate
+1537,Midwest,Corporate
+1538,East,Corporate
+1539,East,Small Business
+1540,East,Corporate
+1541,South,Consumer
+1542,East,Corporate
+1543,Midwest,Corporate
+1544,West,Small Business
+1545,South,Corporate
+1546,East,Small Business
+1547,South,Corporate
+1548,South,Consumer
+1549,East,Consumer
+1550,South,Small Business
+1551,West,Small Business
+1552,Midwest,Corporate
+1553,Midwest,Corporate
+1554,West,Consumer
+1555,South,Corporate
+1556,East,Consumer
+1557,South,Small Business
+1558,West,Corporate
+1559,South,Small Business
+1560,Midwest,Corporate
+1561,South,Consumer
+1562,West,Small Business
+1563,Midwest,Small Business
+1564,South,Corporate
+1565,South,Small Business
+1566,Midwest,Consumer
+1567,East,Small Business
+1568,Midwest,Small Business
+1569,East,Corporate
+1570,West,Small Business
+1571,West,Corporate
+1572,Midwest,Corporate
+1573,Midwest,Small Business
+1574,West,Consumer
+1575,East,Corporate
+1576,West,Small Business
+1577,Midwest,Corporate
+1578,West,Consumer
+1579,Midwest,Consumer
+1580,Midwest,Corporate
+1581,West,Consumer
+1582,East,Small Business
+1583,South,Small Business
+1584,West,Corporate
+1585,South,Consumer
+1586,West,Small Business
+1587,South,Small Business
+1588,East,Small Business
+1589,East,Corporate
+1590,West,Corporate
+1591,Midwest,Small Business
+1592,South,Small Business
+1593,Midwest,Consumer
+1594,Midwest,Consumer
+1595,Midwest,Consumer
+1596,East,Corporate
+1597,West,Small Business
+1598,West,Corporate
+1599,East,Small Business
+1600,East,Consumer
+1601,West,Consumer
+1602,Midwest,Consumer
+1603,South,Consumer
+1604,South,Small Business
+1605,South,Consumer
+1606,Midwest,Small Business
+1607,West,Small Business
+1608,East,Corporate
+1609,West,Consumer
+1610,Midwest,Consumer
+1611,East,Corporate
+1612,Midwest,Small Business
+1613,South,Consumer
+1614,South,Small Business
+1615,Midwest,Corporate
+1616,East,Small Business
+1617,East,Consumer
+1618,West,Small Business
+1619,South,Small Business
+1620,West,Consumer
+1621,West,Consumer
+1622,Midwest,Small Business
+1623,Midwest,Small Business
+1624,West,Corporate
+1625,South,Consumer
+1626,Midwest,Small Business
+1627,West,Consumer
+1628,West,Corporate
+1629,West,Small Business
+1630,West,Small Business
+1631,West,Small Business
+1632,West,Consumer
+1633,Midwest,Corporate
+1634,South,Consumer
+1635,West,Small Business
+1636,East,Corporate
+1637,Midwest,Small Business
+1638,Midwest,Small Business
+1639,West,Consumer
+1640,Midwest,Small Business
+1641,West,Corporate
+1642,South,Small Business
+1643,South,Small Business
+1644,Midwest,Consumer
+1645,Midwest,Corporate
+1646,East,Consumer
+1647,Midwest,Small Business
+1648,East,Consumer
+1649,South,Consumer
+1650,South,Consumer
+1651,West,Consumer
+1652,South,Small Business
+1653,East,Small Business
+1654,Midwest,Corporate
+1655,West,Consumer
+1656,East,Consumer
+1657,Midwest,Corporate
+1658,West,Consumer
+1659,South,Corporate
+1660,East,Small Business
+1661,Midwest,Corporate
+1662,West,Consumer
+1663,West,Corporate
+1664,South,Small Business
+1665,Midwest,Consumer
+1666,South,Small Business
+1667,South,Small Business
+1668,Midwest,Corporate
+1669,Midwest,Small Business
+1670,Midwest,Consumer
+1671,East,Small Business
+1672,Midwest,Small Business
+1673,West,Corporate
+1674,South,Small Business
+1675,East,Corporate
+1676,Midwest,Corporate
+1677,East,Consumer
+1678,Midwest,Consumer
+1679,East,Consumer
+1680,South,Consumer
+1681,South,Corporate
+1682,West,Small Business
+1683,West,Consumer
+1684,Midwest,Consumer
+1685,South,Consumer
+1686,East,Small Business
+1687,East,Consumer
+1688,East,Small Business
+1689,West,Corporate
+1690,East,Corporate
+1691,West,Corporate
+1692,West,Small Business
+1693,Midwest,Consumer
+1694,East,Consumer
+1695,East,Consumer
+1696,South,Consumer
+1697,Midwest,Consumer
+1698,South,Small Business
+1699,Midwest,Corporate
+1700,East,Consumer
+1701,West,Corporate
+1702,West,Small Business
+1703,West,Small Business
+1704,West,Consumer
+1705,West,Small Business
+1706,South,Corporate
+1707,Midwest,Consumer
+1708,East,Consumer
+1709,South,Corporate
+1710,Midwest,Consumer
+1711,West,Consumer
+1712,Midwest,Corporate
+1713,Midwest,Consumer
+1714,West,Consumer
+1715,West,Corporate
+1716,West,Small Business
+1717,East,Corporate
+1718,West,Consumer
+1719,East,Corporate
+1720,West,Consumer
+1721,East,Consumer
+1722,Midwest,Corporate
+1723,South,Consumer
+1724,Midwest,Small Business
+1725,Midwest,Consumer
+1726,West,Corporate
+1727,East,Small Business
+1728,South,Small Business
+1729,West,Consumer
+1730,West,Corporate
+1731,West,Consumer
+1732,Midwest,Consumer
+1733,East,Corporate
+1734,East,Corporate
+1735,South,Consumer
+1736,East,Small Business
+1737,East,Consumer
+1738,West,Small Business
+1739,West,Consumer
+1740,Midwest,Corporate
+1741,West,Small Business
+1742,West,Corporate
+1743,West,Corporate
+1744,West,Corporate
+1745,Midwest,Corporate
+1746,West,Corporate
+1747,South,Consumer
+1748,South,Small Business
+1749,South,Consumer
+1750,South,Consumer
+1751,West,Consumer
+1752,South,Corporate
+1753,West,Consumer
+1754,Midwest,Small Business
+1755,South,Consumer
+1756,East,Corporate
+1757,South,Small Business
+1758,South,Small Business
+1759,West,Small Business
+1760,South,Small Business
+1761,East,Consumer
+1762,West,Corporate
+1763,West,Small Business
+1764,Midwest,Small Business
+1765,Midwest,Corporate
+1766,South,Consumer
+1767,Midwest,Small Business
+1768,Midwest,Consumer
+1769,Midwest,Consumer
+1770,West,Consumer
+1771,West,Consumer
+1772,West,Small Business
+1773,Midwest,Small Business
+1774,West,Consumer
+1775,Midwest,Consumer
+1776,West,Corporate
+1777,West,Corporate
+1778,East,Corporate
+1779,South,Small Business
+1780,Midwest,Corporate
+1781,East,Small Business
+1782,West,Small Business
+1783,Midwest,Small Business
+1784,West,Small Business
+1785,South,Corporate
+1786,East,Consumer
+1787,South,Consumer
+1788,East,Consumer
+1789,West,Corporate
+1790,South,Consumer
+1791,South,Corporate
+1792,West,Corporate
+1793,South,Corporate
+1794,Midwest,Consumer
+1795,East,Consumer
+1796,East,Consumer
+1797,East,Small Business
+1798,Midwest,Corporate
+1799,East,Small Business
+1800,West,Corporate
+1801,South,Consumer
+1802,Midwest,Corporate
+1803,East,Corporate
+1804,West,Small Business
+1805,South,Corporate
+1806,South,Consumer
+1807,Midwest,Corporate
+1808,Midwest,Corporate
+1809,Midwest,Corporate
+1810,West,Small Business
+1811,West,Corporate
+1812,Midwest,Corporate
+1813,East,Small Business
+1814,South,Small Business
+1815,South,Small Business
+1816,West,Small Business
+1817,South,Consumer
+1818,East,Consumer
+1819,South,Corporate
+1820,West,Consumer
+1821,West,Corporate
+1822,East,Consumer
+1823,East,Small Business
+1824,South,Small Business
+1825,South,Consumer
+1826,West,Consumer
+1827,East,Corporate
+1828,East,Corporate
+1829,East,Corporate
+1830,South,Small Business
+1831,East,Small Business
+1832,West,Small Business
+1833,West,Small Business
+1834,South,Corporate
+1835,Midwest,Small Business
+1836,South,Small Business
+1837,Midwest,Small Business
+1838,East,Small Business
+1839,South,Consumer
+1840,West,Corporate
+1841,East,Corporate
+1842,West,Small Business
+1843,East,Consumer
+1844,South,Corporate
+1845,Midwest,Corporate
+1846,East,Small Business
+1847,Midwest,Small Business
+1848,East,Corporate
+1849,West,Corporate
+1850,West,Consumer
+1851,East,Corporate
+1852,Midwest,Corporate
+1853,South,Small Business
+1854,South,Corporate
+1855,West,Small Business
+1856,South,Corporate
+1857,West,Corporate
+1858,South,Corporate
+1859,East,Consumer
+1860,West,Small Business
+1861,West,Consumer
+1862,East,Corporate
+1863,West,Consumer
+1864,South,Small Business
+1865,South,Corporate
+1866,West,Consumer
+1867,South,Consumer
+1868,Midwest,Small Business
+1869,West,Consumer
+1870,East,Small Business
+1871,Midwest,Corporate
+1872,West,Corporate
+1873,East,Consumer
+1874,South,Corporate
+1875,East,Corporate
+1876,Midwest,Consumer
+1877,South,Corporate
+1878,West,Consumer
+1879,South,Small Business
+1880,West,Small Business
+1881,West,Small Business
+1882,East,Consumer
+1883,East,Consumer
+1884,East,Corporate
+1885,Midwest,Corporate
+1886,Midwest,Corporate
+1887,East,Corporate
+1888,Midwest,Corporate
+1889,South,Consumer
+1890,South,Consumer
+1891,Midwest,Small Business
+1892,Midwest,Small Business
+1893,South,Small Business
+1894,West,Small Business
+1895,South,Consumer
+1896,South,Consumer
+1897,Midwest,Consumer
+1898,South,Corporate
+1899,Midwest,Corporate
+1900,Midwest,Small Business
+1901,East,Corporate
+1902,South,Consumer
+1903,West,Small Business
+1904,East,Small Business
+1905,Midwest,Corporate
+1906,Midwest,Small Business
+1907,West,Corporate
+1908,Midwest,Corporate
+1909,South,Small Business
+1910,East,Corporate
+1911,Midwest,Corporate
+1912,Midwest,Corporate
+1913,West,Corporate
+1914,South,Small Business
+1915,Midwest,Consumer
+1916,West,Consumer
+1917,Midwest,Corporate
+1918,West,Corporate
+1919,West,Corporate
+1920,South,Consumer
+1921,Midwest,Corporate
+1922,South,Small Business
+1923,West,Small Business
+1924,East,Small Business
+1925,Midwest,Consumer
+1926,East,Corporate
+1927,Midwest,Corporate
+1928,South,Corporate
+1929,South,Consumer
+1930,South,Consumer
+1931,South,Consumer
+1932,South,Consumer
+1933,East,Small Business
+1934,South,Consumer
+1935,West,Consumer
+1936,West,Consumer
+1937,East,Corporate
+1938,Midwest,Corporate
+1939,West,Corporate
+1940,Midwest,Small Business
+1941,East,Small Business
+1942,Midwest,Consumer
+1943,Midwest,Corporate
+1944,Midwest,Small Business
+1945,Midwest,Corporate
+1946,East,Small Business
+1947,West,Small Business
+1948,South,Consumer
+1949,Midwest,Consumer
+1950,West,Small Business
+1951,West,Consumer
+1952,East,Small Business
+1953,West,Small Business
+1954,East,Corporate
+1955,Midwest,Consumer
+1956,Midwest,Consumer
+1957,South,Consumer
+1958,South,Corporate
+1959,South,Corporate
+1960,West,Corporate
+1961,Midwest,Consumer
+1962,East,Consumer
+1963,South,Consumer
+1964,East,Corporate
+1965,East,Corporate
+1966,South,Small Business
+1967,Midwest,Corporate
+1968,South,Small Business
+1969,East,Consumer
+1970,South,Corporate
+1971,East,Consumer
+1972,East,Consumer
+1973,South,Consumer
+1974,West,Consumer
+1975,South,Corporate
+1976,West,Consumer
+1977,East,Small Business
+1978,East,Corporate
+1979,West,Consumer
+1980,East,Corporate
+1981,West,Small Business
+1982,West,Consumer
+1983,East,Small Business
+1984,Midwest,Consumer
+1985,West,Small Business
+1986,South,Consumer
+1987,South,Corporate
+1988,East,Consumer
+1989,Midwest,Corporate
+1990,East,Consumer
+1991,Midwest,Consumer
+1992,West,Small Business
+1993,West,Small Business
+1994,West,Small Business
+1995,West,Consumer
+1996,South,Consumer
+1997,South,Consumer
+1998,East,Corporate
+1999,Midwest,Corporate
+2000,West,Consumer
+2001,West,Small Business
+2002,Midwest,Small Business
+2003,Midwest,Small Business
+2004,East,Consumer
+2005,Midwest,Small Business
+2006,West,Consumer
+2007,West,Corporate
+2008,West,Small Business
+2009,West,Corporate
+2010,West,Small Business
+2011,East,Consumer
+2012,West,Consumer
+2013,East,Consumer
+2014,West,Consumer
+2015,South,Small Business
+2016,South,Corporate
+2017,South,Consumer
+2018,South,Small Business
+2019,East,Corporate
+2020,East,Consumer
+2021,Midwest,Corporate
+2022,West,Consumer
+2023,South,Corporate
+2024,East,Corporate
+2025,West,Consumer
+2026,West,Small Business
+2027,East,Corporate
+2028,South,Consumer
+2029,Midwest,Corporate
+2030,West,Corporate
+2031,Midwest,Small Business
+2032,South,Corporate
+2033,South,Corporate
+2034,Midwest,Consumer
+2035,South,Consumer
+2036,West,Small Business
+2037,Midwest,Corporate
+2038,South,Corporate
+2039,Midwest,Corporate
+2040,West,Small Business
+2041,South,Corporate
+2042,West,Consumer
+2043,South,Small Business
+2044,East,Consumer
+2045,South,Consumer
+2046,Midwest,Small Business
+2047,South,Consumer
+2048,West,Corporate
+2049,West,Small Business
+2050,South,Consumer
+2051,Midwest,Corporate
+2052,East,Corporate
+2053,Midwest,Consumer
+2054,East,Corporate
+2055,West,Small Business
+2056,Midwest,Consumer
+2057,East,Corporate
+2058,South,Corporate
+2059,West,Consumer
+2060,South,Consumer
+2061,West,Consumer
+2062,Midwest,Consumer
+2063,Midwest,Small Business
+2064,West,Consumer
+2065,West,Small Business
+2066,West,Small Business
+2067,Midwest,Consumer
+2068,East,Small Business
+2069,South,Consumer
+2070,South,Consumer
+2071,Midwest,Corporate
+2072,South,Consumer
+2073,West,Corporate
+2074,East,Small Business
+2075,South,Corporate
+2076,East,Small Business
+2077,West,Consumer
+2078,South,Small Business
+2079,Midwest,Small Business
+2080,East,Consumer
+2081,West,Small Business
+2082,East,Consumer
+2083,South,Corporate
+2084,South,Consumer
+2085,Midwest,Consumer
+2086,West,Small Business
+2087,West,Corporate
+2088,Midwest,Consumer
+2089,Midwest,Corporate
+2090,West,Corporate
+2091,East,Small Business
+2092,East,Consumer
+2093,Midwest,Small Business
+2094,East,Consumer
+2095,West,Corporate
+2096,South,Consumer
+2097,South,Consumer
+2098,East,Corporate
+2099,Midwest,Corporate
+2100,Midwest,Consumer
+2101,Midwest,Small Business
+2102,Midwest,Consumer
+2103,Midwest,Corporate
+2104,East,Small Business
+2105,South,Corporate
+2106,South,Corporate
+2107,East,Small Business
+2108,Midwest,Corporate
+2109,East,Corporate
+2110,South,Corporate
+2111,West,Corporate
+2112,East,Corporate
+2113,Midwest,Corporate
+2114,South,Corporate
+2115,South,Corporate
+2116,South,Corporate
+2117,South,Consumer
+2118,Midwest,Consumer
+2119,West,Corporate
+2120,South,Consumer
+2121,East,Small Business
+2122,West,Consumer
+2123,South,Corporate
+2124,West,Corporate
+2125,East,Consumer
+2126,South,Corporate
+2127,East,Small Business
+2128,Midwest,Small Business
+2129,South,Corporate
+2130,South,Small Business
+2131,South,Small Business
+2132,South,Consumer
+2133,Midwest,Small Business
+2134,South,Consumer
+2135,West,Corporate
+2136,South,Consumer
+2137,Midwest,Corporate
+2138,South,Corporate
+2139,West,Corporate
+2140,Midwest,Corporate
+2141,Midwest,Corporate
+2142,West,Consumer
+2143,West,Corporate
+2144,West,Small Business
+2145,West,Small Business
+2146,West,Corporate
+2147,Midwest,Small Business
+2148,Midwest,Consumer
+2149,South,Consumer
+2150,South,Corporate
+2151,East,Corporate
+2152,South,Corporate
+2153,South,Small Business
+2154,West,Small Business
+2155,West,Consumer
+2156,South,Small Business
+2157,East,Consumer
+2158,West,Small Business
+2159,South,Consumer
+2160,South,Corporate
+2161,Midwest,Small Business
+2162,East,Consumer
+2163,Midwest,Small Business
+2164,East,Corporate
+2165,West,Consumer
+2166,East,Small Business
+2167,South,Small Business
+2168,South,Corporate
+2169,East,Corporate
+2170,East,Consumer
+2171,East,Small Business
+2172,Midwest,Small Business
+2173,East,Corporate
+2174,West,Corporate
+2175,Midwest,Consumer
+2176,Midwest,Small Business
+2177,East,Small Business
+2178,West,Consumer
+2179,Midwest,Consumer
+2180,South,Corporate
+2181,Midwest,Corporate
+2182,East,Consumer
+2183,West,Consumer
+2184,East,Small Business
+2185,South,Consumer
+2186,South,Consumer
+2187,South,Small Business
+2188,East,Consumer
+2189,Midwest,Corporate
+2190,East,Corporate
+2191,West,Small Business
+2192,Midwest,Consumer
+2193,South,Corporate
+2194,East,Corporate
+2195,South,Corporate
+2196,South,Corporate
+2197,West,Consumer
+2198,Midwest,Consumer
+2199,West,Consumer
+2200,West,Consumer
+2201,West,Corporate
+2202,South,Small Business
+2203,West,Small Business
+2204,West,Corporate
+2205,Midwest,Corporate
+2206,Midwest,Small Business
+2207,West,Small Business
+2208,Midwest,Corporate
+2209,Midwest,Corporate
+2210,West,Consumer
+2211,South,Consumer
+2212,West,Small Business
+2213,Midwest,Corporate
+2214,South,Small Business
+2215,East,Consumer
+2216,South,Consumer
+2217,Midwest,Small Business
+2218,South,Consumer
+2219,West,Corporate
+2220,East,Small Business
+2221,East,Corporate
+2222,East,Corporate
+2223,Midwest,Consumer
+2224,Midwest,Corporate
+2225,East,Small Business
+2226,South,Corporate
+2227,East,Corporate
+2228,South,Corporate
+2229,South,Corporate
+2230,Midwest,Corporate
+2231,South,Consumer
+2232,East,Small Business
+2233,Midwest,Consumer
+2234,West,Small Business
+2235,West,Small Business
+2236,Midwest,Small Business
+2237,East,Small Business
+2238,West,Small Business
+2239,West,Corporate
+2240,South,Consumer
+2241,South,Consumer
+2242,East,Corporate
+2243,Midwest,Small Business
+2244,East,Consumer
+2245,Midwest,Corporate
+2246,West,Corporate
+2247,South,Consumer
+2248,East,Consumer
+2249,East,Small Business
+2250,Midwest,Small Business
+2251,Midwest,Consumer
+2252,East,Small Business
+2253,Midwest,Corporate
+2254,East,Small Business
+2255,East,Small Business
+2256,East,Corporate
+2257,West,Small Business
+2258,Midwest,Corporate
+2259,South,Small Business
+2260,South,Consumer
+2261,Midwest,Small Business
+2262,East,Consumer
+2263,South,Consumer
+2264,South,Consumer
+2265,Midwest,Consumer
+2266,South,Consumer
+2267,East,Corporate
+2268,Midwest,Corporate
+2269,East,Corporate
+2270,South,Consumer
+2271,South,Small Business
+2272,East,Corporate
+2273,West,Small Business
+2274,South,Small Business
+2275,West,Consumer
+2276,South,Consumer
+2277,West,Consumer
+2278,West,Corporate
+2279,West,Consumer
+2280,East,Corporate
+2281,West,Corporate
+2282,West,Corporate
+2283,West,Corporate
+2284,South,Consumer
+2285,West,Corporate
+2286,South,Consumer
+2287,West,Consumer
+2288,West,Corporate
+2289,East,Consumer
+2290,South,Small Business
+2291,West,Consumer
+2292,South,Consumer
+2293,South,Corporate
+2294,Midwest,Corporate
+2295,East,Consumer
+2296,East,Corporate
+2297,East,Small Business
+2298,Midwest,Small Business
+2299,Midwest,Corporate
+2300,East,Consumer
+2301,Midwest,Small Business
+2302,Midwest,Small Business
+2303,Midwest,Consumer
+2304,East,Corporate
+2305,East,Small Business
+2306,East,Consumer
+2307,Midwest,Consumer
+2308,East,Small Business
+2309,Midwest,Corporate
+2310,West,Small Business
+2311,Midwest,Consumer
+2312,South,Small Business
+2313,East,Corporate
+2314,East,Consumer
+2315,South,Corporate
+2316,Midwest,Small Business
+2317,West,Small Business
+2318,South,Corporate
+2319,South,Small Business
+2320,Midwest,Corporate
+2321,East,Small Business
+2322,Midwest,Corporate
+2323,South,Corporate
+2324,South,Consumer
+2325,East,Consumer
+2326,East,Corporate
+2327,East,Small Business
+2328,Midwest,Small Business
+2329,East,Small Business
+2330,South,Corporate
+2331,South,Corporate
+2332,West,Corporate
+2333,Midwest,Corporate
+2334,West,Consumer
+2335,South,Corporate
+2336,West,Small Business
+2337,South,Consumer
+2338,West,Small Business
+2339,East,Corporate
+2340,West,Consumer
+2341,East,Corporate
+2342,East,Consumer
+2343,Midwest,Small Business
+2344,East,Corporate
+2345,East,Corporate
+2346,West,Consumer
+2347,South,Consumer
+2348,Midwest,Corporate
+2349,East,Consumer
+2350,Midwest,Corporate
+2351,West,Consumer
+2352,East,Small Business
+2353,West,Consumer
+2354,Midwest,Small Business
+2355,West,Consumer
+2356,Midwest,Consumer
+2357,West,Corporate
+2358,Midwest,Consumer
+2359,South,Consumer
+2360,West,Small Business
+2361,West,Consumer
+2362,South,Corporate
+2363,South,Small Business
+2364,West,Corporate
+2365,South,Corporate
+2366,East,Corporate
+2367,Midwest,Corporate
+2368,Midwest,Small Business
+2369,Midwest,Consumer
+2370,East,Corporate
+2371,South,Small Business
+2372,South,Corporate
+2373,West,Consumer
+2374,South,Small Business
+2375,West,Small Business
+2376,East,Consumer
+2377,Midwest,Small Business
+2378,Midwest,Consumer
+2379,Midwest,Small Business
+2380,South,Small Business
+2381,West,Consumer
+2382,West,Consumer
+2383,East,Small Business
+2384,South,Small Business
+2385,East,Consumer
+2386,West,Consumer
+2387,West,Small Business
+2388,Midwest,Small Business
+2389,South,Small Business
+2390,West,Consumer
+2391,Midwest,Small Business
+2392,South,Corporate
+2393,East,Consumer
+2394,South,Small Business
+2395,South,Consumer
+2396,West,Corporate
+2397,West,Consumer
+2398,South,Small Business
+2399,West,Corporate
+2400,West,Corporate
+2401,West,Small Business
+2402,Midwest,Small Business
+2403,Midwest,Small Business
+2404,South,Consumer
+2405,West,Consumer
+2406,Midwest,Consumer
+2407,South,Small Business
+2408,West,Small Business
+2409,East,Consumer
+2410,West,Corporate
+2411,West,Consumer
+2412,Midwest,Corporate
+2413,South,Small Business
+2414,South,Small Business
+2415,Midwest,Consumer
+2416,West,Consumer
+2417,East,Small Business
+2418,West,Consumer
+2419,West,Small Business
+2420,East,Small Business
+2421,Midwest,Corporate
+2422,South,Consumer
+2423,Midwest,Small Business
+2424,Midwest,Consumer
+2425,West,Corporate
+2426,South,Corporate
+2427,South,Consumer
+2428,Midwest,Consumer
+2429,East,Small Business
+2430,Midwest,Corporate
+2431,East,Corporate
+2432,South,Corporate
+2433,Midwest,Consumer
+2434,West,Small Business
+2435,Midwest,Consumer
+2436,South,Consumer
+2437,West,Consumer
+2438,West,Small Business
+2439,East,Consumer
+2440,West,Corporate
+2441,West,Corporate
+2442,Midwest,Corporate
+2443,South,Small Business
+2444,East,Consumer
+2445,Midwest,Small Business
+2446,West,Consumer
+2447,West,Corporate
+2448,East,Consumer
+2449,South,Consumer
+2450,East,Consumer
+2451,Midwest,Small Business
+2452,East,Consumer
+2453,West,Consumer
+2454,Midwest,Consumer
+2455,West,Small Business
+2456,South,Small Business
+2457,West,Small Business
+2458,West,Consumer
+2459,East,Corporate
+2460,West,Corporate
+2461,Midwest,Corporate
+2462,Midwest,Consumer
+2463,South,Corporate
+2464,Midwest,Corporate
+2465,East,Corporate
+2466,South,Consumer
+2467,Midwest,Corporate
+2468,East,Corporate
+2469,Midwest,Consumer
+2470,Midwest,Small Business
+2471,West,Corporate
+2472,Midwest,Small Business
+2473,Midwest,Corporate
+2474,East,Consumer
+2475,East,Small Business
+2476,West,Small Business
+2477,Midwest,Small Business
+2478,West,Small Business
+2479,Midwest,Corporate
+2480,South,Corporate
+2481,South,Small Business
+2482,West,Corporate
+2483,West,Small Business
+2484,West,Small Business
+2485,East,Consumer
+2486,East,Small Business
+2487,East,Corporate
+2488,West,Small Business
+2489,Midwest,Consumer
+2490,South,Corporate
+2491,West,Consumer
+2492,East,Consumer
+2493,East,Small Business
+2494,West,Consumer
+2495,West,Consumer
+2496,East,Corporate
+2497,Midwest,Consumer
+2498,East,Small Business
+2499,East,Small Business
+2500,West,Small Business
+2501,Midwest,Consumer
+2502,East,Corporate
+2503,East,Small Business
+2504,South,Consumer
+2505,West,Small Business
+2506,South,Small Business
+2507,South,Corporate
+2508,East,Small Business
+2509,West,Corporate
+2510,Midwest,Consumer
+2511,East,Small Business
+2512,Midwest,Consumer
+2513,Midwest,Consumer
+2514,West,Consumer
+2515,South,Small Business
+2516,West,Corporate
+2517,Midwest,Small Business
+2518,East,Consumer
+2519,Midwest,Corporate
+2520,East,Consumer
+2521,East,Corporate
+2522,West,Small Business
+2523,Midwest,Corporate
+2524,South,Small Business
+2525,Midwest,Consumer
+2526,Midwest,Corporate
+2527,South,Consumer
+2528,West,Corporate
+2529,Midwest,Small Business
+2530,Midwest,Corporate
+2531,East,Corporate
+2532,Midwest,Small Business
+2533,South,Small Business
+2534,East,Small Business
+2535,West,Corporate
+2536,East,Consumer
+2537,South,Corporate
+2538,South,Corporate
+2539,East,Consumer
+2540,West,Small Business
+2541,East,Corporate
+2542,West,Consumer
+2543,East,Small Business
+2544,South,Small Business
+2545,Midwest,Corporate
+2546,Midwest,Small Business
+2547,West,Small Business
+2548,West,Consumer
+2549,West,Consumer
+2550,South,Small Business
+2551,East,Consumer
+2552,South,Small Business
+2553,Midwest,Corporate
+2554,West,Consumer
+2555,East,Small Business
+2556,Midwest,Small Business
+2557,Midwest,Consumer
+2558,Midwest,Consumer
+2559,South,Corporate
+2560,West,Small Business
+2561,Midwest,Corporate
+2562,West,Corporate
+2563,South,Corporate
+2564,Midwest,Consumer
+2565,South,Corporate
+2566,South,Consumer
+2567,West,Consumer
+2568,Midwest,Corporate
+2569,South,Corporate
+2570,Midwest,Small Business
+2571,West,Corporate
+2572,South,Small Business
+2573,West,Corporate
+2574,Midwest,Corporate
+2575,Midwest,Corporate
+2576,West,Corporate
+2577,East,Small Business
+2578,South,Small Business
+2579,Midwest,Corporate
+2580,Midwest,Corporate
+2581,South,Small Business
+2582,West,Consumer
+2583,West,Consumer
+2584,West,Consumer
+2585,East,Small Business
+2586,East,Small Business
+2587,Midwest,Consumer
+2588,West,Consumer
+2589,South,Corporate
+2590,Midwest,Small Business
+2591,South,Small Business
+2592,Midwest,Consumer
+2593,East,Consumer
+2594,Midwest,Small Business
+2595,East,Corporate
+2596,Midwest,Consumer
+2597,West,Small Business
+2598,South,Small Business
+2599,West,Corporate
+2600,Midwest,Corporate
+2601,Midwest,Consumer
+2602,Midwest,Consumer
+2603,East,Consumer
+2604,South,Small Business
+2605,South,Consumer
+2606,Midwest,Small Business
+2607,Midwest,Consumer
+2608,East,Corporate
+2609,West,Corporate
+2610,West,Small Business
+2611,South,Corporate
+2612,East,Small Business
+2613,Midwest,Small Business
+2614,South,Corporate
+2615,East,Small Business
+2616,West,Corporate
+2617,East,Consumer
+2618,West,Consumer
+2619,East,Corporate
+2620,South,Corporate
+2621,West,Corporate
+2622,South,Corporate
+2623,South,Consumer
+2624,West,Small Business
+2625,West,Small Business
+2626,Midwest,Consumer
+2627,Midwest,Small Business
+2628,Midwest,Consumer
+2629,South,Small Business
+2630,South,Corporate
+2631,Midwest,Corporate
+2632,South,Corporate
+2633,South,Consumer
+2634,West,Consumer
+2635,West,Small Business
+2636,South,Small Business
+2637,Midwest,Small Business
+2638,East,Consumer
+2639,Midwest,Small Business
+2640,East,Corporate
+2641,Midwest,Small Business
+2642,West,Corporate
+2643,South,Consumer
+2644,South,Corporate
+2645,West,Corporate
+2646,East,Corporate
+2647,East,Consumer
+2648,East,Consumer
+2649,West,Consumer
+2650,East,Consumer
+2651,West,Small Business
+2652,Midwest,Consumer
+2653,Midwest,Corporate
+2654,West,Consumer
+2655,South,Small Business
+2656,Midwest,Small Business
+2657,East,Small Business
+2658,West,Corporate
+2659,East,Consumer
+2660,East,Consumer
+2661,South,Consumer
+2662,East,Corporate
+2663,South,Corporate
+2664,Midwest,Small Business
+2665,West,Small Business
+2666,East,Consumer
+2667,West,Corporate
+2668,East,Corporate
+2669,West,Consumer
+2670,East,Consumer
+2671,East,Small Business
+2672,East,Small Business
+2673,East,Small Business
+2674,East,Consumer
+2675,East,Consumer
+2676,East,Small Business
+2677,East,Small Business
+2678,East,Corporate
+2679,West,Corporate
+2680,South,Small Business
+2681,East,Small Business
+2682,South,Corporate
+2683,East,Small Business
+2684,East,Corporate
+2685,West,Corporate
+2686,Midwest,Corporate
+2687,Midwest,Consumer
+2688,West,Consumer
+2689,South,Small Business
+2690,Midwest,Corporate
+2691,West,Consumer
+2692,West,Small Business
+2693,Midwest,Small Business
+2694,South,Small Business
+2695,West,Small Business
+2696,East,Small Business
+2697,South,Corporate
+2698,South,Small Business
+2699,Midwest,Corporate
+2700,Midwest,Consumer
+2701,East,Small Business
+2702,West,Consumer
+2703,Midwest,Corporate
+2704,Midwest,Corporate
+2705,South,Consumer
+2706,Midwest,Small Business
+2707,Midwest,Small Business
+2708,Midwest,Consumer
+2709,Midwest,Consumer
+2710,South,Consumer
+2711,East,Small Business
+2712,East,Small Business
+2713,West,Small Business
+2714,Midwest,Consumer
+2715,South,Small Business
+2716,West,Corporate
+2717,West,Consumer
+2718,East,Small Business
+2719,South,Consumer
+2720,South,Corporate
+2721,South,Corporate
+2722,East,Consumer
+2723,East,Consumer
+2724,East,Corporate
+2725,East,Consumer
+2726,East,Corporate
+2727,Midwest,Corporate
+2728,Midwest,Small Business
+2729,South,Consumer
+2730,West,Consumer
+2731,South,Small Business
+2732,West,Corporate
+2733,East,Consumer
+2734,West,Small Business
+2735,South,Small Business
+2736,South,Consumer
+2737,West,Small Business
+2738,Midwest,Corporate
+2739,East,Small Business
+2740,East,Corporate
+2741,South,Corporate
+2742,Midwest,Consumer
+2743,West,Small Business
+2744,East,Corporate
+2745,Midwest,Corporate
+2746,East,Small Business
+2747,Midwest,Corporate
+2748,Midwest,Small Business
+2749,South,Consumer
+2750,East,Corporate
+2751,West,Corporate
+2752,South,Small Business
+2753,South,Small Business
+2754,West,Small Business
+2755,South,Small Business
+2756,Midwest,Corporate
+2757,Midwest,Consumer
+2758,East,Consumer
+2759,East,Consumer
+2760,West,Consumer
+2761,East,Small Business
+2762,Midwest,Corporate
+2763,West,Corporate
+2764,West,Corporate
+2765,East,Small Business
+2766,Midwest,Corporate
+2767,West,Small Business
+2768,Midwest,Corporate
+2769,Midwest,Consumer
+2770,Midwest,Small Business
+2771,East,Corporate
+2772,South,Consumer
+2773,South,Consumer
+2774,West,Consumer
+2775,Midwest,Small Business
+2776,East,Small Business
+2777,Midwest,Corporate
+2778,Midwest,Consumer
+2779,East,Corporate
+2780,South,Corporate
+2781,Midwest,Consumer
+2782,Midwest,Corporate
+2783,South,Small Business
+2784,East,Corporate
+2785,West,Consumer
+2786,South,Small Business
+2787,West,Small Business
+2788,West,Corporate
+2789,South,Corporate
+2790,Midwest,Small Business
+2791,West,Corporate
+2792,West,Consumer
+2793,East,Corporate
+2794,Midwest,Corporate
+2795,West,Small Business
+2796,East,Corporate
+2797,Midwest,Corporate
+2798,South,Corporate
+2799,South,Consumer
+2800,East,Corporate
+2801,South,Consumer
+2802,West,Consumer
+2803,Midwest,Consumer
+2804,West,Consumer
+2805,West,Small Business
+2806,South,Consumer
+2807,West,Corporate
+2808,South,Consumer
+2809,Midwest,Corporate
+2810,Midwest,Consumer
+2811,West,Small Business
+2812,East,Consumer
+2813,South,Consumer
+2814,South,Small Business
+2815,West,Consumer
+2816,South,Corporate
+2817,South,Consumer
+2818,East,Consumer
+2819,East,Consumer
+2820,West,Small Business
+2821,East,Consumer
+2822,West,Consumer
+2823,Midwest,Corporate
+2824,West,Consumer
+2825,Midwest,Consumer
+2826,West,Consumer
+2827,South,Consumer
+2828,East,Corporate
+2829,Midwest,Corporate
+2830,West,Small Business
+2831,East,Consumer
+2832,West,Small Business
+2833,East,Small Business
+2834,East,Consumer
+2835,West,Corporate
+2836,Midwest,Corporate
+2837,Midwest,Consumer
+2838,South,Consumer
+2839,East,Corporate
+2840,South,Consumer
+2841,South,Consumer
+2842,West,Consumer
+2843,West,Corporate
+2844,West,Small Business
+2845,East,Small Business
+2846,West,Consumer
+2847,West,Corporate
+2848,East,Consumer
+2849,East,Corporate
+2850,Midwest,Consumer
+2851,West,Corporate
+2852,West,Corporate
+2853,West,Small Business
+2854,Midwest,Consumer
+2855,West,Small Business
+2856,Midwest,Small Business
+2857,South,Corporate
+2858,Midwest,Consumer
+2859,South,Corporate
+2860,West,Corporate
+2861,South,Corporate
+2862,Midwest,Consumer
+2863,East,Consumer
+2864,South,Corporate
+2865,South,Consumer
+2866,West,Corporate
+2867,Midwest,Consumer
+2868,South,Consumer
+2869,South,Small Business
+2870,South,Corporate
+2871,South,Small Business
+2872,East,Small Business
+2873,Midwest,Corporate
+2874,West,Corporate
+2875,West,Consumer
+2876,East,Corporate
+2877,Midwest,Small Business
+2878,South,Small Business
+2879,East,Corporate
+2880,Midwest,Small Business
+2881,South,Consumer
+2882,East,Small Business
+2883,Midwest,Consumer
+2884,West,Small Business
+2885,West,Consumer
+2886,Midwest,Consumer
+2887,West,Corporate
+2888,Midwest,Consumer
+2889,South,Corporate
+2890,Midwest,Small Business
+2891,South,Small Business
+2892,East,Small Business
+2893,Midwest,Consumer
+2894,East,Small Business
+2895,West,Small Business
+2896,South,Corporate
+2897,Midwest,Corporate
+2898,East,Small Business
+2899,South,Small Business
+2900,South,Consumer
+2901,West,Consumer
+2902,West,Small Business
+2903,South,Corporate
+2904,South,Small Business
+2905,Midwest,Consumer
+2906,South,Corporate
+2907,Midwest,Corporate
+2908,South,Consumer
+2909,West,Small Business
+2910,Midwest,Small Business
+2911,East,Small Business
+2912,West,Consumer
+2913,Midwest,Corporate
+2914,Midwest,Consumer
+2915,East,Small Business
+2916,Midwest,Consumer
+2917,South,Corporate
+2918,East,Consumer
+2919,West,Small Business
+2920,West,Corporate
+2921,South,Consumer
+2922,West,Consumer
+2923,Midwest,Corporate
+2924,Midwest,Corporate
+2925,South,Small Business
+2926,West,Corporate
+2927,West,Small Business
+2928,South,Consumer
+2929,East,Small Business
+2930,West,Consumer
+2931,East,Corporate
+2932,West,Consumer
+2933,West,Corporate
+2934,West,Consumer
+2935,West,Consumer
+2936,Midwest,Consumer
+2937,East,Consumer
+2938,East,Small Business
+2939,West,Consumer
+2940,West,Small Business
+2941,East,Corporate
+2942,Midwest,Corporate
+2943,South,Small Business
+2944,South,Corporate
+2945,East,Corporate
+2946,West,Consumer
+2947,West,Consumer
+2948,Midwest,Consumer
+2949,South,Small Business
+2950,Midwest,Small Business
+2951,South,Corporate
+2952,East,Consumer
+2953,South,Small Business
+2954,Midwest,Small Business
+2955,Midwest,Consumer
+2956,Midwest,Small Business
+2957,East,Consumer
+2958,South,Corporate
+2959,South,Corporate
+2960,Midwest,Corporate
+2961,South,Consumer
+2962,West,Small Business
+2963,West,Corporate
+2964,West,Corporate
+2965,South,Corporate
+2966,East,Small Business
+2967,East,Small Business
+2968,East,Consumer
+2969,East,Corporate
+2970,West,Small Business
+2971,West,Consumer
+2972,Midwest,Corporate
+2973,South,Small Business
+2974,South,Small Business
+2975,East,Consumer
+2976,West,Corporate
+2977,East,Corporate
+2978,Midwest,Small Business
+2979,South,Corporate
+2980,South,Consumer
+2981,East,Small Business
+2982,Midwest,Small Business
+2983,South,Consumer
+2984,Midwest,Small Business
+2985,Midwest,Corporate
+2986,East,Corporate
+2987,West,Small Business
+2988,East,Consumer
+2989,West,Consumer
+2990,Midwest,Corporate
+2991,West,Consumer
+2992,Midwest,Small Business
+2993,South,Small Business
+2994,South,Corporate
+2995,South,Corporate
+2996,East,Corporate
+2997,East,Consumer
+2998,Midwest,Small Business
+2999,South,Small Business
+3000,East,Small Business
+3001,South,Corporate
+3002,East,Small Business
+3003,West,Consumer
+3004,West,Consumer
+3005,South,Small Business
+3006,Midwest,Corporate
+3007,East,Small Business
+3008,East,Consumer
+3009,West,Consumer
+3010,West,Consumer
+3011,Midwest,Small Business
+3012,Midwest,Consumer
+3013,Midwest,Corporate
+3014,South,Small Business
+3015,West,Small Business
+3016,South,Consumer
+3017,West,Consumer
+3018,West,Corporate
+3019,East,Small Business
+3020,West,Consumer
+3021,West,Corporate
+3022,South,Consumer
+3023,West,Small Business
+3024,South,Consumer
+3025,Midwest,Small Business
+3026,West,Consumer
+3027,West,Small Business
+3028,South,Corporate
+3029,Midwest,Small Business
+3030,East,Corporate
+3031,Midwest,Small Business
+3032,South,Corporate
+3033,Midwest,Consumer
+3034,South,Small Business
+3035,South,Consumer
+3036,East,Corporate
+3037,West,Small Business
+3038,South,Small Business
+3039,South,Consumer
+3040,East,Small Business
+3041,South,Small Business
+3042,West,Consumer
+3043,East,Small Business
+3044,West,Consumer
+3045,West,Consumer
+3046,East,Consumer
+3047,South,Consumer
+3048,West,Consumer
+3049,West,Corporate
+3050,West,Corporate
+3051,West,Consumer
+3052,East,Corporate
+3053,East,Corporate
+3054,Midwest,Small Business
+3055,Midwest,Consumer
+3056,West,Corporate
+3057,South,Small Business
+3058,West,Small Business
+3059,South,Consumer
+3060,West,Consumer
+3061,Midwest,Small Business
+3062,Midwest,Consumer
+3063,South,Consumer
+3064,West,Small Business
+3065,South,Small Business
+3066,Midwest,Consumer
+3067,West,Corporate
+3068,West,Consumer
+3069,South,Corporate
+3070,East,Small Business
+3071,South,Corporate
+3072,Midwest,Small Business
+3073,Midwest,Consumer
+3074,Midwest,Consumer
+3075,Midwest,Small Business
+3076,Midwest,Small Business
+3077,East,Small Business
+3078,West,Consumer
+3079,South,Consumer
+3080,South,Corporate
+3081,Midwest,Small Business
+3082,South,Corporate
+3083,Midwest,Consumer
+3084,East,Corporate
+3085,East,Corporate
+3086,West,Consumer
+3087,East,Consumer
+3088,East,Small Business
+3089,West,Corporate
+3090,South,Consumer
+3091,Midwest,Consumer
+3092,Midwest,Corporate
+3093,South,Consumer
+3094,West,Small Business
+3095,South,Small Business
+3096,East,Corporate
+3097,West,Small Business
+3098,West,Consumer
+3099,West,Consumer
+3100,Midwest,Consumer
+3101,South,Consumer
+3102,West,Corporate
+3103,West,Small Business
+3104,West,Small Business
+3105,South,Consumer
+3106,Midwest,Corporate
+3107,East,Consumer
+3108,Midwest,Consumer
+3109,West,Corporate
+3110,Midwest,Corporate
+3111,Midwest,Consumer
+3112,East,Small Business
+3113,South,Consumer
+3114,South,Small Business
+3115,Midwest,Small Business
+3116,Midwest,Corporate
+3117,South,Corporate
+3118,South,Consumer
+3119,East,Small Business
+3120,West,Small Business
+3121,Midwest,Consumer
+3122,South,Consumer
+3123,Midwest,Consumer
+3124,Midwest,Corporate
+3125,South,Consumer
+3126,East,Consumer
+3127,Midwest,Small Business
+3128,East,Consumer
+3129,South,Small Business
+3130,West,Small Business
+3131,West,Corporate
+3132,Midwest,Consumer
+3133,South,Consumer
+3134,East,Small Business
+3135,Midwest,Corporate
+3136,South,Corporate
+3137,South,Consumer
+3138,East,Small Business
+3139,Midwest,Consumer
+3140,South,Consumer
+3141,South,Consumer
+3142,South,Consumer
+3143,East,Small Business
+3144,Midwest,Corporate
+3145,Midwest,Consumer
+3146,Midwest,Consumer
+3147,Midwest,Consumer
+3148,West,Consumer
+3149,West,Corporate
+3150,Midwest,Corporate
+3151,East,Corporate
+3152,West,Corporate
+3153,South,Consumer
+3154,West,Small Business
+3155,South,Corporate
+3156,Midwest,Corporate
+3157,West,Consumer
+3158,East,Consumer
+3159,West,Consumer
+3160,West,Consumer
+3161,West,Small Business
+3162,Midwest,Small Business
+3163,East,Corporate
+3164,West,Small Business
+3165,East,Corporate
+3166,Midwest,Corporate
+3167,South,Small Business
+3168,West,Corporate
+3169,East,Consumer
+3170,East,Corporate
+3171,Midwest,Consumer
+3172,West,Small Business
+3173,South,Small Business
+3174,East,Corporate
+3175,West,Consumer
+3176,South,Corporate
+3177,East,Small Business
+3178,East,Corporate
+3179,South,Corporate
+3180,South,Consumer
+3181,Midwest,Small Business
+3182,West,Corporate
+3183,West,Consumer
+3184,Midwest,Corporate
+3185,East,Consumer
+3186,South,Consumer
+3187,South,Corporate
+3188,South,Small Business
+3189,East,Small Business
+3190,South,Consumer
+3191,South,Small Business
+3192,Midwest,Consumer
+3193,East,Small Business
+3194,West,Corporate
+3195,Midwest,Small Business
+3196,Midwest,Consumer
+3197,West,Consumer
+3198,Midwest,Small Business
+3199,East,Corporate
+3200,South,Consumer
+3201,East,Consumer
+3202,West,Consumer
+3203,West,Consumer
+3204,Midwest,Consumer
+3205,East,Corporate
+3206,East,Small Business
+3207,West,Corporate
+3208,East,Corporate
+3209,West,Consumer
+3210,East,Corporate
+3211,East,Consumer
+3212,East,Corporate
+3213,West,Consumer
+3214,Midwest,Consumer
+3215,East,Corporate
+3216,West,Corporate
+3217,West,Small Business
+3218,East,Small Business
+3219,East,Small Business
+3220,Midwest,Corporate
+3221,West,Corporate
+3222,West,Consumer
+3223,South,Small Business
+3224,West,Consumer
+3225,Midwest,Consumer
+3226,South,Consumer
+3227,South,Consumer
+3228,South,Small Business
+3229,East,Consumer
+3230,East,Corporate
+3231,West,Corporate
+3232,South,Corporate
+3233,Midwest,Small Business
+3234,East,Consumer
+3235,Midwest,Small Business
+3236,Midwest,Consumer
+3237,East,Small Business
+3238,East,Small Business
+3239,East,Consumer
+3240,East,Small Business
+3241,South,Consumer
+3242,South,Corporate
+3243,South,Corporate
+3244,South,Corporate
+3245,West,Small Business
+3246,South,Corporate
+3247,East,Consumer
+3248,Midwest,Corporate
+3249,South,Corporate
+3250,West,Small Business
+3251,East,Consumer
+3252,Midwest,Small Business
+3253,Midwest,Small Business
+3254,South,Consumer
+3255,Midwest,Small Business
+3256,South,Consumer
+3257,South,Corporate
+3258,East,Consumer
+3259,East,Consumer
+3260,West,Consumer
+3261,East,Small Business
+3262,East,Consumer
+3263,South,Consumer
+3264,East,Consumer
+3265,South,Corporate
+3266,South,Consumer
+3267,East,Small Business
+3268,West,Consumer
+3269,West,Consumer
+3270,Midwest,Corporate
+3271,Midwest,Consumer
+3272,East,Small Business
+3273,West,Consumer
+3274,South,Small Business
+3275,Midwest,Corporate
+3276,South,Consumer
+3277,Midwest,Corporate
+3278,East,Consumer
+3279,West,Small Business
+3280,Midwest,Corporate
+3281,West,Consumer
+3282,South,Small Business
+3283,East,Corporate
+3284,West,Consumer
+3285,East,Corporate
+3286,West,Consumer
+3287,South,Small Business
+3288,South,Small Business
+3289,East,Corporate
+3290,South,Corporate
+3291,Midwest,Consumer
+3292,West,Small Business
+3293,South,Consumer
+3294,Midwest,Small Business
+3295,East,Corporate
+3296,Midwest,Consumer
+3297,East,Consumer
+3298,East,Small Business
+3299,West,Small Business
+3300,West,Small Business
+3301,Midwest,Corporate
+3302,West,Consumer
+3303,West,Small Business
+3304,West,Corporate
+3305,Midwest,Small Business
+3306,South,Consumer
+3307,West,Small Business
+3308,West,Consumer
+3309,Midwest,Corporate
+3310,South,Corporate
+3311,West,Small Business
+3312,East,Consumer
+3313,Midwest,Consumer
+3314,West,Consumer
+3315,West,Small Business
+3316,East,Consumer
+3317,East,Consumer
+3318,Midwest,Consumer
+3319,Midwest,Consumer
+3320,East,Small Business
+3321,Midwest,Small Business
+3322,East,Consumer
+3323,West,Consumer
+3324,East,Corporate
+3325,East,Corporate
+3326,South,Consumer
+3327,East,Consumer
+3328,East,Corporate
+3329,South,Corporate
+3330,Midwest,Consumer
+3331,South,Small Business
+3332,West,Small Business
+3333,South,Consumer
+3334,West,Consumer
+3335,Midwest,Corporate
+3336,South,Corporate
+3337,South,Small Business
+3338,Midwest,Consumer
+3339,West,Corporate
+3340,South,Small Business
+3341,West,Small Business
+3342,South,Small Business
+3343,East,Corporate
+3344,South,Corporate
+3345,Midwest,Consumer
+3346,Midwest,Consumer
+3347,West,Small Business
+3348,South,Small Business
+3349,West,Corporate
+3350,West,Corporate
+3351,East,Consumer
+3352,East,Consumer
+3353,Midwest,Consumer
+3354,West,Corporate
+3355,Midwest,Small Business
+3356,South,Consumer
+3357,West,Consumer
+3358,West,Corporate
+3359,South,Consumer
+3360,South,Small Business
+3361,Midwest,Corporate
+3362,Midwest,Consumer
+3363,South,Consumer
+3364,Midwest,Corporate
+3365,South,Corporate
+3366,West,Consumer
+3367,West,Small Business
+3368,East,Corporate
+3369,West,Small Business
+3370,South,Consumer
+3371,Midwest,Small Business
+3372,East,Consumer
+3373,Midwest,Consumer
+3374,South,Consumer
+3375,West,Consumer
+3376,East,Small Business
+3377,South,Consumer
+3378,East,Consumer
+3379,East,Small Business
+3380,West,Corporate
+3381,South,Small Business
+3382,Midwest,Small Business
+3383,East,Small Business
+3384,East,Consumer
+3385,Midwest,Consumer
+3386,South,Consumer
+3387,East,Corporate
+3388,East,Consumer
+3389,East,Corporate
+3390,South,Consumer
+3391,South,Small Business
+3392,Midwest,Consumer
+3393,South,Corporate
+3394,South,Corporate
+3395,West,Consumer
+3396,Midwest,Small Business
+3397,East,Consumer
+3398,South,Consumer
+3399,East,Consumer
+3400,East,Small Business
+3401,West,Corporate
+3402,South,Small Business
+3403,Midwest,Corporate
+3404,South,Corporate
+3405,East,Corporate
+3406,Midwest,Small Business
+3407,South,Consumer
+3408,East,Consumer
+3409,East,Consumer
+3410,West,Consumer
+3411,West,Consumer
+3412,West,Small Business
+3413,East,Small Business
+3414,South,Small Business
+3415,West,Small Business
+3416,South,Small Business
+3417,West,Small Business
+3418,Midwest,Small Business
+3419,Midwest,Consumer
+3420,West,Corporate
+3421,East,Small Business
+3422,West,Corporate
+3423,West,Small Business
+3424,East,Small Business
+3425,Midwest,Consumer
+3426,South,Corporate
+3427,West,Consumer
+3428,East,Consumer
+3429,West,Corporate
+3430,East,Consumer
+3431,South,Small Business
+3432,South,Small Business
+3433,Midwest,Small Business
+3434,East,Small Business
+3435,East,Small Business
+3436,Midwest,Consumer
+3437,Midwest,Consumer
+3438,East,Small Business
+3439,Midwest,Small Business
+3440,South,Consumer
+3441,West,Corporate
+3442,South,Consumer
+3443,Midwest,Consumer
+3444,East,Consumer
+3445,East,Consumer
+3446,South,Consumer
+3447,East,Corporate
+3448,Midwest,Small Business
+3449,South,Small Business
+3450,East,Corporate
+3451,West,Small Business
+3452,West,Small Business
+3453,Midwest,Small Business
+3454,East,Corporate
+3455,Midwest,Corporate
+3456,South,Small Business
+3457,West,Small Business
+3458,South,Small Business
+3459,East,Consumer
+3460,Midwest,Consumer
+3461,Midwest,Consumer
+3462,Midwest,Corporate
+3463,South,Small Business
+3464,West,Corporate
+3465,South,Corporate
+3466,South,Corporate
+3467,East,Small Business
+3468,East,Consumer
+3469,East,Small Business
+3470,West,Small Business
+3471,West,Corporate
+3472,East,Corporate
+3473,East,Corporate
+3474,West,Consumer
+3475,Midwest,Consumer
+3476,West,Consumer
+3477,West,Small Business
+3478,West,Corporate
+3479,East,Small Business
+3480,Midwest,Consumer
+3481,West,Corporate
+3482,East,Consumer
+3483,South,Corporate
+3484,South,Corporate
+3485,West,Small Business
+3486,South,Small Business
+3487,Midwest,Consumer
+3488,South,Small Business
+3489,South,Small Business
+3490,Midwest,Small Business
+3491,West,Corporate
+3492,West,Small Business
+3493,Midwest,Consumer
+3494,Midwest,Corporate
+3495,Midwest,Corporate
+3496,South,Small Business
+3497,Midwest,Corporate
+3498,East,Consumer
+3499,South,Consumer
+3500,West,Corporate
+3501,West,Small Business
+3502,West,Small Business
+3503,South,Corporate
+3504,East,Consumer
+3505,Midwest,Corporate
+3506,Midwest,Small Business
+3507,West,Small Business
+3508,West,Corporate
+3509,South,Consumer
+3510,East,Corporate
+3511,Midwest,Consumer
+3512,South,Consumer
+3513,Midwest,Corporate
+3514,West,Corporate
+3515,Midwest,Consumer
+3516,East,Consumer
+3517,East,Consumer
+3518,West,Consumer
+3519,East,Small Business
+3520,East,Corporate
+3521,South,Consumer
+3522,Midwest,Corporate
+3523,West,Consumer
+3524,West,Corporate
+3525,West,Corporate
+3526,West,Consumer
+3527,West,Consumer
+3528,East,Corporate
+3529,South,Corporate
+3530,West,Corporate
+3531,South,Small Business
+3532,South,Consumer
+3533,East,Small Business
+3534,West,Small Business
+3535,East,Consumer
+3536,West,Consumer
+3537,East,Small Business
+3538,South,Consumer
+3539,West,Corporate
+3540,Midwest,Corporate
+3541,South,Small Business
+3542,Midwest,Small Business
+3543,South,Consumer
+3544,East,Consumer
+3545,West,Small Business
+3546,South,Small Business
+3547,East,Corporate
+3548,West,Corporate
+3549,West,Consumer
+3550,South,Corporate
+3551,West,Consumer
+3552,South,Consumer
+3553,West,Consumer
+3554,Midwest,Corporate
+3555,East,Small Business
+3556,Midwest,Small Business
+3557,South,Corporate
+3558,Midwest,Small Business
+3559,South,Consumer
+3560,West,Small Business
+3561,West,Corporate
+3562,South,Small Business
+3563,Midwest,Consumer
+3564,West,Consumer
+3565,East,Corporate
+3566,West,Corporate
+3567,East,Corporate
+3568,Midwest,Consumer
+3569,East,Small Business
+3570,East,Small Business
+3571,East,Corporate
+3572,East,Small Business
+3573,West,Small Business
+3574,East,Corporate
+3575,West,Corporate
+3576,East,Consumer
+3577,South,Consumer
+3578,Midwest,Consumer
+3579,East,Consumer
+3580,South,Small Business
+3581,East,Small Business
+3582,East,Consumer
+3583,East,Consumer
+3584,South,Corporate
+3585,Midwest,Small Business
+3586,South,Small Business
+3587,Midwest,Consumer
+3588,East,Small Business
+3589,West,Corporate
+3590,East,Corporate
+3591,Midwest,Small Business
+3592,South,Consumer
+3593,East,Small Business
+3594,South,Corporate
+3595,South,Consumer
+3596,South,Small Business
+3597,East,Consumer
+3598,South,Consumer
+3599,South,Corporate
+3600,East,Consumer
+3601,South,Small Business
+3602,East,Consumer
+3603,Midwest,Consumer
+3604,Midwest,Small Business
+3605,Midwest,Corporate
+3606,South,Corporate
+3607,West,Small Business
+3608,West,Small Business
+3609,South,Corporate
+3610,West,Consumer
+3611,East,Small Business
+3612,West,Consumer
+3613,South,Small Business
+3614,South,Corporate
+3615,East,Consumer
+3616,Midwest,Consumer
+3617,South,Small Business
+3618,East,Consumer
+3619,West,Small Business
+3620,West,Corporate
+3621,East,Consumer
+3622,East,Small Business
+3623,South,Consumer
+3624,West,Small Business
+3625,East,Small Business
+3626,West,Small Business
+3627,East,Corporate
+3628,West,Consumer
+3629,Midwest,Corporate
+3630,South,Small Business
+3631,West,Small Business
+3632,Midwest,Corporate
+3633,West,Corporate
+3634,West,Consumer
+3635,Midwest,Small Business
+3636,West,Corporate
+3637,West,Small Business
+3638,South,Small Business
+3639,Midwest,Consumer
+3640,Midwest,Consumer
+3641,East,Consumer
+3642,West,Corporate
+3643,South,Small Business
+3644,West,Corporate
+3645,West,Corporate
+3646,East,Consumer
+3647,West,Small Business
+3648,South,Small Business
+3649,South,Consumer
+3650,East,Small Business
+3651,West,Consumer
+3652,South,Corporate
+3653,West,Corporate
+3654,West,Consumer
+3655,West,Corporate
+3656,East,Corporate
+3657,West,Consumer
+3658,South,Corporate
+3659,West,Small Business
+3660,South,Corporate
+3661,West,Consumer
+3662,South,Small Business
+3663,South,Small Business
+3664,West,Corporate
+3665,West,Small Business
+3666,South,Consumer
+3667,Midwest,Small Business
+3668,East,Corporate
+3669,Midwest,Corporate
+3670,Midwest,Small Business
+3671,West,Consumer
+3672,East,Consumer
+3673,Midwest,Corporate
+3674,West,Corporate
+3675,Midwest,Consumer
+3676,Midwest,Small Business
+3677,West,Small Business
+3678,West,Small Business
+3679,West,Small Business
+3680,East,Consumer
+3681,Midwest,Corporate
+3682,West,Corporate
+3683,South,Small Business
+3684,Midwest,Consumer
+3685,South,Consumer
+3686,East,Small Business
+3687,West,Small Business
+3688,South,Small Business
+3689,East,Corporate
+3690,West,Small Business
+3691,South,Corporate
+3692,South,Consumer
+3693,East,Consumer
+3694,West,Corporate
+3695,West,Corporate
+3696,South,Corporate
+3697,South,Corporate
+3698,South,Small Business
+3699,West,Consumer
+3700,East,Small Business
+3701,East,Corporate
+3702,West,Small Business
+3703,Midwest,Small Business
+3704,East,Consumer
+3705,South,Small Business
+3706,Midwest,Consumer
+3707,Midwest,Corporate
+3708,East,Small Business
+3709,Midwest,Corporate
+3710,Midwest,Consumer
+3711,East,Corporate
+3712,East,Corporate
+3713,Midwest,Consumer
+3714,South,Corporate
+3715,West,Corporate
+3716,Midwest,Corporate
+3717,Midwest,Small Business
+3718,South,Corporate
+3719,Midwest,Consumer
+3720,Midwest,Small Business
+3721,West,Small Business
+3722,West,Consumer
+3723,West,Corporate
+3724,East,Small Business
+3725,East,Small Business
+3726,West,Small Business
+3727,West,Corporate
+3728,East,Small Business
+3729,South,Consumer
+3730,Midwest,Corporate
+3731,Midwest,Consumer
+3732,West,Consumer
+3733,South,Small Business
+3734,East,Small Business
+3735,West,Small Business
+3736,South,Consumer
+3737,South,Corporate
+3738,South,Small Business
+3739,East,Small Business
+3740,East,Consumer
+3741,Midwest,Corporate
+3742,Midwest,Consumer
+3743,South,Small Business
+3744,South,Consumer
+3745,East,Small Business
+3746,Midwest,Corporate
+3747,South,Consumer
+3748,Midwest,Small Business
+3749,Midwest,Small Business
+3750,South,Small Business
+3751,East,Small Business
+3752,South,Consumer
+3753,South,Small Business
+3754,Midwest,Consumer
+3755,South,Small Business
+3756,East,Consumer
+3757,South,Consumer
+3758,East,Small Business
+3759,East,Small Business
+3760,Midwest,Small Business
+3761,West,Small Business
+3762,West,Corporate
+3763,Midwest,Small Business
+3764,South,Small Business
+3765,Midwest,Small Business
+3766,East,Consumer
+3767,West,Small Business
+3768,Midwest,Consumer
+3769,South,Consumer
+3770,Midwest,Consumer
+3771,West,Consumer
+3772,Midwest,Corporate
+3773,Midwest,Small Business
+3774,West,Consumer
+3775,East,Small Business
+3776,East,Consumer
+3777,West,Corporate
+3778,Midwest,Consumer
+3779,West,Small Business
+3780,East,Small Business
+3781,South,Corporate
+3782,Midwest,Small Business
+3783,East,Small Business
+3784,Midwest,Consumer
+3785,West,Small Business
+3786,South,Consumer
+3787,West,Corporate
+3788,South,Small Business
+3789,Midwest,Consumer
+3790,Midwest,Small Business
+3791,West,Consumer
+3792,South,Corporate
+3793,South,Consumer
+3794,Midwest,Small Business
+3795,West,Consumer
+3796,South,Small Business
+3797,Midwest,Corporate
+3798,East,Consumer
+3799,West,Small Business
+3800,East,Small Business
+3801,West,Small Business
+3802,Midwest,Consumer
+3803,South,Consumer
+3804,South,Consumer
+3805,South,Corporate
+3806,West,Small Business
+3807,Midwest,Small Business
+3808,East,Corporate
+3809,Midwest,Corporate
+3810,East,Consumer
+3811,West,Consumer
+3812,West,Consumer
+3813,East,Consumer
+3814,East,Consumer
+3815,East,Consumer
+3816,Midwest,Corporate
+3817,East,Corporate
+3818,West,Corporate
+3819,West,Small Business
+3820,South,Small Business
+3821,East,Consumer
+3822,Midwest,Corporate
+3823,Midwest,Small Business
+3824,Midwest,Small Business
+3825,South,Corporate
+3826,West,Small Business
+3827,Midwest,Small Business
+3828,West,Corporate
+3829,South,Small Business
+3830,East,Corporate
+3831,East,Small Business
+3832,East,Corporate
+3833,Midwest,Small Business
+3834,East,Small Business
+3835,Midwest,Corporate
+3836,South,Small Business
+3837,South,Corporate
+3838,Midwest,Corporate
+3839,West,Small Business
+3840,East,Consumer
+3841,East,Small Business
+3842,East,Consumer
+3843,Midwest,Consumer
+3844,South,Small Business
+3845,East,Consumer
+3846,South,Corporate
+3847,East,Corporate
+3848,East,Consumer
+3849,Midwest,Corporate
+3850,West,Small Business
+3851,Midwest,Corporate
+3852,East,Consumer
+3853,East,Small Business
+3854,West,Corporate
+3855,South,Small Business
+3856,South,Consumer
+3857,East,Corporate
+3858,South,Small Business
+3859,East,Small Business
+3860,West,Corporate
+3861,West,Small Business
+3862,East,Small Business
+3863,West,Consumer
+3864,Midwest,Consumer
+3865,Midwest,Consumer
+3866,West,Consumer
+3867,East,Consumer
+3868,East,Consumer
+3869,West,Corporate
+3870,South,Consumer
+3871,Midwest,Small Business
+3872,South,Corporate
+3873,East,Small Business
+3874,East,Consumer
+3875,South,Consumer
+3876,West,Small Business
+3877,South,Small Business
+3878,South,Small Business
+3879,Midwest,Corporate
+3880,Midwest,Consumer
+3881,South,Small Business
+3882,South,Consumer
+3883,East,Small Business
+3884,Midwest,Consumer
+3885,Midwest,Corporate
+3886,East,Consumer
+3887,West,Small Business
+3888,Midwest,Consumer
+3889,Midwest,Corporate
+3890,West,Corporate
+3891,Midwest,Consumer
+3892,Midwest,Small Business
+3893,West,Corporate
+3894,West,Corporate
+3895,South,Consumer
+3896,East,Corporate
+3897,East,Corporate
+3898,West,Small Business
+3899,West,Small Business
+3900,Midwest,Small Business
+3901,South,Consumer
+3902,South,Corporate
+3903,West,Consumer
+3904,Midwest,Corporate
+3905,Midwest,Corporate
+3906,East,Corporate
+3907,East,Small Business
+3908,Midwest,Consumer
+3909,East,Consumer
+3910,West,Corporate
+3911,Midwest,Consumer
+3912,East,Small Business
+3913,South,Consumer
+3914,Midwest,Corporate
+3915,Midwest,Small Business
+3916,South,Small Business
+3917,West,Corporate
+3918,South,Consumer
+3919,Midwest,Corporate
+3920,West,Consumer
+3921,East,Consumer
+3922,East,Small Business
+3923,East,Corporate
+3924,Midwest,Small Business
+3925,South,Corporate
+3926,West,Corporate
+3927,East,Small Business
+3928,West,Corporate
+3929,Midwest,Corporate
+3930,East,Consumer
+3931,Midwest,Corporate
+3932,South,Corporate
+3933,Midwest,Small Business
+3934,Midwest,Small Business
+3935,South,Corporate
+3936,West,Consumer
+3937,South,Consumer
+3938,South,Small Business
+3939,Midwest,Corporate
+3940,West,Corporate
+3941,East,Consumer
+3942,South,Consumer
+3943,West,Consumer
+3944,South,Small Business
+3945,South,Corporate
+3946,South,Small Business
+3947,South,Corporate
+3948,Midwest,Small Business
+3949,West,Corporate
+3950,West,Consumer
+3951,West,Consumer
+3952,South,Consumer
+3953,Midwest,Small Business
+3954,South,Consumer
+3955,South,Corporate
+3956,West,Small Business
+3957,South,Corporate
+3958,East,Small Business
+3959,South,Corporate
+3960,East,Corporate
+3961,South,Small Business
+3962,Midwest,Small Business
+3963,Midwest,Consumer
+3964,West,Consumer
+3965,South,Corporate
+3966,East,Corporate
+3967,East,Corporate
+3968,South,Small Business
+3969,East,Small Business
+3970,Midwest,Consumer
+3971,East,Corporate
+3972,West,Consumer
+3973,Midwest,Small Business
+3974,Midwest,Small Business
+3975,Midwest,Small Business
+3976,South,Consumer
+3977,South,Small Business
+3978,Midwest,Corporate
+3979,South,Consumer
+3980,East,Small Business
+3981,South,Consumer
+3982,South,Consumer
+3983,Midwest,Small Business
+3984,West,Small Business
+3985,West,Consumer
+3986,West,Consumer
+3987,East,Small Business
+3988,South,Corporate
+3989,West,Consumer
+3990,Midwest,Consumer
+3991,West,Corporate
+3992,West,Small Business
+3993,South,Small Business
+3994,South,Corporate
+3995,South,Small Business
+3996,East,Small Business
+3997,East,Consumer
+3998,West,Consumer
+3999,South,Consumer
+4000,West,Corporate
+4001,Midwest,Small Business
+4002,Midwest,Small Business
+4003,South,Consumer
+4004,South,Consumer
+4005,Midwest,Corporate
+4006,South,Small Business
+4007,East,Corporate
+4008,East,Small Business
+4009,South,Corporate
+4010,Midwest,Consumer
+4011,West,Corporate
+4012,South,Corporate
+4013,South,Consumer
+4014,West,Small Business
+4015,South,Small Business
+4016,West,Consumer
+4017,Midwest,Corporate
+4018,East,Corporate
+4019,Midwest,Corporate
+4020,East,Small Business
+4021,West,Corporate
+4022,East,Small Business
+4023,Midwest,Corporate
+4024,East,Consumer
+4025,West,Consumer
+4026,East,Small Business
+4027,South,Small Business
+4028,Midwest,Consumer
+4029,South,Consumer
+4030,West,Corporate
+4031,East,Consumer
+4032,South,Small Business
+4033,South,Consumer
+4034,East,Small Business
+4035,East,Small Business
+4036,Midwest,Corporate
+4037,South,Corporate
+4038,South,Corporate
+4039,West,Corporate
+4040,Midwest,Consumer
+4041,West,Corporate
+4042,South,Consumer
+4043,West,Corporate
+4044,South,Corporate
+4045,South,Small Business
+4046,West,Consumer
+4047,West,Small Business
+4048,East,Corporate
+4049,East,Consumer
+4050,East,Corporate
+4051,South,Small Business
+4052,West,Consumer
+4053,Midwest,Small Business
+4054,South,Corporate
+4055,Midwest,Corporate
+4056,West,Corporate
+4057,South,Consumer
+4058,Midwest,Small Business
+4059,Midwest,Small Business
+4060,East,Corporate
+4061,East,Small Business
+4062,East,Consumer
+4063,South,Corporate
+4064,West,Corporate
+4065,West,Corporate
+4066,East,Consumer
+4067,East,Corporate
+4068,East,Corporate
+4069,Midwest,Corporate
+4070,East,Corporate
+4071,Midwest,Small Business
+4072,West,Corporate
+4073,South,Consumer
+4074,South,Corporate
+4075,South,Corporate
+4076,South,Small Business
+4077,Midwest,Corporate
+4078,Midwest,Small Business
+4079,East,Consumer
+4080,Midwest,Small Business
+4081,East,Corporate
+4082,East,Consumer
+4083,South,Corporate
+4084,Midwest,Small Business
+4085,Midwest,Consumer
+4086,East,Consumer
+4087,East,Small Business
+4088,West,Small Business
+4089,West,Consumer
+4090,East,Consumer
+4091,West,Small Business
+4092,West,Corporate
+4093,East,Consumer
+4094,East,Small Business
+4095,Midwest,Corporate
+4096,East,Consumer
+4097,East,Consumer
+4098,South,Small Business
+4099,Midwest,Corporate
+4100,Midwest,Consumer
+4101,Midwest,Corporate
+4102,South,Corporate
+4103,East,Consumer
+4104,Midwest,Corporate
+4105,Midwest,Consumer
+4106,West,Corporate
+4107,Midwest,Consumer
+4108,East,Small Business
+4109,East,Consumer
+4110,West,Consumer
+4111,Midwest,Consumer
+4112,Midwest,Corporate
+4113,Midwest,Small Business
+4114,South,Corporate
+4115,Midwest,Corporate
+4116,East,Consumer
+4117,East,Corporate
+4118,South,Consumer
+4119,South,Small Business
+4120,Midwest,Corporate
+4121,West,Corporate
+4122,South,Corporate
+4123,South,Consumer
+4124,Midwest,Consumer
+4125,Midwest,Corporate
+4126,South,Corporate
+4127,West,Small Business
+4128,South,Small Business
+4129,Midwest,Small Business
+4130,Midwest,Small Business
+4131,South,Small Business
+4132,West,Consumer
+4133,South,Small Business
+4134,South,Small Business
+4135,Midwest,Corporate
+4136,West,Consumer
+4137,East,Small Business
+4138,West,Small Business
+4139,South,Small Business
+4140,South,Corporate
+4141,South,Corporate
+4142,West,Corporate
+4143,Midwest,Small Business
+4144,South,Corporate
+4145,South,Small Business
+4146,West,Consumer
+4147,East,Small Business
+4148,East,Corporate
+4149,Midwest,Consumer
+4150,Midwest,Small Business
+4151,South,Consumer
+4152,West,Consumer
+4153,South,Consumer
+4154,Midwest,Small Business
+4155,West,Corporate
+4156,West,Small Business
+4157,Midwest,Corporate
+4158,East,Small Business
+4159,East,Small Business
+4160,West,Small Business
+4161,South,Corporate
+4162,East,Small Business
+4163,South,Consumer
+4164,East,Small Business
+4165,East,Consumer
+4166,South,Corporate
+4167,Midwest,Corporate
+4168,East,Small Business
+4169,East,Small Business
+4170,South,Small Business
+4171,Midwest,Consumer
+4172,East,Corporate
+4173,East,Consumer
+4174,Midwest,Consumer
+4175,East,Small Business
+4176,Midwest,Small Business
+4177,Midwest,Consumer
+4178,South,Consumer
+4179,West,Small Business
+4180,Midwest,Small Business
+4181,South,Consumer
+4182,West,Small Business
+4183,East,Small Business
+4184,West,Consumer
+4185,Midwest,Consumer
+4186,Midwest,Corporate
+4187,Midwest,Consumer
+4188,Midwest,Small Business
+4189,Midwest,Consumer
+4190,South,Consumer
+4191,Midwest,Consumer
+4192,South,Corporate
+4193,East,Corporate
+4194,Midwest,Small Business
+4195,Midwest,Corporate
+4196,West,Consumer
+4197,East,Corporate
+4198,Midwest,Consumer
+4199,Midwest,Corporate
+4200,East,Corporate
+4201,South,Corporate
+4202,Midwest,Consumer
+4203,West,Corporate
+4204,Midwest,Consumer
+4205,West,Consumer
+4206,West,Small Business
+4207,Midwest,Corporate
+4208,Midwest,Small Business
+4209,West,Small Business
+4210,East,Consumer
+4211,East,Corporate
+4212,Midwest,Consumer
+4213,South,Consumer
+4214,East,Corporate
+4215,Midwest,Consumer
+4216,East,Corporate
+4217,South,Corporate
+4218,Midwest,Consumer
+4219,South,Consumer
+4220,Midwest,Small Business
+4221,South,Consumer
+4222,East,Corporate
+4223,East,Small Business
+4224,South,Corporate
+4225,South,Small Business
+4226,South,Consumer
+4227,Midwest,Consumer
+4228,East,Consumer
+4229,Midwest,Corporate
+4230,East,Small Business
+4231,West,Corporate
+4232,Midwest,Small Business
+4233,East,Consumer
+4234,East,Corporate
+4235,Midwest,Consumer
+4236,Midwest,Corporate
+4237,East,Consumer
+4238,Midwest,Corporate
+4239,South,Corporate
+4240,Midwest,Small Business
+4241,Midwest,Consumer
+4242,Midwest,Small Business
+4243,East,Small Business
+4244,South,Consumer
+4245,West,Corporate
+4246,West,Small Business
+4247,South,Consumer
+4248,South,Corporate
+4249,South,Small Business
+4250,East,Small Business
+4251,West,Small Business
+4252,South,Corporate
+4253,East,Small Business
+4254,West,Corporate
+4255,Midwest,Small Business
+4256,East,Consumer
+4257,West,Small Business
+4258,East,Consumer
+4259,West,Consumer
+4260,West,Consumer
+4261,Midwest,Corporate
+4262,East,Consumer
+4263,South,Small Business
+4264,Midwest,Corporate
+4265,Midwest,Consumer
+4266,West,Corporate
+4267,South,Corporate
+4268,East,Corporate
+4269,South,Small Business
+4270,South,Consumer
+4271,South,Corporate
+4272,South,Corporate
+4273,South,Corporate
+4274,West,Consumer
+4275,West,Corporate
+4276,Midwest,Corporate
+4277,West,Small Business
+4278,Midwest,Consumer
+4279,Midwest,Small Business
+4280,East,Consumer
+4281,South,Consumer
+4282,West,Consumer
+4283,East,Small Business
+4284,West,Small Business
+4285,Midwest,Small Business
+4286,West,Small Business
+4287,South,Corporate
+4288,Midwest,Corporate
+4289,Midwest,Corporate
+4290,East,Consumer
+4291,South,Corporate
+4292,Midwest,Consumer
+4293,South,Small Business
+4294,West,Consumer
+4295,South,Consumer
+4296,Midwest,Corporate
+4297,East,Small Business
+4298,Midwest,Small Business
+4299,South,Corporate
+4300,South,Small Business
+4301,Midwest,Small Business
+4302,South,Small Business
+4303,West,Corporate
+4304,Midwest,Small Business
+4305,East,Consumer
+4306,Midwest,Consumer
+4307,West,Small Business
+4308,West,Corporate
+4309,West,Corporate
+4310,West,Corporate
+4311,West,Small Business
+4312,East,Small Business
+4313,South,Consumer
+4314,West,Corporate
+4315,West,Consumer
+4316,Midwest,Consumer
+4317,East,Corporate
+4318,East,Small Business
+4319,South,Small Business
+4320,East,Consumer
+4321,Midwest,Consumer
+4322,Midwest,Consumer
+4323,South,Consumer
+4324,Midwest,Corporate
+4325,West,Consumer
+4326,West,Consumer
+4327,Midwest,Small Business
+4328,South,Small Business
+4329,East,Small Business
+4330,South,Corporate
+4331,East,Corporate
+4332,Midwest,Small Business
+4333,Midwest,Small Business
+4334,West,Consumer
+4335,East,Consumer
+4336,South,Corporate
+4337,Midwest,Corporate
+4338,South,Consumer
+4339,West,Small Business
+4340,East,Consumer
+4341,East,Corporate
+4342,Midwest,Corporate
+4343,East,Consumer
+4344,Midwest,Consumer
+4345,West,Consumer
+4346,East,Corporate
+4347,Midwest,Small Business
+4348,South,Consumer
+4349,Midwest,Corporate
+4350,East,Corporate
+4351,West,Corporate
+4352,East,Consumer
+4353,East,Consumer
+4354,Midwest,Small Business
+4355,South,Corporate
+4356,East,Consumer
+4357,South,Corporate
+4358,Midwest,Corporate
+4359,South,Small Business
+4360,Midwest,Consumer
+4361,West,Consumer
+4362,South,Corporate
+4363,South,Corporate
+4364,West,Small Business
+4365,South,Small Business
+4366,West,Small Business
+4367,East,Small Business
+4368,Midwest,Small Business
+4369,West,Small Business
+4370,South,Corporate
+4371,West,Small Business
+4372,South,Corporate
+4373,East,Corporate
+4374,West,Consumer
+4375,East,Corporate
+4376,Midwest,Corporate
+4377,South,Small Business
+4378,South,Corporate
+4379,East,Small Business
+4380,Midwest,Small Business
+4381,West,Small Business
+4382,West,Consumer
+4383,South,Small Business
+4384,East,Corporate
+4385,East,Small Business
+4386,West,Small Business
+4387,Midwest,Small Business
+4388,Midwest,Consumer
+4389,West,Corporate
+4390,West,Consumer
+4391,East,Corporate
+4392,Midwest,Consumer
+4393,West,Corporate
+4394,West,Consumer
+4395,South,Small Business
+4396,West,Consumer
+4397,West,Consumer
+4398,Midwest,Small Business
+4399,East,Small Business
+4400,Midwest,Corporate
+4401,East,Corporate
+4402,South,Corporate
+4403,West,Consumer
+4404,South,Corporate
+4405,East,Consumer
+4406,Midwest,Consumer
+4407,Midwest,Corporate
+4408,South,Corporate
+4409,East,Consumer
+4410,South,Small Business
+4411,South,Small Business
+4412,West,Consumer
+4413,South,Corporate
+4414,West,Consumer
+4415,West,Consumer
+4416,Midwest,Corporate
+4417,West,Small Business
+4418,West,Consumer
+4419,Midwest,Small Business
+4420,South,Small Business
+4421,East,Corporate
+4422,East,Consumer
+4423,East,Consumer
+4424,South,Small Business
+4425,West,Small Business
+4426,East,Corporate
+4427,South,Small Business
+4428,West,Corporate
+4429,Midwest,Consumer
+4430,East,Corporate
+4431,West,Small Business
+4432,East,Consumer
+4433,East,Corporate
+4434,East,Consumer
+4435,West,Corporate
+4436,South,Small Business
+4437,West,Small Business
+4438,East,Consumer
+4439,West,Consumer
+4440,Midwest,Consumer
+4441,South,Corporate
+4442,West,Small Business
+4443,Midwest,Consumer
+4444,South,Consumer
+4445,Midwest,Consumer
+4446,South,Corporate
+4447,West,Consumer
+4448,Midwest,Consumer
+4449,East,Corporate
+4450,Midwest,Corporate
+4451,South,Consumer
+4452,West,Consumer
+4453,South,Corporate
+4454,Midwest,Small Business
+4455,Midwest,Corporate
+4456,East,Small Business
+4457,West,Consumer
+4458,West,Consumer
+4459,Midwest,Small Business
+4460,West,Corporate
+4461,East,Consumer
+4462,South,Small Business
+4463,West,Corporate
+4464,Midwest,Small Business
+4465,South,Corporate
+4466,South,Corporate
+4467,East,Corporate
+4468,Midwest,Corporate
+4469,West,Small Business
+4470,Midwest,Small Business
+4471,South,Small Business
+4472,Midwest,Small Business
+4473,West,Small Business
+4474,West,Corporate
+4475,East,Consumer
+4476,West,Consumer
+4477,West,Small Business
+4478,Midwest,Small Business
+4479,Midwest,Consumer
+4480,South,Corporate
+4481,East,Small Business
+4482,Midwest,Corporate
+4483,West,Consumer
+4484,South,Consumer
+4485,Midwest,Small Business
+4486,East,Corporate
+4487,East,Small Business
+4488,South,Consumer
+4489,South,Corporate
+4490,South,Small Business
+4491,South,Small Business
+4492,South,Small Business
+4493,West,Consumer
+4494,West,Small Business
+4495,Midwest,Corporate
+4496,East,Small Business
+4497,West,Consumer
+4498,West,Small Business
+4499,West,Consumer
+4500,Midwest,Consumer
+4501,South,Corporate
+4502,Midwest,Corporate
+4503,East,Small Business
+4504,East,Consumer
+4505,East,Consumer
+4506,East,Corporate
+4507,West,Corporate
+4508,West,Small Business
+4509,Midwest,Consumer
+4510,South,Corporate
+4511,East,Small Business
+4512,Midwest,Consumer
+4513,West,Consumer
+4514,West,Corporate
+4515,South,Small Business
+4516,South,Corporate
+4517,South,Small Business
+4518,Midwest,Consumer
+4519,West,Small Business
+4520,West,Small Business
+4521,South,Small Business
+4522,East,Small Business
+4523,South,Small Business
+4524,Midwest,Corporate
+4525,South,Small Business
+4526,South,Small Business
+4527,Midwest,Consumer
+4528,South,Small Business
+4529,West,Consumer
+4530,East,Corporate
+4531,South,Corporate
+4532,Midwest,Small Business
+4533,East,Corporate
+4534,Midwest,Small Business
+4535,East,Corporate
+4536,East,Small Business
+4537,South,Small Business
+4538,West,Consumer
+4539,South,Consumer
+4540,Midwest,Consumer
+4541,Midwest,Consumer
+4542,East,Small Business
+4543,East,Corporate
+4544,West,Small Business
+4545,South,Consumer
+4546,Midwest,Consumer
+4547,East,Corporate
+4548,West,Consumer
+4549,Midwest,Small Business
+4550,East,Small Business
+4551,Midwest,Small Business
+4552,West,Small Business
+4553,West,Small Business
+4554,Midwest,Corporate
+4555,South,Small Business
+4556,Midwest,Consumer
+4557,East,Consumer
+4558,South,Consumer
+4559,East,Consumer
+4560,Midwest,Corporate
+4561,South,Consumer
+4562,East,Corporate
+4563,Midwest,Consumer
+4564,Midwest,Corporate
+4565,South,Corporate
+4566,Midwest,Corporate
+4567,West,Consumer
+4568,East,Corporate
+4569,East,Small Business
+4570,Midwest,Small Business
+4571,Midwest,Consumer
+4572,West,Small Business
+4573,South,Small Business
+4574,Midwest,Small Business
+4575,Midwest,Consumer
+4576,Midwest,Consumer
+4577,Midwest,Small Business
+4578,East,Consumer
+4579,Midwest,Corporate
+4580,East,Small Business
+4581,Midwest,Consumer
+4582,South,Consumer
+4583,West,Small Business
+4584,South,Consumer
+4585,Midwest,Small Business
+4586,Midwest,Consumer
+4587,Midwest,Corporate
+4588,South,Small Business
+4589,Midwest,Corporate
+4590,South,Small Business
+4591,East,Consumer
+4592,West,Corporate
+4593,West,Consumer
+4594,South,Small Business
+4595,East,Small Business
+4596,South,Small Business
+4597,East,Small Business
+4598,Midwest,Small Business
+4599,East,Corporate
+4600,East,Small Business
+4601,East,Consumer
+4602,West,Corporate
+4603,East,Consumer
+4604,Midwest,Small Business
+4605,Midwest,Consumer
+4606,Midwest,Corporate
+4607,East,Corporate
+4608,South,Corporate
+4609,South,Consumer
+4610,Midwest,Corporate
+4611,West,Consumer
+4612,South,Small Business
+4613,East,Small Business
+4614,South,Consumer
+4615,Midwest,Corporate
+4616,West,Consumer
+4617,South,Consumer
+4618,South,Consumer
+4619,Midwest,Small Business
+4620,West,Consumer
+4621,West,Small Business
+4622,Midwest,Consumer
+4623,East,Small Business
+4624,South,Consumer
+4625,East,Consumer
+4626,South,Corporate
+4627,South,Corporate
+4628,East,Consumer
+4629,Midwest,Consumer
+4630,Midwest,Consumer
+4631,South,Consumer
+4632,Midwest,Corporate
+4633,South,Small Business
+4634,Midwest,Consumer
+4635,South,Corporate
+4636,Midwest,Consumer
+4637,West,Consumer
+4638,East,Small Business
+4639,West,Consumer
+4640,East,Consumer
+4641,East,Small Business
+4642,South,Small Business
+4643,East,Small Business
+4644,West,Small Business
+4645,West,Corporate
+4646,Midwest,Corporate
+4647,West,Corporate
+4648,Midwest,Consumer
+4649,East,Small Business
+4650,West,Small Business
+4651,East,Corporate
+4652,West,Consumer
+4653,West,Consumer
+4654,Midwest,Consumer
+4655,East,Corporate
+4656,West,Consumer
+4657,South,Consumer
+4658,East,Consumer
+4659,East,Small Business
+4660,East,Corporate
+4661,Midwest,Small Business
+4662,South,Small Business
+4663,East,Corporate
+4664,West,Small Business
+4665,West,Consumer
+4666,Midwest,Consumer
+4667,West,Consumer
+4668,East,Consumer
+4669,West,Corporate
+4670,East,Small Business
+4671,West,Small Business
+4672,South,Consumer
+4673,Midwest,Consumer
+4674,Midwest,Small Business
+4675,South,Corporate
+4676,South,Small Business
+4677,Midwest,Consumer
+4678,South,Consumer
+4679,East,Corporate
+4680,West,Small Business
+4681,Midwest,Corporate
+4682,South,Corporate
+4683,East,Consumer
+4684,Midwest,Small Business
+4685,South,Consumer
+4686,Midwest,Small Business
+4687,South,Consumer
+4688,Midwest,Consumer
+4689,East,Small Business
+4690,East,Small Business
+4691,West,Consumer
+4692,Midwest,Small Business
+4693,West,Consumer
+4694,Midwest,Small Business
+4695,South,Consumer
+4696,South,Consumer
+4697,West,Consumer
+4698,Midwest,Corporate
+4699,West,Small Business
+4700,East,Consumer
+4701,West,Corporate
+4702,West,Consumer
+4703,South,Corporate
+4704,West,Consumer
+4705,Midwest,Consumer
+4706,South,Corporate
+4707,West,Corporate
+4708,East,Small Business
+4709,West,Small Business
+4710,West,Corporate
+4711,West,Small Business
+4712,South,Corporate
+4713,Midwest,Small Business
+4714,East,Consumer
+4715,West,Small Business
+4716,Midwest,Consumer
+4717,Midwest,Consumer
+4718,South,Small Business
+4719,East,Corporate
+4720,South,Consumer
+4721,Midwest,Consumer
+4722,Midwest,Small Business
+4723,Midwest,Corporate
+4724,South,Corporate
+4725,East,Small Business
+4726,West,Corporate
+4727,South,Small Business
+4728,Midwest,Small Business
+4729,South,Small Business
+4730,Midwest,Consumer
+4731,West,Consumer
+4732,West,Consumer
+4733,East,Small Business
+4734,Midwest,Consumer
+4735,East,Consumer
+4736,East,Consumer
+4737,West,Small Business
+4738,South,Small Business
+4739,South,Small Business
+4740,East,Consumer
+4741,West,Corporate
+4742,Midwest,Consumer
+4743,South,Consumer
+4744,East,Small Business
+4745,South,Small Business
+4746,South,Consumer
+4747,Midwest,Consumer
+4748,West,Corporate
+4749,Midwest,Corporate
+4750,West,Small Business
+4751,South,Corporate
+4752,East,Corporate
+4753,Midwest,Small Business
+4754,West,Corporate
+4755,South,Consumer
+4756,West,Corporate
+4757,West,Small Business
+4758,West,Consumer
+4759,South,Corporate
+4760,East,Consumer
+4761,East,Consumer
+4762,East,Corporate
+4763,West,Corporate
+4764,South,Small Business
+4765,West,Small Business
+4766,East,Consumer
+4767,East,Small Business
+4768,South,Consumer
+4769,West,Consumer
+4770,Midwest,Small Business
+4771,Midwest,Small Business
+4772,East,Small Business
+4773,South,Corporate
+4774,West,Consumer
+4775,West,Consumer
+4776,East,Consumer
+4777,East,Small Business
+4778,West,Small Business
+4779,West,Small Business
+4780,East,Small Business
+4781,West,Small Business
+4782,Midwest,Corporate
+4783,East,Small Business
+4784,West,Consumer
+4785,East,Small Business
+4786,South,Consumer
+4787,East,Small Business
+4788,East,Small Business
+4789,South,Consumer
+4790,Midwest,Consumer
+4791,West,Consumer
+4792,South,Consumer
+4793,East,Corporate
+4794,West,Consumer
+4795,South,Small Business
+4796,West,Small Business
+4797,West,Corporate
+4798,South,Consumer
+4799,West,Small Business
+4800,Midwest,Corporate
+4801,South,Small Business
+4802,Midwest,Corporate
+4803,East,Corporate
+4804,West,Consumer
+4805,East,Corporate
+4806,East,Small Business
+4807,West,Small Business
+4808,South,Consumer
+4809,West,Consumer
+4810,East,Corporate
+4811,East,Consumer
+4812,South,Small Business
+4813,West,Small Business
+4814,East,Consumer
+4815,Midwest,Consumer
+4816,East,Consumer
+4817,East,Corporate
+4818,South,Corporate
+4819,Midwest,Small Business
+4820,East,Corporate
+4821,East,Corporate
+4822,Midwest,Corporate
+4823,West,Corporate
+4824,West,Small Business
+4825,East,Consumer
+4826,East,Small Business
+4827,West,Corporate
+4828,South,Consumer
+4829,Midwest,Consumer
+4830,Midwest,Consumer
+4831,South,Small Business
+4832,South,Consumer
+4833,South,Small Business
+4834,South,Small Business
+4835,South,Corporate
+4836,South,Corporate
+4837,Midwest,Consumer
+4838,South,Consumer
+4839,West,Corporate
+4840,South,Small Business
+4841,South,Small Business
+4842,Midwest,Corporate
+4843,Midwest,Small Business
+4844,South,Corporate
+4845,Midwest,Corporate
+4846,East,Consumer
+4847,Midwest,Consumer
+4848,Midwest,Corporate
+4849,Midwest,Consumer
+4850,Midwest,Corporate
+4851,West,Small Business
+4852,West,Small Business
+4853,West,Small Business
+4854,South,Small Business
+4855,South,Corporate
+4856,East,Small Business
+4857,West,Small Business
+4858,South,Small Business
+4859,Midwest,Small Business
+4860,Midwest,Corporate
+4861,West,Small Business
+4862,East,Consumer
+4863,East,Consumer
+4864,Midwest,Consumer
+4865,East,Consumer
+4866,West,Consumer
+4867,Midwest,Consumer
+4868,South,Corporate
+4869,South,Consumer
+4870,East,Small Business
+4871,Midwest,Consumer
+4872,Midwest,Corporate
+4873,South,Consumer
+4874,Midwest,Small Business
+4875,Midwest,Small Business
+4876,Midwest,Corporate
+4877,East,Corporate
+4878,Midwest,Corporate
+4879,West,Corporate
+4880,East,Consumer
+4881,Midwest,Consumer
+4882,Midwest,Small Business
+4883,West,Corporate
+4884,East,Corporate
+4885,South,Consumer
+4886,South,Corporate
+4887,East,Small Business
+4888,Midwest,Small Business
+4889,Midwest,Corporate
+4890,South,Small Business
+4891,South,Small Business
+4892,South,Consumer
+4893,West,Small Business
+4894,South,Corporate
+4895,West,Corporate
+4896,East,Small Business
+4897,Midwest,Corporate
+4898,South,Consumer
+4899,Midwest,Small Business
+4900,Midwest,Small Business
+4901,South,Small Business
+4902,South,Corporate
+4903,East,Corporate
+4904,West,Small Business
+4905,West,Corporate
+4906,Midwest,Corporate
+4907,South,Small Business
+4908,East,Small Business
+4909,East,Corporate
+4910,East,Small Business
+4911,East,Small Business
+4912,East,Small Business
+4913,West,Small Business
+4914,West,Corporate
+4915,West,Small Business
+4916,South,Consumer
+4917,Midwest,Small Business
+4918,East,Consumer
+4919,South,Small Business
+4920,East,Consumer
+4921,West,Consumer
+4922,South,Small Business
+4923,West,Small Business
+4924,East,Small Business
+4925,East,Consumer
+4926,Midwest,Corporate
+4927,East,Corporate
+4928,West,Small Business
+4929,East,Corporate
+4930,Midwest,Corporate
+4931,Midwest,Small Business
+4932,West,Consumer
+4933,South,Small Business
+4934,East,Corporate
+4935,Midwest,Consumer
+4936,East,Corporate
+4937,East,Consumer
+4938,South,Corporate
+4939,Midwest,Small Business
+4940,East,Corporate
+4941,Midwest,Corporate
+4942,West,Consumer
+4943,West,Corporate
+4944,East,Small Business
+4945,Midwest,Small Business
+4946,East,Small Business
+4947,Midwest,Consumer
+4948,Midwest,Consumer
+4949,South,Corporate
+4950,South,Corporate
+4951,South,Corporate
+4952,East,Consumer
+4953,South,Consumer
+4954,South,Corporate
+4955,West,Consumer
+4956,Midwest,Consumer
+4957,Midwest,Small Business
+4958,South,Small Business
+4959,Midwest,Corporate
+4960,West,Corporate
+4961,West,Small Business
+4962,South,Consumer
+4963,West,Corporate
+4964,Midwest,Corporate
+4965,East,Corporate
+4966,Midwest,Consumer
+4967,East,Small Business
+4968,South,Corporate
+4969,East,Small Business
+4970,West,Small Business
+4971,Midwest,Consumer
+4972,East,Consumer
+4973,Midwest,Consumer
+4974,South,Consumer
+4975,South,Consumer
+4976,West,Consumer
+4977,South,Corporate
+4978,East,Small Business
+4979,South,Consumer
+4980,West,Corporate
+4981,Midwest,Small Business
+4982,Midwest,Consumer
+4983,South,Consumer
+4984,East,Corporate
+4985,West,Small Business
+4986,East,Consumer
+4987,West,Small Business
+4988,South,Corporate
+4989,West,Consumer
+4990,West,Small Business
+4991,South,Corporate
+4992,East,Corporate
+4993,South,Consumer
+4994,West,Small Business
+4995,South,Consumer
+4996,West,Consumer
+4997,South,Small Business
+4998,Midwest,Small Business
+4999,Midwest,Small Business
+5000,South,Corporate
+5001,East,Corporate
+5002,West,Small Business
+5003,Midwest,Corporate
+5004,East,Consumer
+5005,West,Small Business
+5006,Midwest,Consumer
+5007,Midwest,Small Business
+5008,South,Consumer
+5009,West,Small Business
+5010,East,Consumer
+5011,East,Small Business
+5012,East,Small Business
+5013,West,Corporate
+5014,East,Consumer
+5015,East,Corporate
+5016,East,Consumer
+5017,South,Corporate
+5018,South,Small Business
+5019,West,Corporate
+5020,West,Corporate
+5021,East,Small Business
+5022,South,Corporate
+5023,Midwest,Small Business
+5024,Midwest,Consumer
+5025,East,Corporate
+5026,East,Small Business
+5027,South,Small Business
+5028,South,Corporate
+5029,South,Consumer
+5030,West,Corporate
+5031,West,Small Business
+5032,East,Consumer
+5033,West,Corporate
+5034,South,Small Business
+5035,South,Corporate
+5036,West,Consumer
+5037,Midwest,Consumer
+5038,East,Consumer
+5039,Midwest,Consumer
+5040,East,Consumer
+5041,Midwest,Corporate
+5042,West,Consumer
+5043,East,Consumer
+5044,East,Small Business
+5045,East,Consumer
+5046,South,Small Business
+5047,South,Small Business
+5048,Midwest,Small Business
+5049,West,Corporate
+5050,South,Corporate
+5051,East,Small Business
+5052,South,Corporate
+5053,West,Consumer
+5054,South,Corporate
+5055,East,Consumer
+5056,Midwest,Consumer
+5057,East,Corporate
+5058,West,Corporate
+5059,Midwest,Small Business
+5060,South,Corporate
+5061,South,Corporate
+5062,South,Corporate
+5063,Midwest,Consumer
+5064,East,Consumer
+5065,Midwest,Consumer
+5066,Midwest,Small Business
+5067,West,Small Business
+5068,Midwest,Small Business
+5069,South,Consumer
+5070,East,Corporate
+5071,East,Small Business
+5072,East,Small Business
+5073,South,Consumer
+5074,South,Small Business
+5075,South,Corporate
+5076,South,Consumer
+5077,South,Consumer
+5078,Midwest,Corporate
+5079,South,Corporate
+5080,South,Corporate
+5081,South,Small Business
+5082,South,Corporate
+5083,East,Consumer
+5084,South,Corporate
+5085,Midwest,Consumer
+5086,Midwest,Consumer
+5087,Midwest,Small Business
+5088,West,Corporate
+5089,East,Small Business
+5090,South,Corporate
+5091,West,Corporate
+5092,South,Corporate
+5093,West,Corporate
+5094,West,Corporate
+5095,Midwest,Consumer
+5096,Midwest,Consumer
+5097,West,Corporate
+5098,Midwest,Consumer
+5099,West,Small Business
+5100,East,Small Business
+5101,Midwest,Small Business
+5102,Midwest,Corporate
+5103,Midwest,Corporate
+5104,East,Consumer
+5105,West,Consumer
+5106,South,Consumer
+5107,Midwest,Small Business
+5108,West,Small Business
+5109,East,Small Business
+5110,South,Small Business
+5111,Midwest,Consumer
+5112,East,Corporate
+5113,East,Corporate
+5114,South,Small Business
+5115,West,Corporate
+5116,Midwest,Corporate
+5117,Midwest,Corporate
+5118,West,Small Business
+5119,West,Consumer
+5120,West,Consumer
+5121,South,Corporate
+5122,South,Consumer
+5123,Midwest,Consumer
+5124,South,Small Business
+5125,East,Small Business
+5126,Midwest,Corporate
+5127,South,Corporate
+5128,West,Corporate
+5129,East,Small Business
+5130,West,Consumer
+5131,Midwest,Small Business
+5132,West,Small Business
+5133,South,Consumer
+5134,South,Consumer
+5135,Midwest,Corporate
+5136,West,Consumer
+5137,Midwest,Consumer
+5138,West,Consumer
+5139,East,Consumer
+5140,South,Corporate
+5141,Midwest,Corporate
+5142,East,Consumer
+5143,East,Consumer
+5144,Midwest,Corporate
+5145,Midwest,Corporate
+5146,East,Consumer
+5147,West,Small Business
+5148,East,Corporate
+5149,Midwest,Corporate
+5150,East,Corporate
+5151,West,Consumer
+5152,South,Consumer
+5153,South,Corporate
+5154,East,Consumer
+5155,West,Consumer
+5156,South,Corporate
+5157,East,Consumer
+5158,East,Small Business
+5159,West,Consumer
+5160,Midwest,Consumer
+5161,East,Corporate
+5162,Midwest,Corporate
+5163,Midwest,Small Business
+5164,South,Consumer
+5165,Midwest,Small Business
+5166,West,Small Business
+5167,South,Corporate
+5168,South,Consumer
+5169,South,Corporate
+5170,East,Small Business
+5171,East,Small Business
+5172,Midwest,Corporate
+5173,South,Corporate
+5174,South,Corporate
+5175,West,Corporate
+5176,Midwest,Corporate
+5177,West,Small Business
+5178,Midwest,Corporate
+5179,Midwest,Consumer
+5180,East,Small Business
+5181,East,Small Business
+5182,West,Consumer
+5183,Midwest,Consumer
+5184,South,Small Business
+5185,East,Corporate
+5186,South,Small Business
+5187,West,Small Business
+5188,East,Consumer
+5189,East,Small Business
+5190,Midwest,Corporate
+5191,West,Consumer
+5192,Midwest,Small Business
+5193,East,Small Business
+5194,West,Corporate
+5195,East,Small Business
+5196,West,Small Business
+5197,East,Small Business
+5198,South,Small Business
+5199,South,Corporate
+5200,Midwest,Small Business
+5201,South,Small Business
+5202,East,Small Business
+5203,East,Consumer
+5204,South,Corporate
+5205,Midwest,Consumer
+5206,South,Consumer
+5207,West,Corporate
+5208,West,Consumer
+5209,West,Consumer
+5210,South,Consumer
+5211,South,Corporate
+5212,South,Small Business
+5213,West,Corporate
+5214,Midwest,Corporate
+5215,East,Corporate
+5216,South,Consumer
+5217,Midwest,Small Business
+5218,East,Corporate
+5219,East,Corporate
+5220,East,Small Business
+5221,Midwest,Small Business
+5222,Midwest,Small Business
+5223,West,Consumer
+5224,Midwest,Small Business
+5225,Midwest,Consumer
+5226,Midwest,Corporate
+5227,East,Consumer
+5228,South,Small Business
+5229,West,Consumer
+5230,South,Small Business
+5231,South,Consumer
+5232,Midwest,Corporate
+5233,West,Consumer
+5234,South,Corporate
+5235,South,Small Business
+5236,West,Corporate
+5237,Midwest,Small Business
+5238,South,Small Business
+5239,East,Corporate
+5240,South,Corporate
+5241,East,Consumer
+5242,Midwest,Consumer
+5243,South,Corporate
+5244,West,Corporate
+5245,West,Corporate
+5246,South,Corporate
+5247,Midwest,Small Business
+5248,Midwest,Corporate
+5249,West,Corporate
+5250,South,Corporate
+5251,Midwest,Corporate
+5252,West,Small Business
+5253,East,Consumer
+5254,South,Consumer
+5255,East,Consumer
+5256,East,Consumer
+5257,Midwest,Consumer
+5258,Midwest,Small Business
+5259,Midwest,Consumer
+5260,South,Small Business
+5261,East,Small Business
+5262,South,Consumer
+5263,Midwest,Consumer
+5264,East,Consumer
+5265,South,Corporate
+5266,South,Small Business
+5267,West,Consumer
+5268,South,Corporate
+5269,Midwest,Small Business
+5270,South,Corporate
+5271,East,Corporate
+5272,South,Consumer
+5273,West,Small Business
+5274,East,Corporate
+5275,East,Small Business
+5276,West,Consumer
+5277,Midwest,Small Business
+5278,East,Corporate
+5279,Midwest,Corporate
+5280,East,Small Business
+5281,East,Corporate
+5282,Midwest,Corporate
+5283,East,Corporate
+5284,Midwest,Consumer
+5285,West,Consumer
+5286,Midwest,Corporate
+5287,West,Small Business
+5288,East,Consumer
+5289,Midwest,Small Business
+5290,East,Corporate
+5291,Midwest,Corporate
+5292,West,Small Business
+5293,West,Consumer
+5294,Midwest,Small Business
+5295,West,Small Business
+5296,East,Corporate
+5297,East,Consumer
+5298,South,Small Business
+5299,West,Consumer
+5300,East,Corporate
+5301,Midwest,Consumer
+5302,West,Corporate
+5303,East,Consumer
+5304,West,Small Business
+5305,Midwest,Corporate
+5306,East,Small Business
+5307,South,Corporate
+5308,South,Consumer
+5309,West,Consumer
+5310,Midwest,Corporate
+5311,East,Corporate
+5312,Midwest,Corporate
+5313,East,Consumer
+5314,West,Corporate
+5315,East,Corporate
+5316,Midwest,Small Business
+5317,Midwest,Corporate
+5318,West,Small Business
+5319,Midwest,Small Business
+5320,East,Small Business
+5321,West,Consumer
+5322,East,Small Business
+5323,Midwest,Corporate
+5324,West,Consumer
+5325,East,Consumer
+5326,Midwest,Consumer
+5327,Midwest,Consumer
+5328,South,Consumer
+5329,Midwest,Consumer
+5330,East,Consumer
+5331,West,Small Business
+5332,South,Corporate
+5333,Midwest,Corporate
+5334,Midwest,Small Business
+5335,Midwest,Small Business
+5336,East,Consumer
+5337,South,Consumer
+5338,East,Small Business
+5339,South,Consumer
+5340,West,Corporate
+5341,East,Corporate
+5342,East,Consumer
+5343,West,Consumer
+5344,South,Consumer
+5345,Midwest,Corporate
+5346,West,Consumer
+5347,Midwest,Small Business
+5348,Midwest,Consumer
+5349,West,Small Business
+5350,South,Consumer
+5351,Midwest,Consumer
+5352,West,Corporate
+5353,East,Small Business
+5354,East,Small Business
+5355,East,Small Business
+5356,West,Corporate
+5357,East,Small Business
+5358,Midwest,Corporate
+5359,East,Consumer
+5360,East,Consumer
+5361,Midwest,Small Business
+5362,East,Consumer
+5363,Midwest,Consumer
+5364,East,Small Business
+5365,Midwest,Consumer
+5366,East,Small Business
+5367,Midwest,Small Business
+5368,West,Consumer
+5369,Midwest,Consumer
+5370,East,Consumer
+5371,East,Consumer
+5372,South,Consumer
+5373,Midwest,Corporate
+5374,West,Consumer
+5375,Midwest,Corporate
+5376,Midwest,Small Business
+5377,West,Consumer
+5378,Midwest,Consumer
+5379,West,Consumer
+5380,West,Small Business
+5381,Midwest,Corporate
+5382,Midwest,Corporate
+5383,East,Consumer
+5384,East,Consumer
+5385,South,Consumer
+5386,South,Consumer
+5387,Midwest,Small Business
+5388,West,Consumer
+5389,South,Small Business
+5390,Midwest,Consumer
+5391,South,Corporate
+5392,West,Corporate
+5393,Midwest,Consumer
+5394,West,Consumer
+5395,Midwest,Small Business
+5396,South,Consumer
+5397,East,Consumer
+5398,South,Consumer
+5399,South,Corporate
+5400,East,Small Business
+5401,East,Corporate
+5402,Midwest,Small Business
+5403,Midwest,Corporate
+5404,West,Consumer
+5405,West,Corporate
+5406,South,Corporate
+5407,East,Small Business
+5408,West,Small Business
+5409,South,Corporate
+5410,East,Small Business
+5411,Midwest,Small Business
+5412,South,Small Business
+5413,Midwest,Small Business
+5414,West,Small Business
+5415,West,Corporate
+5416,East,Small Business
+5417,South,Consumer
+5418,Midwest,Corporate
+5419,East,Corporate
+5420,West,Corporate
+5421,West,Small Business
+5422,South,Consumer
+5423,Midwest,Small Business
+5424,South,Corporate
+5425,Midwest,Corporate
+5426,Midwest,Corporate
+5427,South,Corporate
+5428,East,Small Business
+5429,South,Consumer
+5430,South,Consumer
+5431,West,Corporate
+5432,West,Consumer
+5433,South,Corporate
+5434,South,Corporate
+5435,West,Consumer
+5436,Midwest,Corporate
+5437,South,Consumer
+5438,East,Corporate
+5439,East,Consumer
+5440,East,Corporate
+5441,South,Consumer
+5442,Midwest,Corporate
+5443,Midwest,Corporate
+5444,West,Corporate
+5445,South,Consumer
+5446,Midwest,Small Business
+5447,South,Corporate
+5448,West,Corporate
+5449,West,Consumer
+5450,West,Corporate
+5451,East,Corporate
+5452,South,Corporate
+5453,West,Corporate
+5454,South,Small Business
+5455,East,Small Business
+5456,East,Corporate
+5457,West,Corporate
+5458,West,Corporate
+5459,Midwest,Small Business
+5460,South,Small Business
+5461,West,Consumer
+5462,Midwest,Consumer
+5463,South,Corporate
+5464,West,Corporate
+5465,Midwest,Small Business
+5466,Midwest,Corporate
+5467,South,Corporate
+5468,Midwest,Small Business
+5469,South,Small Business
+5470,South,Small Business
+5471,South,Small Business
+5472,East,Consumer
+5473,Midwest,Small Business
+5474,South,Small Business
+5475,West,Corporate
+5476,East,Corporate
+5477,East,Corporate
+5478,Midwest,Consumer
+5479,South,Small Business
+5480,Midwest,Small Business
+5481,East,Consumer
+5482,South,Small Business
+5483,West,Corporate
+5484,South,Consumer
+5485,East,Small Business
+5486,West,Consumer
+5487,South,Consumer
+5488,West,Small Business
+5489,West,Corporate
+5490,East,Small Business
+5491,West,Small Business
+5492,Midwest,Corporate
+5493,East,Small Business
+5494,Midwest,Small Business
+5495,West,Small Business
+5496,Midwest,Consumer
+5497,South,Consumer
+5498,West,Consumer
+5499,South,Small Business
+5500,Midwest,Corporate
+5501,South,Consumer
+5502,West,Corporate
+5503,South,Small Business
+5504,Midwest,Consumer
+5505,Midwest,Small Business
+5506,Midwest,Corporate
+5507,West,Consumer
+5508,Midwest,Consumer
+5509,West,Consumer
+5510,South,Consumer
+5511,Midwest,Corporate
+5512,South,Consumer
+5513,East,Small Business
+5514,South,Consumer
+5515,East,Corporate
+5516,South,Consumer
+5517,West,Corporate
+5518,South,Corporate
+5519,West,Small Business
+5520,West,Consumer
+5521,Midwest,Consumer
+5522,West,Consumer
+5523,East,Small Business
+5524,Midwest,Small Business
+5525,Midwest,Corporate
+5526,South,Corporate
+5527,West,Corporate
+5528,West,Small Business
+5529,East,Small Business
+5530,South,Small Business
+5531,South,Corporate
+5532,Midwest,Small Business
+5533,Midwest,Corporate
+5534,Midwest,Corporate
+5535,East,Consumer
+5536,East,Consumer
+5537,Midwest,Consumer
+5538,South,Corporate
+5539,East,Consumer
+5540,South,Consumer
+5541,South,Consumer
+5542,West,Small Business
+5543,Midwest,Corporate
+5544,West,Consumer
+5545,Midwest,Small Business
+5546,Midwest,Small Business
+5547,South,Small Business
+5548,Midwest,Consumer
+5549,South,Small Business
+5550,South,Corporate
+5551,Midwest,Small Business
+5552,South,Small Business
+5553,South,Small Business
+5554,South,Small Business
+5555,East,Corporate
+5556,South,Consumer
+5557,East,Corporate
+5558,East,Corporate
+5559,South,Consumer
+5560,South,Small Business
+5561,East,Consumer
+5562,East,Consumer
+5563,South,Corporate
+5564,South,Consumer
+5565,Midwest,Small Business
+5566,East,Corporate
+5567,East,Small Business
+5568,Midwest,Corporate
+5569,East,Small Business
+5570,West,Consumer
+5571,East,Consumer
+5572,Midwest,Consumer
+5573,West,Small Business
+5574,South,Corporate
+5575,Midwest,Corporate
+5576,Midwest,Corporate
+5577,South,Consumer
+5578,Midwest,Small Business
+5579,East,Corporate
+5580,South,Small Business
+5581,Midwest,Corporate
+5582,South,Consumer
+5583,South,Small Business
+5584,South,Corporate
+5585,West,Corporate
+5586,Midwest,Corporate
+5587,West,Corporate
+5588,Midwest,Consumer
+5589,East,Corporate
+5590,East,Corporate
+5591,East,Consumer
+5592,Midwest,Corporate
+5593,South,Small Business
+5594,South,Small Business
+5595,West,Corporate
+5596,West,Consumer
+5597,East,Consumer
+5598,West,Consumer
+5599,Midwest,Corporate
+5600,Midwest,Corporate
+5601,West,Small Business
+5602,West,Consumer
+5603,West,Corporate
+5604,West,Corporate
+5605,East,Corporate
+5606,East,Consumer
+5607,West,Consumer
+5608,Midwest,Small Business
+5609,East,Consumer
+5610,Midwest,Corporate
+5611,South,Small Business
+5612,Midwest,Consumer
+5613,West,Consumer
+5614,South,Consumer
+5615,East,Consumer
+5616,East,Corporate
+5617,South,Consumer
+5618,Midwest,Corporate
+5619,East,Corporate
+5620,West,Corporate
+5621,South,Small Business
+5622,West,Corporate
+5623,South,Consumer
+5624,East,Small Business
+5625,Midwest,Consumer
+5626,South,Corporate
+5627,South,Consumer
+5628,West,Small Business
+5629,East,Small Business
+5630,West,Consumer
+5631,East,Consumer
+5632,West,Consumer
+5633,South,Small Business
+5634,West,Corporate
+5635,Midwest,Consumer
+5636,East,Corporate
+5637,East,Small Business
+5638,South,Consumer
+5639,East,Consumer
+5640,Midwest,Small Business
+5641,West,Consumer
+5642,South,Corporate
+5643,Midwest,Small Business
+5644,East,Small Business
+5645,East,Consumer
+5646,Midwest,Small Business
+5647,West,Consumer
+5648,West,Consumer
+5649,South,Small Business
+5650,East,Consumer
+5651,Midwest,Corporate
+5652,West,Corporate
+5653,South,Consumer
+5654,East,Corporate
+5655,East,Consumer
+5656,South,Corporate
+5657,South,Small Business
+5658,West,Consumer
+5659,Midwest,Consumer
+5660,East,Consumer
+5661,Midwest,Consumer
+5662,East,Consumer
+5663,East,Consumer
+5664,Midwest,Small Business
+5665,South,Small Business
+5666,West,Corporate
+5667,East,Consumer
+5668,South,Corporate
+5669,East,Corporate
+5670,West,Small Business
+5671,East,Corporate
+5672,West,Small Business
+5673,West,Corporate
+5674,East,Consumer
+5675,East,Corporate
+5676,West,Small Business
+5677,South,Small Business
+5678,Midwest,Small Business
+5679,West,Corporate
+5680,East,Corporate
+5681,East,Small Business
+5682,South,Consumer
+5683,Midwest,Consumer
+5684,West,Corporate
+5685,West,Corporate
+5686,Midwest,Small Business
+5687,West,Corporate
+5688,Midwest,Corporate
+5689,East,Small Business
+5690,Midwest,Small Business
+5691,West,Corporate
+5692,Midwest,Consumer
+5693,South,Corporate
+5694,East,Consumer
+5695,East,Consumer
+5696,Midwest,Consumer
+5697,West,Small Business
+5698,South,Small Business
+5699,East,Small Business
+5700,East,Corporate
+5701,West,Small Business
+5702,West,Small Business
+5703,South,Corporate
+5704,Midwest,Corporate
+5705,West,Consumer
+5706,Midwest,Corporate
+5707,South,Corporate
+5708,Midwest,Small Business
+5709,East,Consumer
+5710,Midwest,Consumer
+5711,South,Corporate
+5712,South,Small Business
+5713,South,Small Business
+5714,Midwest,Small Business
+5715,East,Small Business
+5716,West,Corporate
+5717,East,Small Business
+5718,Midwest,Consumer
+5719,Midwest,Consumer
+5720,West,Corporate
+5721,Midwest,Small Business
+5722,South,Small Business
+5723,South,Small Business
+5724,South,Small Business
+5725,South,Corporate
+5726,South,Small Business
+5727,Midwest,Corporate
+5728,West,Small Business
+5729,West,Small Business
+5730,South,Consumer
+5731,Midwest,Corporate
+5732,East,Consumer
+5733,East,Corporate
+5734,Midwest,Small Business
+5735,South,Small Business
+5736,West,Corporate
+5737,Midwest,Consumer
+5738,East,Corporate
+5739,East,Corporate
+5740,East,Small Business
+5741,South,Consumer
+5742,East,Corporate
+5743,Midwest,Consumer
+5744,Midwest,Consumer
+5745,East,Corporate
+5746,Midwest,Consumer
+5747,East,Small Business
+5748,East,Small Business
+5749,West,Small Business
+5750,South,Small Business
+5751,South,Consumer
+5752,West,Small Business
+5753,West,Corporate
+5754,South,Small Business
+5755,East,Corporate
+5756,East,Corporate
+5757,South,Small Business
+5758,East,Small Business
+5759,West,Consumer
+5760,East,Corporate
+5761,East,Small Business
+5762,Midwest,Consumer
+5763,Midwest,Small Business
+5764,Midwest,Small Business
+5765,East,Small Business
+5766,South,Corporate
+5767,West,Small Business
+5768,East,Consumer
+5769,South,Small Business
+5770,East,Small Business
+5771,West,Consumer
+5772,East,Consumer
+5773,West,Corporate
+5774,East,Corporate
+5775,West,Corporate
+5776,East,Corporate
+5777,West,Consumer
+5778,Midwest,Small Business
+5779,East,Small Business
+5780,East,Small Business
+5781,South,Corporate
+5782,South,Consumer
+5783,West,Consumer
+5784,East,Consumer
+5785,West,Small Business
+5786,Midwest,Corporate
+5787,South,Consumer
+5788,West,Corporate
+5789,West,Consumer
+5790,South,Corporate
+5791,East,Consumer
+5792,West,Corporate
+5793,South,Consumer
+5794,East,Consumer
+5795,Midwest,Corporate
+5796,South,Corporate
+5797,West,Small Business
+5798,Midwest,Corporate
+5799,East,Consumer
+5800,East,Consumer
+5801,South,Corporate
+5802,South,Small Business
+5803,South,Corporate
+5804,East,Consumer
+5805,Midwest,Consumer
+5806,East,Small Business
+5807,West,Corporate
+5808,East,Consumer
+5809,West,Consumer
+5810,Midwest,Consumer
+5811,South,Corporate
+5812,South,Corporate
+5813,East,Small Business
+5814,South,Consumer
+5815,Midwest,Consumer
+5816,South,Small Business
+5817,East,Consumer
+5818,Midwest,Small Business
+5819,West,Small Business
+5820,East,Consumer
+5821,West,Corporate
+5822,Midwest,Corporate
+5823,East,Corporate
+5824,East,Corporate
+5825,Midwest,Consumer
+5826,South,Small Business
+5827,East,Small Business
+5828,East,Consumer
+5829,West,Corporate
+5830,South,Small Business
+5831,West,Consumer
+5832,West,Consumer
+5833,South,Corporate
+5834,South,Consumer
+5835,Midwest,Small Business
+5836,South,Small Business
+5837,East,Consumer
+5838,South,Small Business
+5839,Midwest,Consumer
+5840,Midwest,Small Business
+5841,Midwest,Corporate
+5842,South,Small Business
+5843,South,Corporate
+5844,West,Corporate
+5845,West,Consumer
+5846,East,Corporate
+5847,West,Small Business
+5848,East,Small Business
+5849,Midwest,Corporate
+5850,West,Consumer
+5851,South,Corporate
+5852,West,Small Business
+5853,East,Small Business
+5854,West,Corporate
+5855,Midwest,Corporate
+5856,South,Corporate
+5857,East,Small Business
+5858,South,Small Business
+5859,South,Small Business
+5860,East,Consumer
+5861,South,Small Business
+5862,South,Small Business
+5863,West,Consumer
+5864,South,Consumer
+5865,South,Consumer
+5866,South,Consumer
+5867,South,Consumer
+5868,East,Consumer
+5869,Midwest,Corporate
+5870,West,Corporate
+5871,South,Corporate
+5872,South,Corporate
+5873,East,Small Business
+5874,Midwest,Consumer
+5875,South,Small Business
+5876,East,Consumer
+5877,West,Consumer
+5878,West,Small Business
+5879,South,Corporate
+5880,South,Small Business
+5881,Midwest,Small Business
+5882,Midwest,Consumer
+5883,South,Consumer
+5884,East,Consumer
+5885,Midwest,Corporate
+5886,South,Small Business
+5887,Midwest,Small Business
+5888,South,Corporate
+5889,West,Small Business
+5890,South,Small Business
+5891,West,Consumer
+5892,Midwest,Corporate
+5893,South,Consumer
+5894,Midwest,Corporate
+5895,West,Consumer
+5896,South,Small Business
+5897,Midwest,Corporate
+5898,West,Corporate
+5899,Midwest,Consumer
+5900,East,Corporate
+5901,West,Small Business
+5902,West,Small Business
+5903,West,Small Business
+5904,South,Consumer
+5905,South,Corporate
+5906,South,Consumer
+5907,East,Small Business
+5908,East,Corporate
+5909,West,Small Business
+5910,East,Corporate
+5911,Midwest,Corporate
+5912,West,Consumer
+5913,West,Corporate
+5914,Midwest,Small Business
+5915,West,Corporate
+5916,East,Small Business
+5917,South,Consumer
+5918,Midwest,Small Business
+5919,East,Corporate
+5920,Midwest,Small Business
+5921,Midwest,Small Business
+5922,West,Corporate
+5923,West,Small Business
+5924,East,Corporate
+5925,Midwest,Consumer
+5926,West,Small Business
+5927,West,Consumer
+5928,Midwest,Small Business
+5929,East,Small Business
+5930,East,Consumer
+5931,Midwest,Small Business
+5932,East,Small Business
+5933,West,Consumer
+5934,Midwest,Small Business
+5935,West,Corporate
+5936,South,Small Business
+5937,South,Small Business
+5938,East,Small Business
+5939,South,Consumer
+5940,West,Corporate
+5941,South,Corporate
+5942,West,Small Business
+5943,East,Consumer
+5944,East,Consumer
+5945,West,Corporate
+5946,South,Consumer
+5947,East,Small Business
+5948,Midwest,Small Business
+5949,East,Consumer
+5950,South,Small Business
+5951,Midwest,Corporate
+5952,South,Small Business
+5953,West,Consumer
+5954,Midwest,Corporate
+5955,South,Small Business
+5956,Midwest,Corporate
+5957,South,Consumer
+5958,Midwest,Small Business
+5959,South,Small Business
+5960,West,Corporate
+5961,Midwest,Small Business
+5962,Midwest,Small Business
+5963,Midwest,Small Business
+5964,Midwest,Small Business
+5965,West,Consumer
+5966,Midwest,Small Business
+5967,East,Corporate
+5968,West,Consumer
+5969,East,Corporate
+5970,Midwest,Corporate
+5971,South,Corporate
+5972,East,Consumer
+5973,Midwest,Consumer
+5974,East,Consumer
+5975,Midwest,Small Business
+5976,Midwest,Corporate
+5977,Midwest,Consumer
+5978,South,Corporate
+5979,East,Consumer
+5980,West,Consumer
+5981,West,Consumer
+5982,West,Corporate
+5983,West,Small Business
+5984,Midwest,Consumer
+5985,East,Consumer
+5986,East,Consumer
+5987,South,Small Business
+5988,East,Corporate
+5989,East,Corporate
+5990,East,Corporate
+5991,South,Corporate
+5992,West,Consumer
+5993,East,Small Business
+5994,South,Consumer
+5995,South,Small Business
+5996,Midwest,Corporate
+5997,South,Small Business
+5998,West,Consumer
+5999,East,Consumer
+6000,South,Corporate
+6001,West,Consumer
+6002,South,Consumer
+6003,South,Small Business
+6004,South,Consumer
+6005,South,Corporate
+6006,South,Corporate
+6007,West,Consumer
+6008,East,Corporate
+6009,East,Small Business
+6010,East,Small Business
+6011,East,Consumer
+6012,West,Consumer
+6013,Midwest,Small Business
+6014,Midwest,Corporate
+6015,West,Consumer
+6016,West,Consumer
+6017,South,Corporate
+6018,South,Consumer
+6019,South,Corporate
+6020,East,Corporate
+6021,South,Corporate
+6022,Midwest,Corporate
+6023,East,Corporate
+6024,South,Small Business
+6025,East,Corporate
+6026,Midwest,Small Business
+6027,South,Corporate
+6028,Midwest,Consumer
+6029,Midwest,Small Business
+6030,Midwest,Consumer
+6031,South,Corporate
+6032,West,Corporate
+6033,South,Consumer
+6034,Midwest,Corporate
+6035,South,Consumer
+6036,Midwest,Corporate
+6037,West,Corporate
+6038,East,Small Business
+6039,West,Consumer
+6040,West,Corporate
+6041,East,Consumer
+6042,South,Small Business
+6043,East,Consumer
+6044,South,Small Business
+6045,South,Consumer
+6046,Midwest,Consumer
+6047,Midwest,Small Business
+6048,East,Corporate
+6049,West,Corporate
+6050,East,Corporate
+6051,South,Consumer
+6052,Midwest,Consumer
+6053,East,Corporate
+6054,East,Consumer
+6055,Midwest,Consumer
+6056,Midwest,Corporate
+6057,Midwest,Small Business
+6058,South,Consumer
+6059,Midwest,Consumer
+6060,West,Consumer
+6061,East,Consumer
+6062,Midwest,Small Business
+6063,Midwest,Corporate
+6064,South,Consumer
+6065,South,Corporate
+6066,East,Consumer
+6067,West,Small Business
+6068,East,Corporate
+6069,Midwest,Small Business
+6070,West,Consumer
+6071,West,Small Business
+6072,West,Small Business
+6073,West,Consumer
+6074,East,Consumer
+6075,South,Corporate
+6076,South,Consumer
+6077,Midwest,Corporate
+6078,South,Small Business
+6079,South,Small Business
+6080,South,Corporate
+6081,South,Consumer
+6082,Midwest,Consumer
+6083,East,Small Business
+6084,West,Corporate
+6085,South,Small Business
+6086,East,Small Business
+6087,South,Consumer
+6088,South,Corporate
+6089,West,Small Business
+6090,West,Consumer
+6091,West,Small Business
+6092,South,Small Business
+6093,South,Consumer
+6094,South,Consumer
+6095,West,Corporate
+6096,Midwest,Small Business
+6097,East,Corporate
+6098,Midwest,Consumer
+6099,South,Consumer
+6100,South,Small Business
+6101,Midwest,Corporate
+6102,South,Corporate
+6103,East,Small Business
+6104,South,Small Business
+6105,East,Corporate
+6106,Midwest,Consumer
+6107,Midwest,Consumer
+6108,South,Small Business
+6109,East,Corporate
+6110,South,Corporate
+6111,West,Corporate
+6112,West,Consumer
+6113,West,Consumer
+6114,West,Corporate
+6115,South,Corporate
+6116,West,Small Business
+6117,East,Small Business
+6118,Midwest,Corporate
+6119,Midwest,Corporate
+6120,West,Consumer
+6121,West,Corporate
+6122,West,Small Business
+6123,South,Consumer
+6124,Midwest,Small Business
+6125,West,Small Business
+6126,East,Consumer
+6127,West,Small Business
+6128,Midwest,Corporate
+6129,West,Small Business
+6130,Midwest,Consumer
+6131,West,Consumer
+6132,East,Consumer
+6133,West,Small Business
+6134,East,Corporate
+6135,East,Consumer
+6136,West,Corporate
+6137,East,Consumer
+6138,South,Corporate
+6139,West,Corporate
+6140,West,Corporate
+6141,East,Consumer
+6142,East,Small Business
+6143,West,Small Business
+6144,South,Small Business
+6145,East,Corporate
+6146,East,Consumer
+6147,Midwest,Corporate
+6148,South,Consumer
+6149,South,Corporate
+6150,West,Consumer
+6151,South,Consumer
+6152,West,Consumer
+6153,Midwest,Corporate
+6154,South,Small Business
+6155,East,Corporate
+6156,Midwest,Corporate
+6157,West,Consumer
+6158,Midwest,Consumer
+6159,West,Small Business
+6160,Midwest,Small Business
+6161,West,Consumer
+6162,South,Small Business
+6163,East,Small Business
+6164,West,Consumer
+6165,Midwest,Corporate
+6166,West,Small Business
+6167,West,Consumer
+6168,West,Small Business
+6169,Midwest,Small Business
+6170,East,Consumer
+6171,South,Small Business
+6172,East,Small Business
+6173,West,Small Business
+6174,Midwest,Corporate
+6175,East,Corporate
+6176,West,Small Business
+6177,South,Consumer
+6178,South,Small Business
+6179,South,Small Business
+6180,West,Corporate
+6181,Midwest,Corporate
+6182,East,Corporate
+6183,South,Small Business
+6184,West,Small Business
+6185,West,Consumer
+6186,East,Small Business
+6187,South,Small Business
+6188,West,Corporate
+6189,East,Corporate
+6190,Midwest,Corporate
+6191,Midwest,Corporate
+6192,Midwest,Corporate
+6193,South,Consumer
+6194,East,Consumer
+6195,East,Consumer
+6196,West,Corporate
+6197,West,Corporate
+6198,West,Corporate
+6199,East,Consumer
+6200,West,Corporate
+6201,East,Consumer
+6202,East,Corporate
+6203,Midwest,Small Business
+6204,West,Consumer
+6205,Midwest,Small Business
+6206,South,Consumer
+6207,South,Corporate
+6208,South,Corporate
+6209,East,Small Business
+6210,East,Corporate
+6211,East,Consumer
+6212,West,Corporate
+6213,Midwest,Corporate
+6214,East,Consumer
+6215,Midwest,Small Business
+6216,Midwest,Small Business
+6217,Midwest,Corporate
+6218,West,Consumer
+6219,West,Small Business
+6220,South,Small Business
+6221,South,Corporate
+6222,Midwest,Consumer
+6223,South,Small Business
+6224,Midwest,Corporate
+6225,West,Corporate
+6226,West,Corporate
+6227,West,Corporate
+6228,East,Small Business
+6229,Midwest,Consumer
+6230,West,Corporate
+6231,Midwest,Corporate
+6232,South,Small Business
+6233,South,Corporate
+6234,West,Corporate
+6235,Midwest,Consumer
+6236,West,Corporate
+6237,South,Small Business
+6238,West,Consumer
+6239,Midwest,Small Business
+6240,South,Consumer
+6241,East,Consumer
+6242,South,Corporate
+6243,East,Corporate
+6244,West,Corporate
+6245,West,Small Business
+6246,Midwest,Corporate
+6247,East,Corporate
+6248,West,Consumer
+6249,East,Corporate
+6250,West,Corporate
+6251,South,Corporate
+6252,West,Corporate
+6253,Midwest,Consumer
+6254,South,Corporate
+6255,Midwest,Consumer
+6256,South,Small Business
+6257,East,Corporate
+6258,Midwest,Corporate
+6259,West,Corporate
+6260,East,Consumer
+6261,West,Corporate
+6262,South,Corporate
+6263,South,Small Business
+6264,West,Consumer
+6265,West,Consumer
+6266,East,Small Business
+6267,West,Consumer
+6268,Midwest,Corporate
+6269,Midwest,Corporate
+6270,West,Small Business
+6271,Midwest,Consumer
+6272,West,Consumer
+6273,East,Consumer
+6274,Midwest,Small Business
+6275,Midwest,Corporate
+6276,West,Small Business
+6277,Midwest,Corporate
+6278,South,Small Business
+6279,East,Corporate
+6280,East,Consumer
+6281,Midwest,Consumer
+6282,Midwest,Consumer
+6283,South,Small Business
+6284,South,Small Business
+6285,Midwest,Small Business
+6286,Midwest,Consumer
+6287,South,Corporate
+6288,West,Consumer
+6289,South,Consumer
+6290,West,Corporate
+6291,East,Corporate
+6292,East,Corporate
+6293,South,Corporate
+6294,West,Consumer
+6295,South,Small Business
+6296,South,Consumer
+6297,West,Corporate
+6298,South,Small Business
+6299,East,Small Business
+6300,Midwest,Consumer
+6301,Midwest,Consumer
+6302,South,Consumer
+6303,West,Small Business
+6304,West,Small Business
+6305,East,Small Business
+6306,West,Corporate
+6307,West,Corporate
+6308,East,Consumer
+6309,South,Small Business
+6310,Midwest,Consumer
+6311,East,Small Business
+6312,South,Consumer
+6313,East,Corporate
+6314,South,Small Business
+6315,East,Corporate
+6316,South,Small Business
+6317,East,Consumer
+6318,South,Small Business
+6319,East,Corporate
+6320,Midwest,Small Business
+6321,Midwest,Consumer
+6322,West,Small Business
+6323,South,Corporate
+6324,East,Consumer
+6325,South,Corporate
+6326,Midwest,Small Business
+6327,South,Corporate
+6328,East,Small Business
+6329,South,Consumer
+6330,East,Corporate
+6331,Midwest,Corporate
+6332,Midwest,Small Business
+6333,Midwest,Corporate
+6334,West,Corporate
+6335,Midwest,Consumer
+6336,South,Small Business
+6337,West,Small Business
+6338,Midwest,Consumer
+6339,South,Consumer
+6340,South,Small Business
+6341,South,Consumer
+6342,East,Consumer
+6343,West,Consumer
+6344,South,Small Business
+6345,East,Consumer
+6346,Midwest,Corporate
+6347,South,Corporate
+6348,East,Small Business
+6349,South,Consumer
+6350,West,Corporate
+6351,West,Small Business
+6352,Midwest,Corporate
+6353,South,Consumer
+6354,East,Small Business
+6355,Midwest,Corporate
+6356,South,Small Business
+6357,Midwest,Corporate
+6358,East,Corporate
+6359,Midwest,Consumer
+6360,Midwest,Consumer
+6361,Midwest,Corporate
+6362,South,Small Business
+6363,East,Small Business
+6364,West,Consumer
+6365,South,Corporate
+6366,West,Consumer
+6367,West,Corporate
+6368,South,Corporate
+6369,South,Consumer
+6370,East,Small Business
+6371,East,Consumer
+6372,Midwest,Corporate
+6373,West,Consumer
+6374,East,Small Business
+6375,Midwest,Small Business
+6376,East,Corporate
+6377,South,Consumer
+6378,East,Small Business
+6379,West,Consumer
+6380,East,Small Business
+6381,West,Corporate
+6382,South,Corporate
+6383,West,Consumer
+6384,East,Corporate
+6385,Midwest,Small Business
+6386,South,Corporate
+6387,East,Small Business
+6388,South,Small Business
+6389,South,Corporate
+6390,East,Small Business
+6391,East,Small Business
+6392,Midwest,Consumer
+6393,South,Consumer
+6394,South,Consumer
+6395,East,Corporate
+6396,West,Consumer
+6397,East,Small Business
+6398,South,Corporate
+6399,East,Corporate
+6400,Midwest,Corporate
+6401,West,Corporate
+6402,East,Small Business
+6403,Midwest,Small Business
+6404,South,Consumer
+6405,East,Corporate
+6406,South,Consumer
+6407,Midwest,Small Business
+6408,South,Corporate
+6409,Midwest,Small Business
+6410,Midwest,Consumer
+6411,Midwest,Small Business
+6412,East,Corporate
+6413,South,Corporate
+6414,South,Consumer
+6415,West,Corporate
+6416,West,Small Business
+6417,West,Small Business
+6418,West,Small Business
+6419,South,Small Business
+6420,Midwest,Consumer
+6421,Midwest,Small Business
+6422,East,Consumer
+6423,Midwest,Small Business
+6424,South,Consumer
+6425,South,Small Business
+6426,South,Small Business
+6427,East,Consumer
+6428,West,Corporate
+6429,Midwest,Corporate
+6430,South,Corporate
+6431,South,Consumer
+6432,West,Corporate
+6433,South,Corporate
+6434,Midwest,Consumer
+6435,East,Corporate
+6436,South,Corporate
+6437,Midwest,Corporate
+6438,South,Consumer
+6439,West,Consumer
+6440,South,Corporate
+6441,South,Corporate
+6442,East,Consumer
+6443,West,Corporate
+6444,West,Consumer
+6445,East,Corporate
+6446,South,Consumer
+6447,Midwest,Small Business
+6448,West,Small Business
+6449,West,Consumer
+6450,South,Small Business
+6451,South,Corporate
+6452,West,Consumer
+6453,South,Consumer
+6454,Midwest,Corporate
+6455,West,Corporate
+6456,Midwest,Consumer
+6457,Midwest,Corporate
+6458,South,Consumer
+6459,Midwest,Corporate
+6460,South,Consumer
+6461,East,Corporate
+6462,South,Corporate
+6463,Midwest,Small Business
+6464,East,Small Business
+6465,South,Small Business
+6466,Midwest,Corporate
+6467,West,Consumer
+6468,West,Corporate
+6469,South,Small Business
+6470,South,Corporate
+6471,West,Small Business
+6472,Midwest,Small Business
+6473,Midwest,Consumer
+6474,Midwest,Consumer
+6475,South,Small Business
+6476,East,Small Business
+6477,East,Corporate
+6478,East,Small Business
+6479,East,Corporate
+6480,East,Small Business
+6481,South,Consumer
+6482,South,Consumer
+6483,East,Small Business
+6484,South,Corporate
+6485,South,Corporate
+6486,East,Corporate
+6487,Midwest,Small Business
+6488,South,Small Business
+6489,Midwest,Consumer
+6490,South,Consumer
+6491,South,Small Business
+6492,East,Consumer
+6493,South,Corporate
+6494,West,Corporate
+6495,West,Small Business
+6496,East,Corporate
+6497,Midwest,Small Business
+6498,Midwest,Corporate
+6499,Midwest,Small Business
+6500,West,Corporate
+6501,Midwest,Corporate
+6502,Midwest,Consumer
+6503,East,Consumer
+6504,Midwest,Consumer
+6505,West,Consumer
+6506,West,Consumer
+6507,West,Consumer
+6508,East,Small Business
+6509,East,Small Business
+6510,South,Consumer
+6511,Midwest,Small Business
+6512,East,Consumer
+6513,West,Small Business
+6514,West,Corporate
+6515,East,Small Business
+6516,East,Small Business
+6517,East,Small Business
+6518,South,Corporate
+6519,West,Consumer
+6520,South,Small Business
+6521,South,Small Business
+6522,Midwest,Corporate
+6523,West,Consumer
+6524,West,Small Business
+6525,East,Corporate
+6526,East,Consumer
+6527,Midwest,Consumer
+6528,South,Small Business
+6529,East,Small Business
+6530,East,Small Business
+6531,West,Small Business
+6532,West,Corporate
+6533,East,Corporate
+6534,West,Small Business
+6535,Midwest,Consumer
+6536,East,Small Business
+6537,West,Consumer
+6538,Midwest,Consumer
+6539,West,Consumer
+6540,West,Corporate
+6541,West,Consumer
+6542,East,Consumer
+6543,South,Corporate
+6544,West,Consumer
+6545,Midwest,Consumer
+6546,East,Small Business
+6547,East,Consumer
+6548,Midwest,Consumer
+6549,West,Consumer
+6550,South,Consumer
+6551,West,Consumer
+6552,Midwest,Corporate
+6553,East,Consumer
+6554,South,Consumer
+6555,East,Corporate
+6556,Midwest,Corporate
+6557,West,Consumer
+6558,South,Consumer
+6559,East,Consumer
+6560,East,Small Business
+6561,East,Small Business
+6562,West,Consumer
+6563,South,Corporate
+6564,West,Consumer
+6565,West,Corporate
+6566,West,Corporate
+6567,Midwest,Corporate
+6568,Midwest,Consumer
+6569,Midwest,Consumer
+6570,South,Corporate
+6571,West,Small Business
+6572,West,Small Business
+6573,Midwest,Small Business
+6574,West,Corporate
+6575,West,Consumer
+6576,East,Corporate
+6577,West,Small Business
+6578,East,Consumer
+6579,West,Corporate
+6580,South,Corporate
+6581,Midwest,Small Business
+6582,East,Corporate
+6583,Midwest,Consumer
+6584,East,Small Business
+6585,East,Small Business
+6586,East,Consumer
+6587,South,Small Business
+6588,West,Corporate
+6589,East,Corporate
+6590,South,Small Business
+6591,East,Consumer
+6592,West,Corporate
+6593,East,Consumer
+6594,South,Corporate
+6595,West,Corporate
+6596,South,Small Business
+6597,West,Small Business
+6598,West,Consumer
+6599,Midwest,Small Business
+6600,Midwest,Corporate
+6601,Midwest,Corporate
+6602,West,Consumer
+6603,East,Consumer
+6604,South,Corporate
+6605,South,Small Business
+6606,South,Small Business
+6607,Midwest,Consumer
+6608,West,Consumer
+6609,Midwest,Corporate
+6610,East,Corporate
+6611,West,Consumer
+6612,South,Corporate
+6613,Midwest,Consumer
+6614,Midwest,Consumer
+6615,East,Small Business
+6616,East,Consumer
+6617,Midwest,Corporate
+6618,East,Small Business
+6619,South,Small Business
+6620,East,Corporate
+6621,East,Corporate
+6622,Midwest,Corporate
+6623,Midwest,Consumer
+6624,West,Small Business
+6625,West,Consumer
+6626,Midwest,Consumer
+6627,East,Consumer
+6628,East,Consumer
+6629,West,Small Business
+6630,West,Small Business
+6631,West,Consumer
+6632,South,Corporate
+6633,South,Small Business
+6634,West,Consumer
+6635,East,Corporate
+6636,West,Corporate
+6637,South,Consumer
+6638,East,Small Business
+6639,South,Corporate
+6640,East,Small Business
+6641,South,Small Business
+6642,East,Corporate
+6643,East,Consumer
+6644,East,Corporate
+6645,East,Corporate
+6646,Midwest,Small Business
+6647,South,Consumer
+6648,South,Small Business
+6649,Midwest,Corporate
+6650,East,Consumer
+6651,East,Consumer
+6652,South,Consumer
+6653,Midwest,Consumer
+6654,East,Consumer
+6655,East,Corporate
+6656,East,Corporate
+6657,West,Corporate
+6658,Midwest,Small Business
+6659,East,Consumer
+6660,West,Consumer
+6661,Midwest,Corporate
+6662,East,Consumer
+6663,South,Small Business
+6664,West,Consumer
+6665,West,Consumer
+6666,East,Small Business
+6667,East,Corporate
+6668,West,Corporate
+6669,South,Consumer
+6670,South,Small Business
+6671,Midwest,Corporate
+6672,East,Corporate
+6673,South,Corporate
+6674,Midwest,Consumer
+6675,South,Small Business
+6676,East,Consumer
+6677,Midwest,Corporate
+6678,Midwest,Small Business
+6679,Midwest,Consumer
+6680,South,Corporate
+6681,East,Corporate
+6682,Midwest,Consumer
+6683,West,Corporate
+6684,East,Corporate
+6685,West,Small Business
+6686,West,Corporate
+6687,Midwest,Consumer
+6688,Midwest,Small Business
+6689,South,Consumer
+6690,South,Corporate
+6691,South,Small Business
+6692,East,Small Business
+6693,South,Small Business
+6694,West,Small Business
+6695,South,Consumer
+6696,Midwest,Corporate
+6697,South,Corporate
+6698,East,Small Business
+6699,East,Corporate
+6700,West,Consumer
+6701,East,Corporate
+6702,South,Consumer
+6703,Midwest,Consumer
+6704,East,Corporate
+6705,West,Consumer
+6706,South,Consumer
+6707,West,Consumer
+6708,East,Consumer
+6709,East,Small Business
+6710,West,Corporate
+6711,South,Small Business
+6712,East,Consumer
+6713,Midwest,Corporate
+6714,East,Consumer
+6715,South,Corporate
+6716,East,Small Business
+6717,West,Corporate
+6718,East,Consumer
+6719,East,Corporate
+6720,South,Corporate
+6721,West,Small Business
+6722,South,Consumer
+6723,East,Corporate
+6724,Midwest,Small Business
+6725,East,Corporate
+6726,South,Consumer
+6727,Midwest,Corporate
+6728,South,Corporate
+6729,South,Corporate
+6730,West,Corporate
+6731,Midwest,Consumer
+6732,East,Small Business
+6733,South,Small Business
+6734,East,Corporate
+6735,West,Consumer
+6736,West,Consumer
+6737,Midwest,Consumer
+6738,West,Consumer
+6739,West,Consumer
+6740,East,Consumer
+6741,West,Corporate
+6742,West,Small Business
+6743,South,Small Business
+6744,West,Corporate
+6745,South,Small Business
+6746,West,Consumer
+6747,West,Consumer
+6748,Midwest,Small Business
+6749,Midwest,Consumer
+6750,South,Consumer
+6751,West,Small Business
+6752,East,Corporate
+6753,Midwest,Small Business
+6754,East,Small Business
+6755,Midwest,Small Business
+6756,Midwest,Small Business
+6757,West,Corporate
+6758,Midwest,Corporate
+6759,East,Consumer
+6760,Midwest,Consumer
+6761,South,Small Business
+6762,West,Consumer
+6763,West,Corporate
+6764,South,Consumer
+6765,South,Consumer
+6766,South,Consumer
+6767,Midwest,Small Business
+6768,West,Consumer
+6769,South,Corporate
+6770,Midwest,Corporate
+6771,South,Corporate
+6772,East,Corporate
+6773,East,Consumer
+6774,West,Small Business
+6775,Midwest,Corporate
+6776,East,Corporate
+6777,East,Small Business
+6778,Midwest,Small Business
+6779,South,Corporate
+6780,Midwest,Corporate
+6781,South,Small Business
+6782,East,Corporate
+6783,East,Corporate
+6784,East,Consumer
+6785,West,Small Business
+6786,West,Consumer
+6787,West,Consumer
+6788,Midwest,Small Business
+6789,East,Consumer
+6790,East,Corporate
+6791,Midwest,Consumer
+6792,West,Small Business
+6793,Midwest,Corporate
+6794,West,Corporate
+6795,East,Corporate
+6796,South,Corporate
+6797,West,Consumer
+6798,East,Consumer
+6799,East,Corporate
+6800,South,Small Business
+6801,East,Corporate
+6802,East,Consumer
+6803,West,Corporate
+6804,West,Consumer
+6805,South,Corporate
+6806,South,Small Business
+6807,East,Corporate
+6808,West,Small Business
+6809,South,Small Business
+6810,South,Corporate
+6811,Midwest,Small Business
+6812,South,Small Business
+6813,East,Consumer
+6814,West,Consumer
+6815,South,Small Business
+6816,Midwest,Corporate
+6817,West,Small Business
+6818,South,Corporate
+6819,Midwest,Consumer
+6820,South,Corporate
+6821,West,Small Business
+6822,West,Small Business
+6823,West,Small Business
+6824,East,Small Business
+6825,South,Small Business
+6826,East,Corporate
+6827,West,Small Business
+6828,Midwest,Consumer
+6829,South,Small Business
+6830,East,Corporate
+6831,South,Small Business
+6832,Midwest,Small Business
+6833,East,Corporate
+6834,West,Small Business
+6835,East,Corporate
+6836,South,Small Business
+6837,South,Consumer
+6838,South,Small Business
+6839,South,Corporate
+6840,West,Consumer
+6841,East,Corporate
+6842,West,Small Business
+6843,West,Consumer
+6844,West,Corporate
+6845,South,Consumer
+6846,South,Consumer
+6847,South,Corporate
+6848,East,Consumer
+6849,Midwest,Corporate
+6850,South,Consumer
+6851,East,Consumer
+6852,South,Consumer
+6853,South,Small Business
+6854,West,Small Business
+6855,West,Corporate
+6856,West,Consumer
+6857,East,Corporate
+6858,Midwest,Small Business
+6859,Midwest,Small Business
+6860,East,Small Business
+6861,South,Small Business
+6862,East,Corporate
+6863,South,Consumer
+6864,East,Corporate
+6865,East,Consumer
+6866,East,Small Business
+6867,Midwest,Consumer
+6868,West,Small Business
+6869,East,Corporate
+6870,Midwest,Consumer
+6871,West,Corporate
+6872,West,Small Business
+6873,East,Corporate
+6874,South,Small Business
+6875,South,Small Business
+6876,South,Small Business
+6877,East,Corporate
+6878,South,Corporate
+6879,Midwest,Consumer
+6880,Midwest,Consumer
+6881,Midwest,Corporate
+6882,Midwest,Corporate
+6883,West,Corporate
+6884,Midwest,Corporate
+6885,South,Small Business
+6886,East,Small Business
+6887,South,Small Business
+6888,Midwest,Corporate
+6889,West,Small Business
+6890,Midwest,Small Business
+6891,East,Consumer
+6892,South,Consumer
+6893,East,Small Business
+6894,East,Small Business
+6895,East,Small Business
+6896,South,Corporate
+6897,Midwest,Consumer
+6898,East,Consumer
+6899,South,Consumer
+6900,West,Small Business
+6901,South,Corporate
+6902,West,Consumer
+6903,South,Consumer
+6904,Midwest,Corporate
+6905,East,Small Business
+6906,Midwest,Small Business
+6907,South,Consumer
+6908,East,Consumer
+6909,West,Corporate
+6910,South,Consumer
+6911,East,Corporate
+6912,West,Consumer
+6913,West,Consumer
+6914,Midwest,Consumer
+6915,South,Small Business
+6916,West,Corporate
+6917,East,Corporate
+6918,West,Small Business
+6919,West,Small Business
+6920,Midwest,Small Business
+6921,Midwest,Corporate
+6922,East,Consumer
+6923,Midwest,Small Business
+6924,West,Small Business
+6925,West,Small Business
+6926,Midwest,Consumer
+6927,West,Consumer
+6928,West,Small Business
+6929,East,Consumer
+6930,Midwest,Small Business
+6931,West,Consumer
+6932,Midwest,Corporate
+6933,East,Corporate
+6934,Midwest,Consumer
+6935,West,Corporate
+6936,Midwest,Corporate
+6937,West,Corporate
+6938,West,Small Business
+6939,West,Consumer
+6940,East,Consumer
+6941,Midwest,Consumer
+6942,East,Corporate
+6943,Midwest,Small Business
+6944,East,Consumer
+6945,South,Corporate
+6946,West,Small Business
+6947,West,Small Business
+6948,East,Consumer
+6949,South,Consumer
+6950,West,Corporate
+6951,Midwest,Consumer
+6952,East,Corporate
+6953,West,Small Business
+6954,West,Small Business
+6955,East,Small Business
+6956,East,Small Business
+6957,Midwest,Consumer
+6958,Midwest,Consumer
+6959,West,Corporate
+6960,West,Corporate
+6961,East,Corporate
+6962,West,Corporate
+6963,West,Corporate
+6964,East,Small Business
+6965,West,Small Business
+6966,West,Small Business
+6967,South,Corporate
+6968,Midwest,Small Business
+6969,East,Small Business
+6970,South,Small Business
+6971,Midwest,Small Business
+6972,Midwest,Consumer
+6973,Midwest,Corporate
+6974,South,Corporate
+6975,South,Consumer
+6976,Midwest,Small Business
+6977,West,Small Business
+6978,West,Small Business
+6979,South,Corporate
+6980,South,Corporate
+6981,South,Corporate
+6982,Midwest,Corporate
+6983,West,Corporate
+6984,South,Consumer
+6985,South,Corporate
+6986,East,Small Business
+6987,Midwest,Corporate
+6988,East,Consumer
+6989,West,Small Business
+6990,East,Consumer
+6991,East,Small Business
+6992,East,Corporate
+6993,Midwest,Consumer
+6994,West,Small Business
+6995,East,Corporate
+6996,Midwest,Small Business
+6997,West,Consumer
+6998,South,Consumer
+6999,East,Consumer
+7000,West,Consumer
+7001,East,Corporate
+7002,South,Small Business
+7003,West,Corporate
+7004,Midwest,Consumer
+7005,West,Small Business
+7006,Midwest,Consumer
+7007,West,Corporate
+7008,Midwest,Corporate
+7009,South,Corporate
+7010,South,Small Business
+7011,South,Small Business
+7012,West,Consumer
+7013,South,Small Business
+7014,East,Small Business
+7015,South,Corporate
+7016,Midwest,Consumer
+7017,Midwest,Corporate
+7018,Midwest,Consumer
+7019,West,Consumer
+7020,East,Small Business
+7021,South,Corporate
+7022,East,Small Business
+7023,East,Small Business
+7024,Midwest,Small Business
+7025,Midwest,Consumer
+7026,Midwest,Corporate
+7027,West,Corporate
+7028,East,Small Business
+7029,East,Consumer
+7030,West,Corporate
+7031,West,Corporate
+7032,West,Small Business
+7033,East,Consumer
+7034,East,Small Business
+7035,Midwest,Corporate
+7036,Midwest,Consumer
+7037,East,Small Business
+7038,Midwest,Corporate
+7039,West,Small Business
+7040,South,Small Business
+7041,Midwest,Small Business
+7042,East,Consumer
+7043,Midwest,Corporate
+7044,Midwest,Corporate
+7045,Midwest,Corporate
+7046,South,Corporate
+7047,West,Consumer
+7048,East,Small Business
+7049,South,Corporate
+7050,East,Consumer
+7051,East,Small Business
+7052,East,Consumer
+7053,South,Consumer
+7054,West,Corporate
+7055,East,Corporate
+7056,West,Small Business
+7057,West,Small Business
+7058,Midwest,Corporate
+7059,South,Consumer
+7060,South,Corporate
+7061,Midwest,Small Business
+7062,Midwest,Consumer
+7063,West,Consumer
+7064,East,Consumer
+7065,South,Corporate
+7066,East,Corporate
+7067,East,Small Business
+7068,Midwest,Consumer
+7069,East,Consumer
+7070,West,Corporate
+7071,Midwest,Small Business
+7072,East,Small Business
+7073,Midwest,Consumer
+7074,West,Corporate
+7075,West,Consumer
+7076,East,Corporate
+7077,Midwest,Small Business
+7078,East,Consumer
+7079,East,Consumer
+7080,Midwest,Consumer
+7081,East,Small Business
+7082,West,Consumer
+7083,Midwest,Small Business
+7084,Midwest,Corporate
+7085,Midwest,Small Business
+7086,Midwest,Corporate
+7087,East,Small Business
+7088,East,Small Business
+7089,West,Consumer
+7090,South,Small Business
+7091,South,Consumer
+7092,West,Corporate
+7093,South,Corporate
+7094,West,Consumer
+7095,East,Corporate
+7096,Midwest,Small Business
+7097,Midwest,Consumer
+7098,East,Consumer
+7099,Midwest,Consumer
+7100,Midwest,Corporate
+7101,South,Corporate
+7102,East,Small Business
+7103,South,Small Business
+7104,South,Consumer
+7105,Midwest,Small Business
+7106,Midwest,Corporate
+7107,East,Small Business
+7108,Midwest,Corporate
+7109,Midwest,Small Business
+7110,East,Corporate
+7111,Midwest,Corporate
+7112,South,Small Business
+7113,East,Small Business
+7114,Midwest,Corporate
+7115,West,Consumer
+7116,East,Small Business
+7117,East,Corporate
+7118,West,Small Business
+7119,Midwest,Small Business
+7120,Midwest,Small Business
+7121,East,Small Business
+7122,East,Small Business
+7123,Midwest,Consumer
+7124,Midwest,Consumer
+7125,South,Consumer
+7126,East,Corporate
+7127,East,Consumer
+7128,West,Consumer
+7129,South,Corporate
+7130,Midwest,Consumer
+7131,South,Small Business
+7132,Midwest,Consumer
+7133,Midwest,Consumer
+7134,South,Consumer
+7135,East,Small Business
+7136,Midwest,Small Business
+7137,South,Small Business
+7138,West,Small Business
+7139,South,Corporate
+7140,West,Small Business
+7141,Midwest,Small Business
+7142,South,Small Business
+7143,South,Small Business
+7144,West,Corporate
+7145,South,Consumer
+7146,South,Consumer
+7147,Midwest,Small Business
+7148,South,Small Business
+7149,East,Small Business
+7150,West,Consumer
+7151,South,Consumer
+7152,West,Small Business
+7153,West,Consumer
+7154,West,Corporate
+7155,South,Small Business
+7156,South,Small Business
+7157,West,Corporate
+7158,East,Corporate
+7159,West,Consumer
+7160,East,Corporate
+7161,West,Small Business
+7162,Midwest,Consumer
+7163,West,Corporate
+7164,West,Consumer
+7165,South,Consumer
+7166,East,Consumer
+7167,Midwest,Consumer
+7168,East,Corporate
+7169,Midwest,Small Business
+7170,West,Small Business
+7171,South,Corporate
+7172,South,Small Business
+7173,East,Consumer
+7174,South,Consumer
+7175,East,Consumer
+7176,East,Corporate
+7177,Midwest,Consumer
+7178,East,Consumer
+7179,Midwest,Corporate
+7180,South,Consumer
+7181,East,Consumer
+7182,East,Small Business
+7183,West,Corporate
+7184,East,Consumer
+7185,East,Consumer
+7186,West,Consumer
+7187,West,Consumer
+7188,South,Small Business
+7189,East,Small Business
+7190,South,Small Business
+7191,South,Small Business
+7192,West,Corporate
+7193,Midwest,Consumer
+7194,South,Small Business
+7195,Midwest,Consumer
+7196,East,Corporate
+7197,West,Consumer
+7198,East,Consumer
+7199,East,Small Business
+7200,West,Small Business
+7201,East,Corporate
+7202,West,Consumer
+7203,Midwest,Small Business
+7204,East,Small Business
+7205,West,Small Business
+7206,South,Corporate
+7207,East,Consumer
+7208,Midwest,Small Business
+7209,West,Consumer
+7210,East,Corporate
+7211,East,Consumer
+7212,East,Small Business
+7213,Midwest,Consumer
+7214,West,Consumer
+7215,South,Corporate
+7216,South,Corporate
+7217,South,Consumer
+7218,West,Consumer
+7219,South,Consumer
+7220,Midwest,Corporate
+7221,West,Corporate
+7222,East,Consumer
+7223,Midwest,Corporate
+7224,East,Small Business
+7225,South,Corporate
+7226,Midwest,Corporate
+7227,West,Corporate
+7228,Midwest,Small Business
+7229,East,Small Business
+7230,West,Small Business
+7231,Midwest,Consumer
+7232,Midwest,Consumer
+7233,Midwest,Small Business
+7234,Midwest,Consumer
+7235,West,Consumer
+7236,East,Consumer
+7237,Midwest,Small Business
+7238,West,Corporate
+7239,East,Small Business
+7240,Midwest,Small Business
+7241,East,Consumer
+7242,East,Consumer
+7243,West,Corporate
+7244,East,Corporate
+7245,West,Corporate
+7246,Midwest,Corporate
+7247,East,Small Business
+7248,East,Corporate
+7249,South,Small Business
+7250,Midwest,Consumer
+7251,Midwest,Corporate
+7252,South,Consumer
+7253,South,Consumer
+7254,West,Small Business
+7255,West,Corporate
+7256,East,Small Business
+7257,East,Consumer
+7258,East,Corporate
+7259,East,Consumer
+7260,West,Consumer
+7261,Midwest,Corporate
+7262,East,Corporate
+7263,Midwest,Corporate
+7264,East,Small Business
+7265,South,Small Business
+7266,East,Consumer
+7267,East,Corporate
+7268,East,Consumer
+7269,West,Consumer
+7270,South,Consumer
+7271,East,Consumer
+7272,East,Consumer
+7273,Midwest,Corporate
+7274,South,Small Business
+7275,East,Corporate
+7276,Midwest,Corporate
+7277,Midwest,Corporate
+7278,West,Small Business
+7279,Midwest,Small Business
+7280,East,Small Business
+7281,West,Corporate
+7282,West,Small Business
+7283,East,Consumer
+7284,South,Small Business
+7285,Midwest,Corporate
+7286,West,Corporate
+7287,South,Consumer
+7288,East,Small Business
+7289,Midwest,Small Business
+7290,Midwest,Consumer
+7291,West,Corporate
+7292,Midwest,Corporate
+7293,Midwest,Small Business
+7294,Midwest,Small Business
+7295,Midwest,Small Business
+7296,East,Small Business
+7297,South,Small Business
+7298,East,Corporate
+7299,East,Corporate
+7300,West,Corporate
+7301,Midwest,Corporate
+7302,East,Consumer
+7303,Midwest,Corporate
+7304,East,Consumer
+7305,East,Corporate
+7306,West,Small Business
+7307,South,Small Business
+7308,South,Small Business
+7309,East,Consumer
+7310,West,Corporate
+7311,Midwest,Corporate
+7312,Midwest,Consumer
+7313,East,Consumer
+7314,South,Consumer
+7315,West,Consumer
+7316,South,Consumer
+7317,Midwest,Small Business
+7318,South,Corporate
+7319,Midwest,Consumer
+7320,West,Small Business
+7321,West,Consumer
+7322,East,Small Business
+7323,East,Consumer
+7324,South,Corporate
+7325,West,Consumer
+7326,West,Consumer
+7327,East,Corporate
+7328,Midwest,Corporate
+7329,South,Consumer
+7330,South,Corporate
+7331,East,Corporate
+7332,West,Small Business
+7333,East,Corporate
+7334,East,Corporate
+7335,East,Consumer
+7336,East,Consumer
+7337,Midwest,Small Business
+7338,Midwest,Consumer
+7339,West,Corporate
+7340,East,Corporate
+7341,Midwest,Corporate
+7342,West,Consumer
+7343,East,Corporate
+7344,South,Corporate
+7345,Midwest,Small Business
+7346,West,Small Business
+7347,South,Small Business
+7348,East,Consumer
+7349,East,Corporate
+7350,East,Corporate
+7351,Midwest,Corporate
+7352,West,Small Business
+7353,South,Corporate
+7354,West,Corporate
+7355,Midwest,Corporate
+7356,West,Corporate
+7357,Midwest,Corporate
+7358,East,Consumer
+7359,South,Corporate
+7360,East,Consumer
+7361,West,Corporate
+7362,East,Consumer
+7363,South,Corporate
+7364,East,Corporate
+7365,South,Corporate
+7366,South,Corporate
+7367,East,Small Business
+7368,Midwest,Corporate
+7369,West,Consumer
+7370,Midwest,Small Business
+7371,Midwest,Small Business
+7372,East,Corporate
+7373,West,Consumer
+7374,West,Consumer
+7375,Midwest,Small Business
+7376,East,Consumer
+7377,West,Corporate
+7378,Midwest,Corporate
+7379,West,Corporate
+7380,East,Corporate
+7381,East,Corporate
+7382,East,Small Business
+7383,West,Corporate
+7384,South,Corporate
+7385,West,Small Business
+7386,South,Small Business
+7387,East,Small Business
+7388,Midwest,Consumer
+7389,South,Consumer
+7390,East,Corporate
+7391,East,Corporate
+7392,South,Corporate
+7393,Midwest,Consumer
+7394,East,Corporate
+7395,South,Corporate
+7396,Midwest,Consumer
+7397,Midwest,Small Business
+7398,East,Consumer
+7399,West,Corporate
+7400,West,Consumer
+7401,East,Small Business
+7402,Midwest,Small Business
+7403,East,Small Business
+7404,South,Small Business
+7405,West,Small Business
+7406,South,Small Business
+7407,East,Corporate
+7408,East,Corporate
+7409,Midwest,Consumer
+7410,Midwest,Corporate
+7411,Midwest,Small Business
+7412,South,Corporate
+7413,Midwest,Consumer
+7414,East,Small Business
+7415,Midwest,Corporate
+7416,West,Corporate
+7417,Midwest,Consumer
+7418,South,Small Business
+7419,West,Consumer
+7420,West,Small Business
+7421,West,Small Business
+7422,South,Corporate
+7423,East,Consumer
+7424,Midwest,Consumer
+7425,West,Consumer
+7426,West,Small Business
+7427,West,Consumer
+7428,East,Small Business
+7429,East,Consumer
+7430,South,Consumer
+7431,East,Corporate
+7432,Midwest,Consumer
+7433,South,Corporate
+7434,South,Corporate
+7435,Midwest,Small Business
+7436,Midwest,Consumer
+7437,Midwest,Consumer
+7438,South,Consumer
+7439,South,Corporate
+7440,South,Consumer
+7441,Midwest,Small Business
+7442,Midwest,Small Business
+7443,West,Consumer
+7444,East,Corporate
+7445,West,Small Business
+7446,Midwest,Small Business
+7447,South,Corporate
+7448,Midwest,Small Business
+7449,East,Corporate
+7450,West,Small Business
+7451,West,Corporate
+7452,South,Small Business
+7453,West,Consumer
+7454,West,Small Business
+7455,Midwest,Small Business
+7456,West,Consumer
+7457,West,Consumer
+7458,West,Consumer
+7459,South,Consumer
+7460,South,Corporate
+7461,Midwest,Corporate
+7462,West,Small Business
+7463,South,Small Business
+7464,South,Small Business
+7465,Midwest,Corporate
+7466,East,Small Business
+7467,West,Small Business
+7468,South,Corporate
+7469,Midwest,Small Business
+7470,Midwest,Corporate
+7471,Midwest,Corporate
+7472,South,Consumer
+7473,West,Consumer
+7474,East,Corporate
+7475,West,Corporate
+7476,Midwest,Consumer
+7477,Midwest,Small Business
+7478,East,Small Business
+7479,West,Small Business
+7480,Midwest,Corporate
+7481,Midwest,Consumer
+7482,West,Small Business
+7483,Midwest,Consumer
+7484,West,Consumer
+7485,Midwest,Corporate
+7486,West,Small Business
+7487,East,Consumer
+7488,Midwest,Corporate
+7489,East,Corporate
+7490,Midwest,Corporate
+7491,Midwest,Small Business
+7492,South,Small Business
+7493,West,Corporate
+7494,East,Small Business
+7495,East,Small Business
+7496,East,Consumer
+7497,West,Corporate
+7498,South,Corporate
+7499,East,Small Business
+7500,West,Corporate
+7501,Midwest,Corporate
+7502,East,Corporate
+7503,East,Small Business
+7504,South,Small Business
+7505,East,Small Business
+7506,East,Consumer
+7507,Midwest,Corporate
+7508,West,Consumer
+7509,West,Small Business
+7510,South,Consumer
+7511,Midwest,Corporate
+7512,West,Corporate
+7513,Midwest,Small Business
+7514,West,Small Business
+7515,Midwest,Consumer
+7516,South,Small Business
+7517,East,Consumer
+7518,South,Corporate
+7519,West,Corporate
+7520,South,Corporate
+7521,East,Corporate
+7522,South,Corporate
+7523,West,Consumer
+7524,West,Corporate
+7525,South,Consumer
+7526,East,Corporate
+7527,South,Consumer
+7528,East,Consumer
+7529,Midwest,Consumer
+7530,East,Small Business
+7531,Midwest,Consumer
+7532,South,Consumer
+7533,East,Corporate
+7534,Midwest,Consumer
+7535,Midwest,Consumer
+7536,Midwest,Small Business
+7537,West,Corporate
+7538,South,Small Business
+7539,Midwest,Small Business
+7540,East,Small Business
+7541,Midwest,Consumer
+7542,West,Small Business
+7543,South,Small Business
+7544,West,Corporate
+7545,West,Corporate
+7546,West,Corporate
+7547,East,Corporate
+7548,South,Small Business
+7549,South,Corporate
+7550,East,Consumer
+7551,South,Small Business
+7552,West,Corporate
+7553,South,Small Business
+7554,East,Corporate
+7555,West,Small Business
+7556,East,Corporate
+7557,Midwest,Consumer
+7558,West,Corporate
+7559,West,Small Business
+7560,South,Small Business
+7561,West,Consumer
+7562,East,Small Business
+7563,South,Consumer
+7564,Midwest,Small Business
+7565,East,Small Business
+7566,Midwest,Consumer
+7567,Midwest,Small Business
+7568,Midwest,Small Business
+7569,West,Consumer
+7570,East,Corporate
+7571,East,Consumer
+7572,West,Small Business
+7573,South,Corporate
+7574,Midwest,Corporate
+7575,East,Corporate
+7576,West,Consumer
+7577,Midwest,Corporate
+7578,South,Corporate
+7579,South,Corporate
+7580,Midwest,Small Business
+7581,South,Consumer
+7582,East,Consumer
+7583,East,Small Business
+7584,East,Corporate
+7585,South,Small Business
+7586,East,Small Business
+7587,West,Corporate
+7588,East,Corporate
+7589,East,Consumer
+7590,South,Corporate
+7591,East,Small Business
+7592,Midwest,Small Business
+7593,West,Corporate
+7594,South,Consumer
+7595,West,Small Business
+7596,Midwest,Corporate
+7597,South,Consumer
+7598,South,Consumer
+7599,East,Small Business
+7600,West,Small Business
+7601,Midwest,Consumer
+7602,Midwest,Consumer
+7603,South,Consumer
+7604,East,Corporate
+7605,South,Small Business
+7606,South,Consumer
+7607,South,Small Business
+7608,South,Small Business
+7609,Midwest,Small Business
+7610,Midwest,Consumer
+7611,South,Corporate
+7612,South,Consumer
+7613,East,Small Business
+7614,South,Consumer
+7615,Midwest,Consumer
+7616,West,Small Business
+7617,Midwest,Small Business
+7618,East,Consumer
+7619,Midwest,Consumer
+7620,West,Consumer
+7621,South,Consumer
+7622,West,Corporate
+7623,South,Consumer
+7624,South,Corporate
+7625,Midwest,Small Business
+7626,Midwest,Corporate
+7627,Midwest,Small Business
+7628,East,Corporate
+7629,Midwest,Small Business
+7630,East,Consumer
+7631,Midwest,Corporate
+7632,South,Corporate
+7633,East,Small Business
+7634,West,Small Business
+7635,East,Corporate
+7636,East,Small Business
+7637,West,Consumer
+7638,East,Corporate
+7639,South,Consumer
+7640,Midwest,Corporate
+7641,West,Consumer
+7642,Midwest,Corporate
+7643,South,Small Business
+7644,West,Corporate
+7645,Midwest,Consumer
+7646,Midwest,Corporate
+7647,South,Consumer
+7648,Midwest,Consumer
+7649,South,Consumer
+7650,East,Small Business
+7651,South,Corporate
+7652,East,Consumer
+7653,West,Small Business
+7654,Midwest,Consumer
+7655,South,Corporate
+7656,South,Small Business
+7657,Midwest,Consumer
+7658,Midwest,Consumer
+7659,West,Consumer
+7660,West,Corporate
+7661,South,Small Business
+7662,West,Small Business
+7663,East,Small Business
+7664,West,Consumer
+7665,West,Small Business
+7666,South,Consumer
+7667,East,Corporate
+7668,West,Small Business
+7669,East,Consumer
+7670,East,Small Business
+7671,East,Small Business
+7672,Midwest,Corporate
+7673,Midwest,Small Business
+7674,Midwest,Corporate
+7675,Midwest,Small Business
+7676,South,Small Business
+7677,West,Small Business
+7678,Midwest,Small Business
+7679,South,Small Business
+7680,West,Small Business
+7681,Midwest,Corporate
+7682,West,Corporate
+7683,Midwest,Consumer
+7684,South,Small Business
+7685,East,Corporate
+7686,East,Small Business
+7687,West,Small Business
+7688,South,Corporate
+7689,East,Small Business
+7690,Midwest,Corporate
+7691,East,Corporate
+7692,West,Consumer
+7693,West,Consumer
+7694,South,Consumer
+7695,West,Consumer
+7696,East,Small Business
+7697,East,Small Business
+7698,East,Consumer
+7699,East,Corporate
+7700,South,Corporate
+7701,Midwest,Corporate
+7702,Midwest,Corporate
+7703,South,Small Business
+7704,West,Corporate
+7705,Midwest,Corporate
+7706,West,Consumer
+7707,Midwest,Corporate
+7708,West,Small Business
+7709,South,Corporate
+7710,East,Corporate
+7711,West,Small Business
+7712,East,Consumer
+7713,West,Small Business
+7714,West,Consumer
+7715,West,Corporate
+7716,West,Consumer
+7717,West,Consumer
+7718,East,Consumer
+7719,West,Corporate
+7720,East,Consumer
+7721,South,Consumer
+7722,Midwest,Corporate
+7723,West,Small Business
+7724,Midwest,Small Business
+7725,East,Small Business
+7726,South,Corporate
+7727,South,Corporate
+7728,South,Small Business
+7729,Midwest,Consumer
+7730,East,Small Business
+7731,West,Corporate
+7732,West,Consumer
+7733,East,Consumer
+7734,Midwest,Corporate
+7735,West,Consumer
+7736,East,Small Business
+7737,West,Corporate
+7738,South,Corporate
+7739,West,Corporate
+7740,Midwest,Corporate
+7741,East,Consumer
+7742,Midwest,Corporate
+7743,East,Corporate
+7744,South,Consumer
+7745,East,Corporate
+7746,West,Consumer
+7747,West,Consumer
+7748,South,Corporate
+7749,East,Small Business
+7750,South,Corporate
+7751,West,Small Business
+7752,Midwest,Consumer
+7753,South,Small Business
+7754,Midwest,Corporate
+7755,Midwest,Corporate
+7756,East,Small Business
+7757,South,Corporate
+7758,Midwest,Small Business
+7759,Midwest,Consumer
+7760,East,Small Business
+7761,East,Small Business
+7762,West,Small Business
+7763,Midwest,Small Business
+7764,West,Consumer
+7765,Midwest,Consumer
+7766,West,Consumer
+7767,East,Small Business
+7768,South,Consumer
+7769,East,Corporate
+7770,West,Consumer
+7771,West,Small Business
+7772,South,Corporate
+7773,Midwest,Small Business
+7774,West,Corporate
+7775,West,Small Business
+7776,West,Small Business
+7777,South,Corporate
+7778,East,Consumer
+7779,West,Corporate
+7780,South,Corporate
+7781,West,Corporate
+7782,Midwest,Corporate
+7783,South,Corporate
+7784,West,Small Business
+7785,South,Small Business
+7786,West,Consumer
+7787,East,Consumer
+7788,West,Corporate
+7789,South,Consumer
+7790,Midwest,Consumer
+7791,Midwest,Corporate
+7792,Midwest,Small Business
+7793,West,Small Business
+7794,East,Consumer
+7795,West,Small Business
+7796,Midwest,Small Business
+7797,South,Consumer
+7798,Midwest,Corporate
+7799,South,Consumer
+7800,East,Consumer
+7801,South,Consumer
+7802,West,Corporate
+7803,West,Corporate
+7804,West,Corporate
+7805,South,Corporate
+7806,West,Consumer
+7807,West,Small Business
+7808,West,Consumer
+7809,East,Corporate
+7810,South,Small Business
+7811,South,Consumer
+7812,Midwest,Small Business
+7813,South,Corporate
+7814,East,Small Business
+7815,South,Small Business
+7816,East,Corporate
+7817,East,Small Business
+7818,South,Consumer
+7819,Midwest,Small Business
+7820,West,Consumer
+7821,West,Small Business
+7822,South,Small Business
+7823,South,Corporate
+7824,East,Corporate
+7825,South,Consumer
+7826,East,Corporate
+7827,Midwest,Corporate
+7828,South,Corporate
+7829,West,Corporate
+7830,West,Corporate
+7831,South,Consumer
+7832,East,Consumer
+7833,West,Corporate
+7834,East,Corporate
+7835,South,Consumer
+7836,South,Small Business
+7837,West,Consumer
+7838,South,Small Business
+7839,Midwest,Corporate
+7840,Midwest,Corporate
+7841,West,Consumer
+7842,Midwest,Corporate
+7843,East,Small Business
+7844,West,Small Business
+7845,West,Consumer
+7846,East,Small Business
+7847,Midwest,Consumer
+7848,Midwest,Consumer
+7849,Midwest,Small Business
+7850,West,Small Business
+7851,West,Small Business
+7852,Midwest,Small Business
+7853,South,Small Business
+7854,Midwest,Small Business
+7855,East,Small Business
+7856,West,Corporate
+7857,East,Consumer
+7858,East,Consumer
+7859,West,Small Business
+7860,South,Consumer
+7861,Midwest,Small Business
+7862,East,Corporate
+7863,West,Consumer
+7864,East,Consumer
+7865,Midwest,Corporate
+7866,South,Corporate
+7867,South,Corporate
+7868,South,Consumer
+7869,West,Consumer
+7870,West,Corporate
+7871,South,Corporate
+7872,Midwest,Corporate
+7873,Midwest,Corporate
+7874,West,Corporate
+7875,South,Small Business
+7876,Midwest,Corporate
+7877,Midwest,Small Business
+7878,Midwest,Consumer
+7879,West,Consumer
+7880,South,Small Business
+7881,East,Corporate
+7882,South,Consumer
+7883,South,Corporate
+7884,West,Corporate
+7885,Midwest,Small Business
+7886,Midwest,Consumer
+7887,West,Consumer
+7888,West,Small Business
+7889,West,Corporate
+7890,West,Corporate
+7891,West,Consumer
+7892,East,Small Business
+7893,South,Small Business
+7894,South,Corporate
+7895,South,Corporate
+7896,Midwest,Small Business
+7897,East,Consumer
+7898,South,Corporate
+7899,Midwest,Small Business
+7900,East,Small Business
+7901,East,Small Business
+7902,Midwest,Consumer
+7903,East,Corporate
+7904,Midwest,Corporate
+7905,South,Corporate
+7906,Midwest,Consumer
+7907,East,Corporate
+7908,South,Corporate
+7909,South,Corporate
+7910,West,Corporate
+7911,West,Consumer
+7912,East,Small Business
+7913,Midwest,Small Business
+7914,Midwest,Corporate
+7915,East,Corporate
+7916,South,Corporate
+7917,East,Consumer
+7918,East,Corporate
+7919,South,Consumer
+7920,Midwest,Corporate
+7921,East,Corporate
+7922,Midwest,Small Business
+7923,East,Corporate
+7924,South,Consumer
+7925,South,Small Business
+7926,West,Consumer
+7927,South,Small Business
+7928,West,Consumer
+7929,East,Small Business
+7930,Midwest,Consumer
+7931,South,Consumer
+7932,South,Corporate
+7933,South,Small Business
+7934,East,Small Business
+7935,West,Corporate
+7936,East,Consumer
+7937,Midwest,Consumer
+7938,East,Small Business
+7939,Midwest,Consumer
+7940,South,Small Business
+7941,Midwest,Small Business
+7942,Midwest,Consumer
+7943,West,Consumer
+7944,Midwest,Consumer
+7945,Midwest,Corporate
+7946,East,Small Business
+7947,South,Consumer
+7948,East,Corporate
+7949,East,Consumer
+7950,South,Small Business
+7951,South,Corporate
+7952,Midwest,Small Business
+7953,Midwest,Consumer
+7954,West,Consumer
+7955,East,Consumer
+7956,South,Corporate
+7957,Midwest,Corporate
+7958,South,Corporate
+7959,Midwest,Corporate
+7960,West,Consumer
+7961,West,Consumer
+7962,South,Consumer
+7963,West,Corporate
+7964,South,Corporate
+7965,Midwest,Consumer
+7966,East,Consumer
+7967,West,Corporate
+7968,Midwest,Small Business
+7969,East,Consumer
+7970,East,Consumer
+7971,East,Consumer
+7972,Midwest,Corporate
+7973,Midwest,Consumer
+7974,South,Consumer
+7975,East,Consumer
+7976,East,Consumer
+7977,East,Consumer
+7978,South,Small Business
+7979,East,Small Business
+7980,Midwest,Consumer
+7981,East,Consumer
+7982,West,Consumer
+7983,Midwest,Consumer
+7984,South,Corporate
+7985,East,Corporate
+7986,West,Corporate
+7987,South,Small Business
+7988,South,Consumer
+7989,Midwest,Corporate
+7990,South,Consumer
+7991,South,Consumer
+7992,South,Small Business
+7993,South,Small Business
+7994,East,Corporate
+7995,East,Corporate
+7996,East,Small Business
+7997,East,Small Business
+7998,West,Consumer
+7999,East,Consumer
+8000,South,Corporate
